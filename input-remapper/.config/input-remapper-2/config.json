@@ -1,0 +1,6 @@
+{
+    "version": "2.0.1",
+    "autoload": {
+        "Evision AK820": "new preset"
+    }
+}
