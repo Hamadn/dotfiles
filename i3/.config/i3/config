@@ -191,8 +191,9 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 
 exec_always --no-startup-id autotiling
+exec_always --no-startup-id xrandr --output DP-4 --mode 2560x1440 -r 165.00
 exec_always --no-startup-id nitrogen --restore
-exec_always --no-startup-id picom -f
+exec_always --no-startup-id picom --experimental-backends --config $HOME/.config/i3/picom.conf
 exec_always --no-startup-id ~/.config/polybar/launch.sh --cuts &
 default_border none
 # default gaps
