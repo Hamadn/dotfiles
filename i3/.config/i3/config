@@ -55,8 +55,11 @@ bindsym $mod+k exec --no-startup-id wezterm
 bindsym $mod+c kill
 
 # start browser
-bindsym $mod+b exec --no-startup-id qutebrowser
+bindsym $mod+b exec --no-startup-id zen-browser
 bindsym $mod+Shift+b exec --no-startup-id thorium-browser
+
+# start i3lock
+bindsym $mod+l exec --no-startup-id i3lock
 
 # start dmenu (a program launcher)
 bindsym $mod+w exec --no-startup-id dmenu_run
