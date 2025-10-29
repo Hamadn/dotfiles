@@ -43,6 +43,7 @@ bindcode $mod+72 exec --no-startup-id brightnessctl set 10%+ && $refresh_i3statu
 bindcode $mod+71 exec --no-startup-id brightnessctl set 10%- && $refresh_i3status
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
+bindsym $mod+P exec flameshot full
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -61,8 +62,13 @@ bindsym $mod+c kill
 bindsym $mod+b exec --no-startup-id zen-browser
 bindsym $mod+Shift+b exec --no-startup-id thorium-browser
 
+# start winboat
+bindsym $mod+Mod1+w exec --no-startup-id /home/hamad/Applications/winboat-0.8.5-x86_64.AppImage
+
+
 bindsym $mod+Shift+w exec --no-startup-id ~/Downloads/Windsurf/windsurf
 
+bindsym Print exec flameshot full
 
 # start i3lock
 bindsym $mod+l exec --no-startup-id i3lock
@@ -169,6 +175,7 @@ bindsym $mod+Shift+r restart
 # exit i3 (logs you out of your X session)
 bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
 
+
 # resize window (you can also use the mouse for that)
 mode "resize" {
         # These bindings trigger as soon as you enter the resize mode
@@ -202,7 +209,7 @@ bindsym $mod+r mode "resize"
 exec_always --no-startup-id autotiling
 exec_always --no-startup-id xrandr --output DP-4 --mode 2560x1440 -r 165.00
 exec_always --no-startup-id nitrogen --restore
-exec_always --no-startup-id picom --config $HOME/.config/i3/picom.conf
+exec_always --no-startup-id picom --config ~/.config/i3/picom.conf &
 exec_always --no-startup-id ~/.config/polybar/launch.sh --cuts &
 default_border none
 # default gaps

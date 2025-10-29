@@ -11,6 +11,7 @@ config.window_padding = {
 	bottom = 0,
 }
 
+config.audible_bell = "Disabled"
 config.enable_tab_bar = false
 
 config.color_scheme = "Gruvbox Material (Gogh)"
@@ -51,6 +52,6 @@ end)
 
 config.window_decorations = "NONE"
 
-config.window_background_opacity = 0.85
+config.window_background_opacity = 0.5
 
 return config
