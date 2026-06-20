@@ -60,14 +60,11 @@ bindsym $mod+c kill
 
 # start browser
 bindsym $mod+b exec --no-startup-id zen-browser
-bindsym $mod+Shift+b exec --no-startup-id thorium-browser
 
 # start winboat
 bindsym $mod+Mod1+w exec --no-startup-id /home/hamad/Applications/winboat-0.8.5-x86_64.AppImage
 bindsym $mod+Mod1+s exec --no-startup-id /home/hamad/Downloads/SoulseekQt-2024-6-30.AppImage
 
-
-bindsym $mod+Shift+w exec --no-startup-id ~/Windsurf/windsurf
 
 bindsym Print exec flameshot full
 
