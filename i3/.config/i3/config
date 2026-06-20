@@ -64,9 +64,10 @@ bindsym $mod+Shift+b exec --no-startup-id thorium-browser
 
 # start winboat
 bindsym $mod+Mod1+w exec --no-startup-id /home/hamad/Applications/winboat-0.8.5-x86_64.AppImage
+bindsym $mod+Mod1+s exec --no-startup-id /home/hamad/Downloads/SoulseekQt-2024-6-30.AppImage
 
 
-bindsym $mod+Shift+w exec --no-startup-id ~/Downloads/Windsurf/windsurf
+bindsym $mod+Shift+w exec --no-startup-id ~/Windsurf/windsurf
 
 bindsym Print exec flameshot full
 
@@ -210,7 +211,7 @@ exec_always --no-startup-id autotiling
 exec_always --no-startup-id xrandr --output DP-4 --mode 2560x1440 -r 165.00
 exec_always --no-startup-id nitrogen --restore
 exec_always --no-startup-id picom --config ~/.config/i3/picom.conf &
-exec_always --no-startup-id ~/.config/polybar/launch.sh --cuts &
+exec_always --no-startup-id ~/.config/polybar/launch.sh --forest &
 default_border none
 # default gaps
 gaps inner 5
