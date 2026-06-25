@@ -14,7 +14,7 @@ config.window_padding = {
 config.audible_bell = "Disabled"
 config.enable_tab_bar = false
 
-config.color_scheme = "Gruvbox Material (Gogh)"
+config.color_scheme = "Hemisu Dark (Gogh)"
 
 wezterm.on("user-var-changed", function(window, pane, name, value)
 	local overrides = window:get_config_overrides() or {}
@@ -52,6 +52,6 @@ end)
 
 config.window_decorations = "NONE"
 
-config.window_background_opacity = 0.5
+config.window_background_opacity = 0.85
 
 return config
