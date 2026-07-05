@@ -172,4 +172,3 @@ unset __conda_setup
 # 14. OTHER
 # ---------------------------------------------------------------------------
 
-[ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
