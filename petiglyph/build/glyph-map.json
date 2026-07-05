@@ -1,0 +1,4992 @@
+[
+  {
+    "glyph_name": "battery_0001",
+    "source_file": "battery-0001.png",
+    "codepoint": "U+1002BF"
+  },
+  {
+    "glyph_name": "battery_0002",
+    "source_file": "battery-0002.png",
+    "codepoint": "U+1002C0"
+  },
+  {
+    "glyph_name": "battery_0003",
+    "source_file": "battery-0003.png",
+    "codepoint": "U+1002C1"
+  },
+  {
+    "glyph_name": "battery_0004",
+    "source_file": "battery-0004.png",
+    "codepoint": "U+1002C2"
+  },
+  {
+    "glyph_name": "battery_0005",
+    "source_file": "battery-0005.png",
+    "codepoint": "U+1002C3"
+  },
+  {
+    "glyph_name": "battery_0006",
+    "source_file": "battery-0006.png",
+    "codepoint": "U+1002C4"
+  },
+  {
+    "glyph_name": "battery_0007",
+    "source_file": "battery-0007.png",
+    "codepoint": "U+1002C5"
+  },
+  {
+    "glyph_name": "battery_0008",
+    "source_file": "battery-0008.png",
+    "codepoint": "U+1002C6"
+  },
+  {
+    "glyph_name": "battery_0009",
+    "source_file": "battery-0009.png",
+    "codepoint": "U+1002C7"
+  },
+  {
+    "glyph_name": "battery_0010",
+    "source_file": "battery-0010.png",
+    "codepoint": "U+1002C8"
+  },
+  {
+    "glyph_name": "battery_0011",
+    "source_file": "battery-0011.png",
+    "codepoint": "U+1002C9"
+  },
+  {
+    "glyph_name": "battery_0012",
+    "source_file": "battery-0012.png",
+    "codepoint": "U+1002CA"
+  },
+  {
+    "glyph_name": "battery_0013",
+    "source_file": "battery-0013.png",
+    "codepoint": "U+1002CB"
+  },
+  {
+    "glyph_name": "battery_0014",
+    "source_file": "battery-0014.png",
+    "codepoint": "U+1002CC"
+  },
+  {
+    "glyph_name": "battery_0015",
+    "source_file": "battery-0015.png",
+    "codepoint": "U+1002CD"
+  },
+  {
+    "glyph_name": "battery_0016",
+    "source_file": "battery-0016.png",
+    "codepoint": "U+1002CE"
+  },
+  {
+    "glyph_name": "battery_0017",
+    "source_file": "battery-0017.png",
+    "codepoint": "U+1002CF"
+  },
+  {
+    "glyph_name": "battery_0018",
+    "source_file": "battery-0018.png",
+    "codepoint": "U+1002D0"
+  },
+  {
+    "glyph_name": "battery_0019",
+    "source_file": "battery-0019.png",
+    "codepoint": "U+1002D1"
+  },
+  {
+    "glyph_name": "battery_0020",
+    "source_file": "battery-0020.png",
+    "codepoint": "U+1002D2"
+  },
+  {
+    "glyph_name": "battery_0021",
+    "source_file": "battery-0021.png",
+    "codepoint": "U+1002D3"
+  },
+  {
+    "glyph_name": "battery_0022",
+    "source_file": "battery-0022.png",
+    "codepoint": "U+1002D4"
+  },
+  {
+    "glyph_name": "battery_0023",
+    "source_file": "battery-0023.png",
+    "codepoint": "U+1002D5"
+  },
+  {
+    "glyph_name": "battery_0024",
+    "source_file": "battery-0024.png",
+    "codepoint": "U+1002D6"
+  },
+  {
+    "glyph_name": "battery_0025",
+    "source_file": "battery-0025.png",
+    "codepoint": "U+1002D7"
+  },
+  {
+    "glyph_name": "battery_0026",
+    "source_file": "battery-0026.png",
+    "codepoint": "U+1002D8"
+  },
+  {
+    "glyph_name": "battery_0027",
+    "source_file": "battery-0027.png",
+    "codepoint": "U+1002D9"
+  },
+  {
+    "glyph_name": "battery_0028",
+    "source_file": "battery-0028.png",
+    "codepoint": "U+1002DA"
+  },
+  {
+    "glyph_name": "battery_0029",
+    "source_file": "battery-0029.png",
+    "codepoint": "U+1002DB"
+  },
+  {
+    "glyph_name": "battery_0030",
+    "source_file": "battery-0030.png",
+    "codepoint": "U+1002DC"
+  },
+  {
+    "glyph_name": "battery_0031",
+    "source_file": "battery-0031.png",
+    "codepoint": "U+1002DD"
+  },
+  {
+    "glyph_name": "battery_0032",
+    "source_file": "battery-0032.png",
+    "codepoint": "U+1002DE"
+  },
+  {
+    "glyph_name": "battery_0033",
+    "source_file": "battery-0033.png",
+    "codepoint": "U+1002DF"
+  },
+  {
+    "glyph_name": "battery_0034",
+    "source_file": "battery-0034.png",
+    "codepoint": "U+1002E0"
+  },
+  {
+    "glyph_name": "battery_0035",
+    "source_file": "battery-0035.png",
+    "codepoint": "U+1002E1"
+  },
+  {
+    "glyph_name": "battery_0036",
+    "source_file": "battery-0036.png",
+    "codepoint": "U+1002E2"
+  },
+  {
+    "glyph_name": "battery_0037",
+    "source_file": "battery-0037.png",
+    "codepoint": "U+1002E3"
+  },
+  {
+    "glyph_name": "battery_0038",
+    "source_file": "battery-0038.png",
+    "codepoint": "U+1002E4"
+  },
+  {
+    "glyph_name": "battery_0039",
+    "source_file": "battery-0039.png",
+    "codepoint": "U+1002E5"
+  },
+  {
+    "glyph_name": "battery_0040",
+    "source_file": "battery-0040.png",
+    "codepoint": "U+1002E6"
+  },
+  {
+    "glyph_name": "battery_0041",
+    "source_file": "battery-0041.png",
+    "codepoint": "U+1002E7"
+  },
+  {
+    "glyph_name": "battery_0042",
+    "source_file": "battery-0042.png",
+    "codepoint": "U+1002E8"
+  },
+  {
+    "glyph_name": "battery_0043",
+    "source_file": "battery-0043.png",
+    "codepoint": "U+1002E9"
+  },
+  {
+    "glyph_name": "battery_0044",
+    "source_file": "battery-0044.png",
+    "codepoint": "U+1002EA"
+  },
+  {
+    "glyph_name": "battery_0045",
+    "source_file": "battery-0045.png",
+    "codepoint": "U+1002EB"
+  },
+  {
+    "glyph_name": "battery_0046",
+    "source_file": "battery-0046.png",
+    "codepoint": "U+1002EC"
+  },
+  {
+    "glyph_name": "battery_0047",
+    "source_file": "battery-0047.png",
+    "codepoint": "U+1002ED"
+  },
+  {
+    "glyph_name": "battery_0048",
+    "source_file": "battery-0048.png",
+    "codepoint": "U+1002EE"
+  },
+  {
+    "glyph_name": "battery_0049",
+    "source_file": "battery-0049.png",
+    "codepoint": "U+1002EF"
+  },
+  {
+    "glyph_name": "battery_0050",
+    "source_file": "battery-0050.png",
+    "codepoint": "U+1002F0"
+  },
+  {
+    "glyph_name": "battery_0051",
+    "source_file": "battery-0051.png",
+    "codepoint": "U+1002F1"
+  },
+  {
+    "glyph_name": "battery_0052",
+    "source_file": "battery-0052.png",
+    "codepoint": "U+1002F2"
+  },
+  {
+    "glyph_name": "battery_0053",
+    "source_file": "battery-0053.png",
+    "codepoint": "U+1002F3"
+  },
+  {
+    "glyph_name": "battery_0054",
+    "source_file": "battery-0054.png",
+    "codepoint": "U+1002F4"
+  },
+  {
+    "glyph_name": "battery_0055",
+    "source_file": "battery-0055.png",
+    "codepoint": "U+1002F5"
+  },
+  {
+    "glyph_name": "battery_0056",
+    "source_file": "battery-0056.png",
+    "codepoint": "U+1002F6"
+  },
+  {
+    "glyph_name": "battery_0057",
+    "source_file": "battery-0057.png",
+    "codepoint": "U+1002F7"
+  },
+  {
+    "glyph_name": "battery_0058",
+    "source_file": "battery-0058.png",
+    "codepoint": "U+1002F8"
+  },
+  {
+    "glyph_name": "battery_0059",
+    "source_file": "battery-0059.png",
+    "codepoint": "U+1002F9"
+  },
+  {
+    "glyph_name": "battery_0060",
+    "source_file": "battery-0060.png",
+    "codepoint": "U+1002FA"
+  },
+  {
+    "glyph_name": "battery_0061",
+    "source_file": "battery-0061.png",
+    "codepoint": "U+1002FB"
+  },
+  {
+    "glyph_name": "battery_0062",
+    "source_file": "battery-0062.png",
+    "codepoint": "U+1002FC"
+  },
+  {
+    "glyph_name": "battery_0063",
+    "source_file": "battery-0063.png",
+    "codepoint": "U+1002FD"
+  },
+  {
+    "glyph_name": "battery_0064",
+    "source_file": "battery-0064.png",
+    "codepoint": "U+1002FE"
+  },
+  {
+    "glyph_name": "battery_0065",
+    "source_file": "battery-0065.png",
+    "codepoint": "U+1002FF"
+  },
+  {
+    "glyph_name": "battery_0066",
+    "source_file": "battery-0066.png",
+    "codepoint": "U+100300"
+  },
+  {
+    "glyph_name": "battery_0067",
+    "source_file": "battery-0067.png",
+    "codepoint": "U+100301"
+  },
+  {
+    "glyph_name": "battery_0068",
+    "source_file": "battery-0068.png",
+    "codepoint": "U+100302"
+  },
+  {
+    "glyph_name": "battery_0069",
+    "source_file": "battery-0069.png",
+    "codepoint": "U+100303"
+  },
+  {
+    "glyph_name": "battery_0070",
+    "source_file": "battery-0070.png",
+    "codepoint": "U+100304"
+  },
+  {
+    "glyph_name": "battery_0071",
+    "source_file": "battery-0071.png",
+    "codepoint": "U+100305"
+  },
+  {
+    "glyph_name": "battery_0072",
+    "source_file": "battery-0072.png",
+    "codepoint": "U+100306"
+  },
+  {
+    "glyph_name": "battery_0073",
+    "source_file": "battery-0073.png",
+    "codepoint": "U+100307"
+  },
+  {
+    "glyph_name": "brightness_0001",
+    "source_file": "brightness-0001.png",
+    "codepoint": "U+1003B0"
+  },
+  {
+    "glyph_name": "brightness_0002",
+    "source_file": "brightness-0002.png",
+    "codepoint": "U+1003B1"
+  },
+  {
+    "glyph_name": "brightness_0003",
+    "source_file": "brightness-0003.png",
+    "codepoint": "U+1003B2"
+  },
+  {
+    "glyph_name": "brightness_0004",
+    "source_file": "brightness-0004.png",
+    "codepoint": "U+1003B3"
+  },
+  {
+    "glyph_name": "brightness_0005",
+    "source_file": "brightness-0005.png",
+    "codepoint": "U+1003B4"
+  },
+  {
+    "glyph_name": "brightness_0006",
+    "source_file": "brightness-0006.png",
+    "codepoint": "U+1003B5"
+  },
+  {
+    "glyph_name": "brightness_0007",
+    "source_file": "brightness-0007.png",
+    "codepoint": "U+1003B6"
+  },
+  {
+    "glyph_name": "brightness_0008",
+    "source_file": "brightness-0008.png",
+    "codepoint": "U+1003B7"
+  },
+  {
+    "glyph_name": "brightness_0009",
+    "source_file": "brightness-0009.png",
+    "codepoint": "U+1003B8"
+  },
+  {
+    "glyph_name": "brightness_0010",
+    "source_file": "brightness-0010.png",
+    "codepoint": "U+1003B9"
+  },
+  {
+    "glyph_name": "brightness_0011",
+    "source_file": "brightness-0011.png",
+    "codepoint": "U+1003BA"
+  },
+  {
+    "glyph_name": "brightness_0012",
+    "source_file": "brightness-0012.png",
+    "codepoint": "U+1003BB"
+  },
+  {
+    "glyph_name": "brightness_0013",
+    "source_file": "brightness-0013.png",
+    "codepoint": "U+1003BC"
+  },
+  {
+    "glyph_name": "brightness_0014",
+    "source_file": "brightness-0014.png",
+    "codepoint": "U+1003BD"
+  },
+  {
+    "glyph_name": "brightness_0015",
+    "source_file": "brightness-0015.png",
+    "codepoint": "U+1003BE"
+  },
+  {
+    "glyph_name": "brightness_0016",
+    "source_file": "brightness-0016.png",
+    "codepoint": "U+1003BF"
+  },
+  {
+    "glyph_name": "brightness_0017",
+    "source_file": "brightness-0017.png",
+    "codepoint": "U+1003C0"
+  },
+  {
+    "glyph_name": "brightness_0018",
+    "source_file": "brightness-0018.png",
+    "codepoint": "U+1003C1"
+  },
+  {
+    "glyph_name": "brightness_0019",
+    "source_file": "brightness-0019.png",
+    "codepoint": "U+1003C2"
+  },
+  {
+    "glyph_name": "brightness_0020",
+    "source_file": "brightness-0020.png",
+    "codepoint": "U+1003C3"
+  },
+  {
+    "glyph_name": "brightness_0021",
+    "source_file": "brightness-0021.png",
+    "codepoint": "U+1003C4"
+  },
+  {
+    "glyph_name": "brightness_0022",
+    "source_file": "brightness-0022.png",
+    "codepoint": "U+1003C5"
+  },
+  {
+    "glyph_name": "brightness_0023",
+    "source_file": "brightness-0023.png",
+    "codepoint": "U+1003C6"
+  },
+  {
+    "glyph_name": "brightness_0024",
+    "source_file": "brightness-0024.png",
+    "codepoint": "U+1003C7"
+  },
+  {
+    "glyph_name": "brightness_0025",
+    "source_file": "brightness-0025.png",
+    "codepoint": "U+1003C8"
+  },
+  {
+    "glyph_name": "brightness_0026",
+    "source_file": "brightness-0026.png",
+    "codepoint": "U+1003C9"
+  },
+  {
+    "glyph_name": "brightness_0027",
+    "source_file": "brightness-0027.png",
+    "codepoint": "U+1003CA"
+  },
+  {
+    "glyph_name": "brightness_0028",
+    "source_file": "brightness-0028.png",
+    "codepoint": "U+1003CB"
+  },
+  {
+    "glyph_name": "brightness_0029",
+    "source_file": "brightness-0029.png",
+    "codepoint": "U+1003CC"
+  },
+  {
+    "glyph_name": "brightness_0030",
+    "source_file": "brightness-0030.png",
+    "codepoint": "U+1003CD"
+  },
+  {
+    "glyph_name": "brightness_0031",
+    "source_file": "brightness-0031.png",
+    "codepoint": "U+1003CE"
+  },
+  {
+    "glyph_name": "brightness_0032",
+    "source_file": "brightness-0032.png",
+    "codepoint": "U+1003CF"
+  },
+  {
+    "glyph_name": "brightness_0033",
+    "source_file": "brightness-0033.png",
+    "codepoint": "U+1003D0"
+  },
+  {
+    "glyph_name": "brightness_0034",
+    "source_file": "brightness-0034.png",
+    "codepoint": "U+1003D1"
+  },
+  {
+    "glyph_name": "brightness_0035",
+    "source_file": "brightness-0035.png",
+    "codepoint": "U+1003D2"
+  },
+  {
+    "glyph_name": "brightness_0036",
+    "source_file": "brightness-0036.png",
+    "codepoint": "U+1003D3"
+  },
+  {
+    "glyph_name": "brightness_0037",
+    "source_file": "brightness-0037.png",
+    "codepoint": "U+1003D4"
+  },
+  {
+    "glyph_name": "brightness_0038",
+    "source_file": "brightness-0038.png",
+    "codepoint": "U+1003D5"
+  },
+  {
+    "glyph_name": "brightness_0039",
+    "source_file": "brightness-0039.png",
+    "codepoint": "U+1003D6"
+  },
+  {
+    "glyph_name": "brightness_0040",
+    "source_file": "brightness-0040.png",
+    "codepoint": "U+1003D7"
+  },
+  {
+    "glyph_name": "brightness_0041",
+    "source_file": "brightness-0041.png",
+    "codepoint": "U+1003D8"
+  },
+  {
+    "glyph_name": "brightness_0042",
+    "source_file": "brightness-0042.png",
+    "codepoint": "U+1003D9"
+  },
+  {
+    "glyph_name": "brightness_0043",
+    "source_file": "brightness-0043.png",
+    "codepoint": "U+1003DA"
+  },
+  {
+    "glyph_name": "brightness_0044",
+    "source_file": "brightness-0044.png",
+    "codepoint": "U+1003DB"
+  },
+  {
+    "glyph_name": "brightness_0045",
+    "source_file": "brightness-0045.png",
+    "codepoint": "U+1003DC"
+  },
+  {
+    "glyph_name": "brightness_0046",
+    "source_file": "brightness-0046.png",
+    "codepoint": "U+1003DD"
+  },
+  {
+    "glyph_name": "brightness_0047",
+    "source_file": "brightness-0047.png",
+    "codepoint": "U+1003DE"
+  },
+  {
+    "glyph_name": "brightness_0048",
+    "source_file": "brightness-0048.png",
+    "codepoint": "U+1003DF"
+  },
+  {
+    "glyph_name": "brightness_0049",
+    "source_file": "brightness-0049.png",
+    "codepoint": "U+1003E0"
+  },
+  {
+    "glyph_name": "brightness_0050",
+    "source_file": "brightness-0050.png",
+    "codepoint": "U+1003E1"
+  },
+  {
+    "glyph_name": "brightness_0051",
+    "source_file": "brightness-0051.png",
+    "codepoint": "U+1003E2"
+  },
+  {
+    "glyph_name": "brightness_0052",
+    "source_file": "brightness-0052.png",
+    "codepoint": "U+1003E3"
+  },
+  {
+    "glyph_name": "brightness_0053",
+    "source_file": "brightness-0053.png",
+    "codepoint": "U+1003E4"
+  },
+  {
+    "glyph_name": "brightness_0054",
+    "source_file": "brightness-0054.png",
+    "codepoint": "U+1003E5"
+  },
+  {
+    "glyph_name": "brightness_0055",
+    "source_file": "brightness-0055.png",
+    "codepoint": "U+1003E6"
+  },
+  {
+    "glyph_name": "brightness_0056",
+    "source_file": "brightness-0056.png",
+    "codepoint": "U+1003E7"
+  },
+  {
+    "glyph_name": "brightness_0057",
+    "source_file": "brightness-0057.png",
+    "codepoint": "U+1003E8"
+  },
+  {
+    "glyph_name": "brightness_0058",
+    "source_file": "brightness-0058.png",
+    "codepoint": "U+1003E9"
+  },
+  {
+    "glyph_name": "brightness_0059",
+    "source_file": "brightness-0059.png",
+    "codepoint": "U+1003EA"
+  },
+  {
+    "glyph_name": "brightness_0060",
+    "source_file": "brightness-0060.png",
+    "codepoint": "U+1003EB"
+  },
+  {
+    "glyph_name": "business_0001",
+    "source_file": "business-0001.png",
+    "codepoint": "U+1001AB"
+  },
+  {
+    "glyph_name": "business_0002",
+    "source_file": "business-0002.png",
+    "codepoint": "U+1001AC"
+  },
+  {
+    "glyph_name": "business_0003",
+    "source_file": "business-0003.png",
+    "codepoint": "U+1001AD"
+  },
+  {
+    "glyph_name": "business_0004",
+    "source_file": "business-0004.png",
+    "codepoint": "U+1001AE"
+  },
+  {
+    "glyph_name": "business_0005",
+    "source_file": "business-0005.png",
+    "codepoint": "U+1001AF"
+  },
+  {
+    "glyph_name": "business_0006",
+    "source_file": "business-0006.png",
+    "codepoint": "U+1001B0"
+  },
+  {
+    "glyph_name": "business_0007",
+    "source_file": "business-0007.png",
+    "codepoint": "U+1001B1"
+  },
+  {
+    "glyph_name": "business_0008",
+    "source_file": "business-0008.png",
+    "codepoint": "U+1001B2"
+  },
+  {
+    "glyph_name": "business_0009",
+    "source_file": "business-0009.png",
+    "codepoint": "U+1001B3"
+  },
+  {
+    "glyph_name": "business_0010",
+    "source_file": "business-0010.png",
+    "codepoint": "U+1001B4"
+  },
+  {
+    "glyph_name": "business_0011",
+    "source_file": "business-0011.png",
+    "codepoint": "U+1001B5"
+  },
+  {
+    "glyph_name": "business_0012",
+    "source_file": "business-0012.png",
+    "codepoint": "U+1001B6"
+  },
+  {
+    "glyph_name": "business_0013",
+    "source_file": "business-0013.png",
+    "codepoint": "U+1001B7"
+  },
+  {
+    "glyph_name": "business_0014",
+    "source_file": "business-0014.png",
+    "codepoint": "U+1001B8"
+  },
+  {
+    "glyph_name": "business_0015",
+    "source_file": "business-0015.png",
+    "codepoint": "U+1001B9"
+  },
+  {
+    "glyph_name": "business_0016",
+    "source_file": "business-0016.png",
+    "codepoint": "U+1001BA"
+  },
+  {
+    "glyph_name": "business_0017",
+    "source_file": "business-0017.png",
+    "codepoint": "U+1001BB"
+  },
+  {
+    "glyph_name": "business_0018",
+    "source_file": "business-0018.png",
+    "codepoint": "U+1001BC"
+  },
+  {
+    "glyph_name": "business_0019",
+    "source_file": "business-0019.png",
+    "codepoint": "U+1001BD"
+  },
+  {
+    "glyph_name": "business_0020",
+    "source_file": "business-0020.png",
+    "codepoint": "U+1001BE"
+  },
+  {
+    "glyph_name": "business_0021",
+    "source_file": "business-0021.png",
+    "codepoint": "U+1001BF"
+  },
+  {
+    "glyph_name": "business_0022",
+    "source_file": "business-0022.png",
+    "codepoint": "U+1001C0"
+  },
+  {
+    "glyph_name": "business_0023",
+    "source_file": "business-0023.png",
+    "codepoint": "U+1001C1"
+  },
+  {
+    "glyph_name": "business_0024",
+    "source_file": "business-0024.png",
+    "codepoint": "U+1001C2"
+  },
+  {
+    "glyph_name": "business_0025",
+    "source_file": "business-0025.png",
+    "codepoint": "U+1001C3"
+  },
+  {
+    "glyph_name": "business_0026",
+    "source_file": "business-0026.png",
+    "codepoint": "U+1001C4"
+  },
+  {
+    "glyph_name": "business_0027",
+    "source_file": "business-0027.png",
+    "codepoint": "U+1001C5"
+  },
+  {
+    "glyph_name": "business_0028",
+    "source_file": "business-0028.png",
+    "codepoint": "U+1001C6"
+  },
+  {
+    "glyph_name": "business_0029",
+    "source_file": "business-0029.png",
+    "codepoint": "U+1001C7"
+  },
+  {
+    "glyph_name": "business_0030",
+    "source_file": "business-0030.png",
+    "codepoint": "U+1001C8"
+  },
+  {
+    "glyph_name": "business_0031",
+    "source_file": "business-0031.png",
+    "codepoint": "U+1001C9"
+  },
+  {
+    "glyph_name": "business_0032",
+    "source_file": "business-0032.png",
+    "codepoint": "U+1001CA"
+  },
+  {
+    "glyph_name": "business_0033",
+    "source_file": "business-0033.png",
+    "codepoint": "U+1001CB"
+  },
+  {
+    "glyph_name": "business_0034",
+    "source_file": "business-0034.png",
+    "codepoint": "U+1001CC"
+  },
+  {
+    "glyph_name": "business_0035",
+    "source_file": "business-0035.png",
+    "codepoint": "U+1001CD"
+  },
+  {
+    "glyph_name": "business_0036",
+    "source_file": "business-0036.png",
+    "codepoint": "U+1001CE"
+  },
+  {
+    "glyph_name": "business_0037",
+    "source_file": "business-0037.png",
+    "codepoint": "U+1001CF"
+  },
+  {
+    "glyph_name": "business_0038",
+    "source_file": "business-0038.png",
+    "codepoint": "U+1001D0"
+  },
+  {
+    "glyph_name": "business_0039",
+    "source_file": "business-0039.png",
+    "codepoint": "U+1001D1"
+  },
+  {
+    "glyph_name": "business_0040",
+    "source_file": "business-0040.png",
+    "codepoint": "U+1001D2"
+  },
+  {
+    "glyph_name": "business_0041",
+    "source_file": "business-0041.png",
+    "codepoint": "U+1001D3"
+  },
+  {
+    "glyph_name": "business_0042",
+    "source_file": "business-0042.png",
+    "codepoint": "U+1001D4"
+  },
+  {
+    "glyph_name": "business_0043",
+    "source_file": "business-0043.png",
+    "codepoint": "U+1001D5"
+  },
+  {
+    "glyph_name": "business_0044",
+    "source_file": "business-0044.png",
+    "codepoint": "U+1001D6"
+  },
+  {
+    "glyph_name": "business_0045",
+    "source_file": "business-0045.png",
+    "codepoint": "U+1001D7"
+  },
+  {
+    "glyph_name": "business_0046",
+    "source_file": "business-0046.png",
+    "codepoint": "U+1001D8"
+  },
+  {
+    "glyph_name": "business_0047",
+    "source_file": "business-0047.png",
+    "codepoint": "U+1001D9"
+  },
+  {
+    "glyph_name": "business_0048",
+    "source_file": "business-0048.png",
+    "codepoint": "U+1001DA"
+  },
+  {
+    "glyph_name": "business_0049",
+    "source_file": "business-0049.png",
+    "codepoint": "U+1001DB"
+  },
+  {
+    "glyph_name": "business_0050",
+    "source_file": "business-0050.png",
+    "codepoint": "U+1001DC"
+  },
+  {
+    "glyph_name": "business_0051",
+    "source_file": "business-0051.png",
+    "codepoint": "U+1001DD"
+  },
+  {
+    "glyph_name": "business_0052",
+    "source_file": "business-0052.png",
+    "codepoint": "U+1001DE"
+  },
+  {
+    "glyph_name": "business_0053",
+    "source_file": "business-0053.png",
+    "codepoint": "U+1001DF"
+  },
+  {
+    "glyph_name": "business_0054",
+    "source_file": "business-0054.png",
+    "codepoint": "U+1001E0"
+  },
+  {
+    "glyph_name": "business_0055",
+    "source_file": "business-0055.png",
+    "codepoint": "U+1001E1"
+  },
+  {
+    "glyph_name": "business_0056",
+    "source_file": "business-0056.png",
+    "codepoint": "U+1001E2"
+  },
+  {
+    "glyph_name": "business_0057",
+    "source_file": "business-0057.png",
+    "codepoint": "U+1001E3"
+  },
+  {
+    "glyph_name": "business_0058",
+    "source_file": "business-0058.png",
+    "codepoint": "U+1001E4"
+  },
+  {
+    "glyph_name": "business_0059",
+    "source_file": "business-0059.png",
+    "codepoint": "U+1001E5"
+  },
+  {
+    "glyph_name": "business_0060",
+    "source_file": "business-0060.png",
+    "codepoint": "U+1001E6"
+  },
+  {
+    "glyph_name": "business_0061",
+    "source_file": "business-0061.png",
+    "codepoint": "U+1001E7"
+  },
+  {
+    "glyph_name": "business_0062",
+    "source_file": "business-0062.png",
+    "codepoint": "U+1001E8"
+  },
+  {
+    "glyph_name": "business_0063",
+    "source_file": "business-0063.png",
+    "codepoint": "U+1001E9"
+  },
+  {
+    "glyph_name": "business_0064",
+    "source_file": "business-0064.png",
+    "codepoint": "U+1001EA"
+  },
+  {
+    "glyph_name": "cpu_0001",
+    "source_file": "cpu-0001.png",
+    "codepoint": "U+100098"
+  },
+  {
+    "glyph_name": "cpu_0002",
+    "source_file": "cpu-0002.png",
+    "codepoint": "U+100099"
+  },
+  {
+    "glyph_name": "cpu_0003",
+    "source_file": "cpu-0003.png",
+    "codepoint": "U+10009A"
+  },
+  {
+    "glyph_name": "cpu_0004",
+    "source_file": "cpu-0004.png",
+    "codepoint": "U+10009B"
+  },
+  {
+    "glyph_name": "cpu_0005",
+    "source_file": "cpu-0005.png",
+    "codepoint": "U+10009C"
+  },
+  {
+    "glyph_name": "cpu_0006",
+    "source_file": "cpu-0006.png",
+    "codepoint": "U+10009D"
+  },
+  {
+    "glyph_name": "cpu_0007",
+    "source_file": "cpu-0007.png",
+    "codepoint": "U+10009E"
+  },
+  {
+    "glyph_name": "cpu_0008",
+    "source_file": "cpu-0008.png",
+    "codepoint": "U+10009F"
+  },
+  {
+    "glyph_name": "cpu_0009",
+    "source_file": "cpu-0009.png",
+    "codepoint": "U+1000A0"
+  },
+  {
+    "glyph_name": "cpu_0010",
+    "source_file": "cpu-0010.png",
+    "codepoint": "U+1000A1"
+  },
+  {
+    "glyph_name": "cpu_0011",
+    "source_file": "cpu-0011.png",
+    "codepoint": "U+1000A2"
+  },
+  {
+    "glyph_name": "cpu_0012",
+    "source_file": "cpu-0012.png",
+    "codepoint": "U+1000A3"
+  },
+  {
+    "glyph_name": "cpu_0013",
+    "source_file": "cpu-0013.png",
+    "codepoint": "U+1000A4"
+  },
+  {
+    "glyph_name": "cpu_0014",
+    "source_file": "cpu-0014.png",
+    "codepoint": "U+1000A5"
+  },
+  {
+    "glyph_name": "cpu_0015",
+    "source_file": "cpu-0015.png",
+    "codepoint": "U+1000A6"
+  },
+  {
+    "glyph_name": "cpu_0016",
+    "source_file": "cpu-0016.png",
+    "codepoint": "U+1000A7"
+  },
+  {
+    "glyph_name": "cpu_0017",
+    "source_file": "cpu-0017.png",
+    "codepoint": "U+1000A8"
+  },
+  {
+    "glyph_name": "cpu_0018",
+    "source_file": "cpu-0018.png",
+    "codepoint": "U+1000A9"
+  },
+  {
+    "glyph_name": "cpu_0019",
+    "source_file": "cpu-0019.png",
+    "codepoint": "U+1000AA"
+  },
+  {
+    "glyph_name": "cpu_0020",
+    "source_file": "cpu-0020.png",
+    "codepoint": "U+1000AB"
+  },
+  {
+    "glyph_name": "cpu_0021",
+    "source_file": "cpu-0021.png",
+    "codepoint": "U+1000AC"
+  },
+  {
+    "glyph_name": "cpu_0022",
+    "source_file": "cpu-0022.png",
+    "codepoint": "U+1000AD"
+  },
+  {
+    "glyph_name": "cpu_0023",
+    "source_file": "cpu-0023.png",
+    "codepoint": "U+1000AE"
+  },
+  {
+    "glyph_name": "cpu_0024",
+    "source_file": "cpu-0024.png",
+    "codepoint": "U+1000AF"
+  },
+  {
+    "glyph_name": "cpu_0025",
+    "source_file": "cpu-0025.png",
+    "codepoint": "U+1000B0"
+  },
+  {
+    "glyph_name": "cpu_0026",
+    "source_file": "cpu-0026.png",
+    "codepoint": "U+1000B1"
+  },
+  {
+    "glyph_name": "cpu_0027",
+    "source_file": "cpu-0027.png",
+    "codepoint": "U+1000B2"
+  },
+  {
+    "glyph_name": "cpu_0028",
+    "source_file": "cpu-0028.png",
+    "codepoint": "U+1000B3"
+  },
+  {
+    "glyph_name": "cpu_0029",
+    "source_file": "cpu-0029.png",
+    "codepoint": "U+1000B4"
+  },
+  {
+    "glyph_name": "cpu_0030",
+    "source_file": "cpu-0030.png",
+    "codepoint": "U+1000B5"
+  },
+  {
+    "glyph_name": "cpu_0031",
+    "source_file": "cpu-0031.png",
+    "codepoint": "U+1000B6"
+  },
+  {
+    "glyph_name": "cpu_0032",
+    "source_file": "cpu-0032.png",
+    "codepoint": "U+1000B7"
+  },
+  {
+    "glyph_name": "cpu_0033",
+    "source_file": "cpu-0033.png",
+    "codepoint": "U+1000B8"
+  },
+  {
+    "glyph_name": "cpu_0034",
+    "source_file": "cpu-0034.png",
+    "codepoint": "U+1000B9"
+  },
+  {
+    "glyph_name": "cpu_0035",
+    "source_file": "cpu-0035.png",
+    "codepoint": "U+1000BA"
+  },
+  {
+    "glyph_name": "cpu_0036",
+    "source_file": "cpu-0036.png",
+    "codepoint": "U+1000BB"
+  },
+  {
+    "glyph_name": "cpu_0037",
+    "source_file": "cpu-0037.png",
+    "codepoint": "U+1000BC"
+  },
+  {
+    "glyph_name": "cpu_0038",
+    "source_file": "cpu-0038.png",
+    "codepoint": "U+1000BD"
+  },
+  {
+    "glyph_name": "cpu_0039",
+    "source_file": "cpu-0039.png",
+    "codepoint": "U+1000BE"
+  },
+  {
+    "glyph_name": "cpu_0040",
+    "source_file": "cpu-0040.png",
+    "codepoint": "U+1000BF"
+  },
+  {
+    "glyph_name": "cpu_0041",
+    "source_file": "cpu-0041.png",
+    "codepoint": "U+1000C0"
+  },
+  {
+    "glyph_name": "cpu_0042",
+    "source_file": "cpu-0042.png",
+    "codepoint": "U+1000C1"
+  },
+  {
+    "glyph_name": "cpu_0043",
+    "source_file": "cpu-0043.png",
+    "codepoint": "U+1000C2"
+  },
+  {
+    "glyph_name": "cpu_0044",
+    "source_file": "cpu-0044.png",
+    "codepoint": "U+1000C3"
+  },
+  {
+    "glyph_name": "cpu_0045",
+    "source_file": "cpu-0045.png",
+    "codepoint": "U+1000C4"
+  },
+  {
+    "glyph_name": "cpu_0046",
+    "source_file": "cpu-0046.png",
+    "codepoint": "U+1000C5"
+  },
+  {
+    "glyph_name": "cpu_0047",
+    "source_file": "cpu-0047.png",
+    "codepoint": "U+1000C6"
+  },
+  {
+    "glyph_name": "cpu_0048",
+    "source_file": "cpu-0048.png",
+    "codepoint": "U+1000C7"
+  },
+  {
+    "glyph_name": "cpu_0049",
+    "source_file": "cpu-0049.png",
+    "codepoint": "U+1000C8"
+  },
+  {
+    "glyph_name": "cpu_0050",
+    "source_file": "cpu-0050.png",
+    "codepoint": "U+1000C9"
+  },
+  {
+    "glyph_name": "cpu_0051",
+    "source_file": "cpu-0051.png",
+    "codepoint": "U+1000CA"
+  },
+  {
+    "glyph_name": "cpu_0052",
+    "source_file": "cpu-0052.png",
+    "codepoint": "U+1000CB"
+  },
+  {
+    "glyph_name": "cpu_0053",
+    "source_file": "cpu-0053.png",
+    "codepoint": "U+1000CC"
+  },
+  {
+    "glyph_name": "cpu_0054",
+    "source_file": "cpu-0054.png",
+    "codepoint": "U+1000CD"
+  },
+  {
+    "glyph_name": "cpu_0055",
+    "source_file": "cpu-0055.png",
+    "codepoint": "U+1000CE"
+  },
+  {
+    "glyph_name": "cpu_0056",
+    "source_file": "cpu-0056.png",
+    "codepoint": "U+1000CF"
+  },
+  {
+    "glyph_name": "cpu_0057",
+    "source_file": "cpu-0057.png",
+    "codepoint": "U+1000D0"
+  },
+  {
+    "glyph_name": "cpu_0058",
+    "source_file": "cpu-0058.png",
+    "codepoint": "U+1000D1"
+  },
+  {
+    "glyph_name": "cpu_0059",
+    "source_file": "cpu-0059.png",
+    "codepoint": "U+1000D2"
+  },
+  {
+    "glyph_name": "cpu_0060",
+    "source_file": "cpu-0060.png",
+    "codepoint": "U+1000D3"
+  },
+  {
+    "glyph_name": "cpu_0061",
+    "source_file": "cpu-0061.png",
+    "codepoint": "U+1000D4"
+  },
+  {
+    "glyph_name": "cpu_0062",
+    "source_file": "cpu-0062.png",
+    "codepoint": "U+1000D5"
+  },
+  {
+    "glyph_name": "cpu_0063",
+    "source_file": "cpu-0063.png",
+    "codepoint": "U+1000D6"
+  },
+  {
+    "glyph_name": "cpu_0064",
+    "source_file": "cpu-0064.png",
+    "codepoint": "U+1000D7"
+  },
+  {
+    "glyph_name": "cpu_0065",
+    "source_file": "cpu-0065.png",
+    "codepoint": "U+1000D8"
+  },
+  {
+    "glyph_name": "cpu_0066",
+    "source_file": "cpu-0066.png",
+    "codepoint": "U+1000D9"
+  },
+  {
+    "glyph_name": "cpu_0067",
+    "source_file": "cpu-0067.png",
+    "codepoint": "U+1000DA"
+  },
+  {
+    "glyph_name": "cpu_0068",
+    "source_file": "cpu-0068.png",
+    "codepoint": "U+1000DB"
+  },
+  {
+    "glyph_name": "cpu_0069",
+    "source_file": "cpu-0069.png",
+    "codepoint": "U+1000DC"
+  },
+  {
+    "glyph_name": "cpu_0070",
+    "source_file": "cpu-0070.png",
+    "codepoint": "U+1000DD"
+  },
+  {
+    "glyph_name": "cpu_0071",
+    "source_file": "cpu-0071.png",
+    "codepoint": "U+1000DE"
+  },
+  {
+    "glyph_name": "cpu_0072",
+    "source_file": "cpu-0072.png",
+    "codepoint": "U+1000DF"
+  },
+  {
+    "glyph_name": "cpu_0073",
+    "source_file": "cpu-0073.png",
+    "codepoint": "U+1000E0"
+  },
+  {
+    "glyph_name": "cpu_0074",
+    "source_file": "cpu-0074.png",
+    "codepoint": "U+1000E1"
+  },
+  {
+    "glyph_name": "cpu_0075",
+    "source_file": "cpu-0075.png",
+    "codepoint": "U+1000E2"
+  },
+  {
+    "glyph_name": "cpu_0076",
+    "source_file": "cpu-0076.png",
+    "codepoint": "U+1000E3"
+  },
+  {
+    "glyph_name": "cpu_0077",
+    "source_file": "cpu-0077.png",
+    "codepoint": "U+1000E4"
+  },
+  {
+    "glyph_name": "cpu_0078",
+    "source_file": "cpu-0078.png",
+    "codepoint": "U+1000E5"
+  },
+  {
+    "glyph_name": "cpu_0079",
+    "source_file": "cpu-0079.png",
+    "codepoint": "U+1000E6"
+  },
+  {
+    "glyph_name": "cpu_0080",
+    "source_file": "cpu-0080.png",
+    "codepoint": "U+1000E7"
+  },
+  {
+    "glyph_name": "cpu_0081",
+    "source_file": "cpu-0081.png",
+    "codepoint": "U+1000E8"
+  },
+  {
+    "glyph_name": "cpu_0082",
+    "source_file": "cpu-0082.png",
+    "codepoint": "U+1000E9"
+  },
+  {
+    "glyph_name": "cpu_0083",
+    "source_file": "cpu-0083.png",
+    "codepoint": "U+1000EA"
+  },
+  {
+    "glyph_name": "cpu_0084",
+    "source_file": "cpu-0084.png",
+    "codepoint": "U+1000EB"
+  },
+  {
+    "glyph_name": "cpu_0085",
+    "source_file": "cpu-0085.png",
+    "codepoint": "U+1000EC"
+  },
+  {
+    "glyph_name": "drive_0001",
+    "source_file": "drive-0001.png",
+    "codepoint": "U+1000ED"
+  },
+  {
+    "glyph_name": "drive_0002",
+    "source_file": "drive-0002.png",
+    "codepoint": "U+1000EE"
+  },
+  {
+    "glyph_name": "drive_0003",
+    "source_file": "drive-0003.png",
+    "codepoint": "U+1000EF"
+  },
+  {
+    "glyph_name": "drive_0004",
+    "source_file": "drive-0004.png",
+    "codepoint": "U+1000F0"
+  },
+  {
+    "glyph_name": "drive_0005",
+    "source_file": "drive-0005.png",
+    "codepoint": "U+1000F1"
+  },
+  {
+    "glyph_name": "drive_0006",
+    "source_file": "drive-0006.png",
+    "codepoint": "U+1000F2"
+  },
+  {
+    "glyph_name": "drive_0007",
+    "source_file": "drive-0007.png",
+    "codepoint": "U+1000F3"
+  },
+  {
+    "glyph_name": "drive_0008",
+    "source_file": "drive-0008.png",
+    "codepoint": "U+1000F4"
+  },
+  {
+    "glyph_name": "drive_0009",
+    "source_file": "drive-0009.png",
+    "codepoint": "U+1000F5"
+  },
+  {
+    "glyph_name": "drive_0010",
+    "source_file": "drive-0010.png",
+    "codepoint": "U+1000F6"
+  },
+  {
+    "glyph_name": "drive_0011",
+    "source_file": "drive-0011.png",
+    "codepoint": "U+1000F7"
+  },
+  {
+    "glyph_name": "drive_0012",
+    "source_file": "drive-0012.png",
+    "codepoint": "U+1000F8"
+  },
+  {
+    "glyph_name": "drive_0013",
+    "source_file": "drive-0013.png",
+    "codepoint": "U+1000F9"
+  },
+  {
+    "glyph_name": "drive_0014",
+    "source_file": "drive-0014.png",
+    "codepoint": "U+1000FA"
+  },
+  {
+    "glyph_name": "drive_0015",
+    "source_file": "drive-0015.png",
+    "codepoint": "U+1000FB"
+  },
+  {
+    "glyph_name": "drive_0016",
+    "source_file": "drive-0016.png",
+    "codepoint": "U+1000FC"
+  },
+  {
+    "glyph_name": "drive_0017",
+    "source_file": "drive-0017.png",
+    "codepoint": "U+1000FD"
+  },
+  {
+    "glyph_name": "drive_0018",
+    "source_file": "drive-0018.png",
+    "codepoint": "U+1000FE"
+  },
+  {
+    "glyph_name": "drive_0019",
+    "source_file": "drive-0019.png",
+    "codepoint": "U+1000FF"
+  },
+  {
+    "glyph_name": "drive_0020",
+    "source_file": "drive-0020.png",
+    "codepoint": "U+100100"
+  },
+  {
+    "glyph_name": "drive_0021",
+    "source_file": "drive-0021.png",
+    "codepoint": "U+100101"
+  },
+  {
+    "glyph_name": "drive_0022",
+    "source_file": "drive-0022.png",
+    "codepoint": "U+100102"
+  },
+  {
+    "glyph_name": "drive_0023",
+    "source_file": "drive-0023.png",
+    "codepoint": "U+100103"
+  },
+  {
+    "glyph_name": "drive_0024",
+    "source_file": "drive-0024.png",
+    "codepoint": "U+100104"
+  },
+  {
+    "glyph_name": "drive_0025",
+    "source_file": "drive-0025.png",
+    "codepoint": "U+100105"
+  },
+  {
+    "glyph_name": "drive_0026",
+    "source_file": "drive-0026.png",
+    "codepoint": "U+100106"
+  },
+  {
+    "glyph_name": "drive_0027",
+    "source_file": "drive-0027.png",
+    "codepoint": "U+100107"
+  },
+  {
+    "glyph_name": "drive_0028",
+    "source_file": "drive-0028.png",
+    "codepoint": "U+100108"
+  },
+  {
+    "glyph_name": "drive_0029",
+    "source_file": "drive-0029.png",
+    "codepoint": "U+100109"
+  },
+  {
+    "glyph_name": "drive_0030",
+    "source_file": "drive-0030.png",
+    "codepoint": "U+10010A"
+  },
+  {
+    "glyph_name": "drive_0031",
+    "source_file": "drive-0031.png",
+    "codepoint": "U+10010B"
+  },
+  {
+    "glyph_name": "drive_0032",
+    "source_file": "drive-0032.png",
+    "codepoint": "U+10010C"
+  },
+  {
+    "glyph_name": "drive_0033",
+    "source_file": "drive-0033.png",
+    "codepoint": "U+10010D"
+  },
+  {
+    "glyph_name": "drive_0034",
+    "source_file": "drive-0034.png",
+    "codepoint": "U+10010E"
+  },
+  {
+    "glyph_name": "drive_0035",
+    "source_file": "drive-0035.png",
+    "codepoint": "U+10010F"
+  },
+  {
+    "glyph_name": "drive_0036",
+    "source_file": "drive-0036.png",
+    "codepoint": "U+100110"
+  },
+  {
+    "glyph_name": "drive_0037",
+    "source_file": "drive-0037.png",
+    "codepoint": "U+100111"
+  },
+  {
+    "glyph_name": "drive_0038",
+    "source_file": "drive-0038.png",
+    "codepoint": "U+100112"
+  },
+  {
+    "glyph_name": "drive_0039",
+    "source_file": "drive-0039.png",
+    "codepoint": "U+100113"
+  },
+  {
+    "glyph_name": "drive_0040",
+    "source_file": "drive-0040.png",
+    "codepoint": "U+100114"
+  },
+  {
+    "glyph_name": "drive_0041",
+    "source_file": "drive-0041.png",
+    "codepoint": "U+100115"
+  },
+  {
+    "glyph_name": "drive_0042",
+    "source_file": "drive-0042.png",
+    "codepoint": "U+100116"
+  },
+  {
+    "glyph_name": "drive_0043",
+    "source_file": "drive-0043.png",
+    "codepoint": "U+100117"
+  },
+  {
+    "glyph_name": "drive_0044",
+    "source_file": "drive-0044.png",
+    "codepoint": "U+100118"
+  },
+  {
+    "glyph_name": "drive_0045",
+    "source_file": "drive-0045.png",
+    "codepoint": "U+100119"
+  },
+  {
+    "glyph_name": "drive_0046",
+    "source_file": "drive-0046.png",
+    "codepoint": "U+10011A"
+  },
+  {
+    "glyph_name": "drive_0047",
+    "source_file": "drive-0047.png",
+    "codepoint": "U+10011B"
+  },
+  {
+    "glyph_name": "drive_0048",
+    "source_file": "drive-0048.png",
+    "codepoint": "U+10011C"
+  },
+  {
+    "glyph_name": "drive_0049",
+    "source_file": "drive-0049.png",
+    "codepoint": "U+10011D"
+  },
+  {
+    "glyph_name": "drive_0050",
+    "source_file": "drive-0050.png",
+    "codepoint": "U+10011E"
+  },
+  {
+    "glyph_name": "drive_0051",
+    "source_file": "drive-0051.png",
+    "codepoint": "U+10011F"
+  },
+  {
+    "glyph_name": "drive_0052",
+    "source_file": "drive-0052.png",
+    "codepoint": "U+100120"
+  },
+  {
+    "glyph_name": "drive_0053",
+    "source_file": "drive-0053.png",
+    "codepoint": "U+100121"
+  },
+  {
+    "glyph_name": "drive_0054",
+    "source_file": "drive-0054.png",
+    "codepoint": "U+100122"
+  },
+  {
+    "glyph_name": "drive_0055",
+    "source_file": "drive-0055.png",
+    "codepoint": "U+100123"
+  },
+  {
+    "glyph_name": "drive_0056",
+    "source_file": "drive-0056.png",
+    "codepoint": "U+100124"
+  },
+  {
+    "glyph_name": "drive_0057",
+    "source_file": "drive-0057.png",
+    "codepoint": "U+100125"
+  },
+  {
+    "glyph_name": "drive_0058",
+    "source_file": "drive-0058.png",
+    "codepoint": "U+100126"
+  },
+  {
+    "glyph_name": "drive_0059",
+    "source_file": "drive-0059.png",
+    "codepoint": "U+100127"
+  },
+  {
+    "glyph_name": "drive_0060",
+    "source_file": "drive-0060.png",
+    "codepoint": "U+100128"
+  },
+  {
+    "glyph_name": "drive_0061",
+    "source_file": "drive-0061.png",
+    "codepoint": "U+100129"
+  },
+  {
+    "glyph_name": "drive_0062",
+    "source_file": "drive-0062.png",
+    "codepoint": "U+10012A"
+  },
+  {
+    "glyph_name": "drive_0063",
+    "source_file": "drive-0063.png",
+    "codepoint": "U+10012B"
+  },
+  {
+    "glyph_name": "drive_0064",
+    "source_file": "drive-0064.png",
+    "codepoint": "U+10012C"
+  },
+  {
+    "glyph_name": "drive_0065",
+    "source_file": "drive-0065.png",
+    "codepoint": "U+10012D"
+  },
+  {
+    "glyph_name": "drive_0066",
+    "source_file": "drive-0066.png",
+    "codepoint": "U+10012E"
+  },
+  {
+    "glyph_name": "drive_0067",
+    "source_file": "drive-0067.png",
+    "codepoint": "U+10012F"
+  },
+  {
+    "glyph_name": "drive_0068",
+    "source_file": "drive-0068.png",
+    "codepoint": "U+100130"
+  },
+  {
+    "glyph_name": "drive_0069",
+    "source_file": "drive-0069.png",
+    "codepoint": "U+100131"
+  },
+  {
+    "glyph_name": "drive_0070",
+    "source_file": "drive-0070.png",
+    "codepoint": "U+100132"
+  },
+  {
+    "glyph_name": "drive_0071",
+    "source_file": "drive-0071.png",
+    "codepoint": "U+100133"
+  },
+  {
+    "glyph_name": "drive_0072",
+    "source_file": "drive-0072.png",
+    "codepoint": "U+100134"
+  },
+  {
+    "glyph_name": "drive_0073",
+    "source_file": "drive-0073.png",
+    "codepoint": "U+100135"
+  },
+  {
+    "glyph_name": "gold_0001",
+    "source_file": "gold-0001.png",
+    "codepoint": "U+100136"
+  },
+  {
+    "glyph_name": "gold_0002",
+    "source_file": "gold-0002.png",
+    "codepoint": "U+100137"
+  },
+  {
+    "glyph_name": "gold_0003",
+    "source_file": "gold-0003.png",
+    "codepoint": "U+100138"
+  },
+  {
+    "glyph_name": "gold_0004",
+    "source_file": "gold-0004.png",
+    "codepoint": "U+100139"
+  },
+  {
+    "glyph_name": "gold_0005",
+    "source_file": "gold-0005.png",
+    "codepoint": "U+10013A"
+  },
+  {
+    "glyph_name": "gold_0006",
+    "source_file": "gold-0006.png",
+    "codepoint": "U+10013B"
+  },
+  {
+    "glyph_name": "gold_0007",
+    "source_file": "gold-0007.png",
+    "codepoint": "U+10013C"
+  },
+  {
+    "glyph_name": "gold_0008",
+    "source_file": "gold-0008.png",
+    "codepoint": "U+10013D"
+  },
+  {
+    "glyph_name": "gold_0009",
+    "source_file": "gold-0009.png",
+    "codepoint": "U+10013E"
+  },
+  {
+    "glyph_name": "gold_0010",
+    "source_file": "gold-0010.png",
+    "codepoint": "U+10013F"
+  },
+  {
+    "glyph_name": "gold_0011",
+    "source_file": "gold-0011.png",
+    "codepoint": "U+100140"
+  },
+  {
+    "glyph_name": "gold_0012",
+    "source_file": "gold-0012.png",
+    "codepoint": "U+100141"
+  },
+  {
+    "glyph_name": "gold_0013",
+    "source_file": "gold-0013.png",
+    "codepoint": "U+100142"
+  },
+  {
+    "glyph_name": "gold_0014",
+    "source_file": "gold-0014.png",
+    "codepoint": "U+100143"
+  },
+  {
+    "glyph_name": "gold_0015",
+    "source_file": "gold-0015.png",
+    "codepoint": "U+100144"
+  },
+  {
+    "glyph_name": "gold_0016",
+    "source_file": "gold-0016.png",
+    "codepoint": "U+100145"
+  },
+  {
+    "glyph_name": "gold_0017",
+    "source_file": "gold-0017.png",
+    "codepoint": "U+100146"
+  },
+  {
+    "glyph_name": "gold_0018",
+    "source_file": "gold-0018.png",
+    "codepoint": "U+100147"
+  },
+  {
+    "glyph_name": "gold_0019",
+    "source_file": "gold-0019.png",
+    "codepoint": "U+100148"
+  },
+  {
+    "glyph_name": "gold_0020",
+    "source_file": "gold-0020.png",
+    "codepoint": "U+100149"
+  },
+  {
+    "glyph_name": "gold_0021",
+    "source_file": "gold-0021.png",
+    "codepoint": "U+10014A"
+  },
+  {
+    "glyph_name": "gold_0022",
+    "source_file": "gold-0022.png",
+    "codepoint": "U+10014B"
+  },
+  {
+    "glyph_name": "gold_0023",
+    "source_file": "gold-0023.png",
+    "codepoint": "U+10014C"
+  },
+  {
+    "glyph_name": "gold_0024",
+    "source_file": "gold-0024.png",
+    "codepoint": "U+10014D"
+  },
+  {
+    "glyph_name": "gold_0025",
+    "source_file": "gold-0025.png",
+    "codepoint": "U+10014E"
+  },
+  {
+    "glyph_name": "gold_0026",
+    "source_file": "gold-0026.png",
+    "codepoint": "U+10014F"
+  },
+  {
+    "glyph_name": "gold_0027",
+    "source_file": "gold-0027.png",
+    "codepoint": "U+100150"
+  },
+  {
+    "glyph_name": "gold_0028",
+    "source_file": "gold-0028.png",
+    "codepoint": "U+100151"
+  },
+  {
+    "glyph_name": "gold_0029",
+    "source_file": "gold-0029.png",
+    "codepoint": "U+100152"
+  },
+  {
+    "glyph_name": "gold_0030",
+    "source_file": "gold-0030.png",
+    "codepoint": "U+100153"
+  },
+  {
+    "glyph_name": "gold_0031",
+    "source_file": "gold-0031.png",
+    "codepoint": "U+100154"
+  },
+  {
+    "glyph_name": "gold_0032",
+    "source_file": "gold-0032.png",
+    "codepoint": "U+100155"
+  },
+  {
+    "glyph_name": "gold_0033",
+    "source_file": "gold-0033.png",
+    "codepoint": "U+100156"
+  },
+  {
+    "glyph_name": "gold_0034",
+    "source_file": "gold-0034.png",
+    "codepoint": "U+100157"
+  },
+  {
+    "glyph_name": "gold_0035",
+    "source_file": "gold-0035.png",
+    "codepoint": "U+100158"
+  },
+  {
+    "glyph_name": "gold_0036",
+    "source_file": "gold-0036.png",
+    "codepoint": "U+100159"
+  },
+  {
+    "glyph_name": "gold_0037",
+    "source_file": "gold-0037.png",
+    "codepoint": "U+10015A"
+  },
+  {
+    "glyph_name": "gold_0038",
+    "source_file": "gold-0038.png",
+    "codepoint": "U+10015B"
+  },
+  {
+    "glyph_name": "gold_0039",
+    "source_file": "gold-0039.png",
+    "codepoint": "U+10015C"
+  },
+  {
+    "glyph_name": "gold_0040",
+    "source_file": "gold-0040.png",
+    "codepoint": "U+10015D"
+  },
+  {
+    "glyph_name": "gold_0041",
+    "source_file": "gold-0041.png",
+    "codepoint": "U+10015E"
+  },
+  {
+    "glyph_name": "gold_0042",
+    "source_file": "gold-0042.png",
+    "codepoint": "U+10015F"
+  },
+  {
+    "glyph_name": "gold_0043",
+    "source_file": "gold-0043.png",
+    "codepoint": "U+100160"
+  },
+  {
+    "glyph_name": "gold_0044",
+    "source_file": "gold-0044.png",
+    "codepoint": "U+100161"
+  },
+  {
+    "glyph_name": "gold_0045",
+    "source_file": "gold-0045.png",
+    "codepoint": "U+100162"
+  },
+  {
+    "glyph_name": "gold_0046",
+    "source_file": "gold-0046.png",
+    "codepoint": "U+100163"
+  },
+  {
+    "glyph_name": "gold_0047",
+    "source_file": "gold-0047.png",
+    "codepoint": "U+100164"
+  },
+  {
+    "glyph_name": "gold_0048",
+    "source_file": "gold-0048.png",
+    "codepoint": "U+100165"
+  },
+  {
+    "glyph_name": "gold_0049",
+    "source_file": "gold-0049.png",
+    "codepoint": "U+100166"
+  },
+  {
+    "glyph_name": "gold_0050",
+    "source_file": "gold-0050.png",
+    "codepoint": "U+100167"
+  },
+  {
+    "glyph_name": "gold_0051",
+    "source_file": "gold-0051.png",
+    "codepoint": "U+100168"
+  },
+  {
+    "glyph_name": "gold_0052",
+    "source_file": "gold-0052.png",
+    "codepoint": "U+100169"
+  },
+  {
+    "glyph_name": "gold_0053",
+    "source_file": "gold-0053.png",
+    "codepoint": "U+10016A"
+  },
+  {
+    "glyph_name": "gold_0054",
+    "source_file": "gold-0054.png",
+    "codepoint": "U+10016B"
+  },
+  {
+    "glyph_name": "gold_0055",
+    "source_file": "gold-0055.png",
+    "codepoint": "U+10016C"
+  },
+  {
+    "glyph_name": "gold_0056",
+    "source_file": "gold-0056.png",
+    "codepoint": "U+10016D"
+  },
+  {
+    "glyph_name": "gold_0057",
+    "source_file": "gold-0057.png",
+    "codepoint": "U+10016E"
+  },
+  {
+    "glyph_name": "gold_0058",
+    "source_file": "gold-0058.png",
+    "codepoint": "U+10016F"
+  },
+  {
+    "glyph_name": "gold_0059",
+    "source_file": "gold-0059.png",
+    "codepoint": "U+100170"
+  },
+  {
+    "glyph_name": "gold_0060",
+    "source_file": "gold-0060.png",
+    "codepoint": "U+100171"
+  },
+  {
+    "glyph_name": "gold_0061",
+    "source_file": "gold-0061.png",
+    "codepoint": "U+100172"
+  },
+  {
+    "glyph_name": "gold_0062",
+    "source_file": "gold-0062.png",
+    "codepoint": "U+100173"
+  },
+  {
+    "glyph_name": "gold_0063",
+    "source_file": "gold-0063.png",
+    "codepoint": "U+100174"
+  },
+  {
+    "glyph_name": "gold_0064",
+    "source_file": "gold-0064.png",
+    "codepoint": "U+100175"
+  },
+  {
+    "glyph_name": "gold_0065",
+    "source_file": "gold-0065.png",
+    "codepoint": "U+100176"
+  },
+  {
+    "glyph_name": "gold_0066",
+    "source_file": "gold-0066.png",
+    "codepoint": "U+100177"
+  },
+  {
+    "glyph_name": "gold_0067",
+    "source_file": "gold-0067.png",
+    "codepoint": "U+100178"
+  },
+  {
+    "glyph_name": "gold_0068",
+    "source_file": "gold-0068.png",
+    "codepoint": "U+100179"
+  },
+  {
+    "glyph_name": "gold_0069",
+    "source_file": "gold-0069.png",
+    "codepoint": "U+10017A"
+  },
+  {
+    "glyph_name": "gold_0070",
+    "source_file": "gold-0070.png",
+    "codepoint": "U+10017B"
+  },
+  {
+    "glyph_name": "gold_0071",
+    "source_file": "gold-0071.png",
+    "codepoint": "U+10017C"
+  },
+  {
+    "glyph_name": "gold_0072",
+    "source_file": "gold-0072.png",
+    "codepoint": "U+10017D"
+  },
+  {
+    "glyph_name": "gold_0073",
+    "source_file": "gold-0073.png",
+    "codepoint": "U+10017E"
+  },
+  {
+    "glyph_name": "headphones_0001",
+    "source_file": "headphones-0001.png",
+    "codepoint": "U+100344"
+  },
+  {
+    "glyph_name": "headphones_0002",
+    "source_file": "headphones-0002.png",
+    "codepoint": "U+100345"
+  },
+  {
+    "glyph_name": "headphones_0003",
+    "source_file": "headphones-0003.png",
+    "codepoint": "U+100346"
+  },
+  {
+    "glyph_name": "headphones_0004",
+    "source_file": "headphones-0004.png",
+    "codepoint": "U+100347"
+  },
+  {
+    "glyph_name": "headphones_0005",
+    "source_file": "headphones-0005.png",
+    "codepoint": "U+100348"
+  },
+  {
+    "glyph_name": "headphones_0006",
+    "source_file": "headphones-0006.png",
+    "codepoint": "U+100349"
+  },
+  {
+    "glyph_name": "headphones_0007",
+    "source_file": "headphones-0007.png",
+    "codepoint": "U+10034A"
+  },
+  {
+    "glyph_name": "headphones_0008",
+    "source_file": "headphones-0008.png",
+    "codepoint": "U+10034B"
+  },
+  {
+    "glyph_name": "headphones_0009",
+    "source_file": "headphones-0009.png",
+    "codepoint": "U+10034C"
+  },
+  {
+    "glyph_name": "headphones_0010",
+    "source_file": "headphones-0010.png",
+    "codepoint": "U+10034D"
+  },
+  {
+    "glyph_name": "headphones_0011",
+    "source_file": "headphones-0011.png",
+    "codepoint": "U+10034E"
+  },
+  {
+    "glyph_name": "headphones_0012",
+    "source_file": "headphones-0012.png",
+    "codepoint": "U+10034F"
+  },
+  {
+    "glyph_name": "headphones_0013",
+    "source_file": "headphones-0013.png",
+    "codepoint": "U+100350"
+  },
+  {
+    "glyph_name": "headphones_0014",
+    "source_file": "headphones-0014.png",
+    "codepoint": "U+100351"
+  },
+  {
+    "glyph_name": "headphones_0015",
+    "source_file": "headphones-0015.png",
+    "codepoint": "U+100352"
+  },
+  {
+    "glyph_name": "headphones_0016",
+    "source_file": "headphones-0016.png",
+    "codepoint": "U+100353"
+  },
+  {
+    "glyph_name": "headphones_0017",
+    "source_file": "headphones-0017.png",
+    "codepoint": "U+100354"
+  },
+  {
+    "glyph_name": "headphones_0018",
+    "source_file": "headphones-0018.png",
+    "codepoint": "U+100355"
+  },
+  {
+    "glyph_name": "headphones_0019",
+    "source_file": "headphones-0019.png",
+    "codepoint": "U+100356"
+  },
+  {
+    "glyph_name": "headphones_0020",
+    "source_file": "headphones-0020.png",
+    "codepoint": "U+100357"
+  },
+  {
+    "glyph_name": "headphones_0021",
+    "source_file": "headphones-0021.png",
+    "codepoint": "U+100358"
+  },
+  {
+    "glyph_name": "headphones_0022",
+    "source_file": "headphones-0022.png",
+    "codepoint": "U+100359"
+  },
+  {
+    "glyph_name": "headphones_0023",
+    "source_file": "headphones-0023.png",
+    "codepoint": "U+10035A"
+  },
+  {
+    "glyph_name": "headphones_0024",
+    "source_file": "headphones-0024.png",
+    "codepoint": "U+10035B"
+  },
+  {
+    "glyph_name": "headphones_0025",
+    "source_file": "headphones-0025.png",
+    "codepoint": "U+10035C"
+  },
+  {
+    "glyph_name": "headphones_0026",
+    "source_file": "headphones-0026.png",
+    "codepoint": "U+10035D"
+  },
+  {
+    "glyph_name": "headphones_0027",
+    "source_file": "headphones-0027.png",
+    "codepoint": "U+10035E"
+  },
+  {
+    "glyph_name": "headphones_0028",
+    "source_file": "headphones-0028.png",
+    "codepoint": "U+10035F"
+  },
+  {
+    "glyph_name": "headphones_0029",
+    "source_file": "headphones-0029.png",
+    "codepoint": "U+100360"
+  },
+  {
+    "glyph_name": "headphones_0030",
+    "source_file": "headphones-0030.png",
+    "codepoint": "U+100361"
+  },
+  {
+    "glyph_name": "headphones_0031",
+    "source_file": "headphones-0031.png",
+    "codepoint": "U+100362"
+  },
+  {
+    "glyph_name": "headphones_0032",
+    "source_file": "headphones-0032.png",
+    "codepoint": "U+100363"
+  },
+  {
+    "glyph_name": "headphones_0033",
+    "source_file": "headphones-0033.png",
+    "codepoint": "U+100364"
+  },
+  {
+    "glyph_name": "headphones_0034",
+    "source_file": "headphones-0034.png",
+    "codepoint": "U+100365"
+  },
+  {
+    "glyph_name": "headphones_0035",
+    "source_file": "headphones-0035.png",
+    "codepoint": "U+100366"
+  },
+  {
+    "glyph_name": "headphones_0036",
+    "source_file": "headphones-0036.png",
+    "codepoint": "U+100367"
+  },
+  {
+    "glyph_name": "headphones_0037",
+    "source_file": "headphones-0037.png",
+    "codepoint": "U+100368"
+  },
+  {
+    "glyph_name": "headphones_0038",
+    "source_file": "headphones-0038.png",
+    "codepoint": "U+100369"
+  },
+  {
+    "glyph_name": "headphones_0039",
+    "source_file": "headphones-0039.png",
+    "codepoint": "U+10036A"
+  },
+  {
+    "glyph_name": "headphones_0040",
+    "source_file": "headphones-0040.png",
+    "codepoint": "U+10036B"
+  },
+  {
+    "glyph_name": "headphones_0041",
+    "source_file": "headphones-0041.png",
+    "codepoint": "U+10036C"
+  },
+  {
+    "glyph_name": "headphones_0042",
+    "source_file": "headphones-0042.png",
+    "codepoint": "U+10036D"
+  },
+  {
+    "glyph_name": "headphones_0043",
+    "source_file": "headphones-0043.png",
+    "codepoint": "U+10036E"
+  },
+  {
+    "glyph_name": "headphones_0044",
+    "source_file": "headphones-0044.png",
+    "codepoint": "U+10036F"
+  },
+  {
+    "glyph_name": "headphones_0045",
+    "source_file": "headphones-0045.png",
+    "codepoint": "U+100370"
+  },
+  {
+    "glyph_name": "headphones_0046",
+    "source_file": "headphones-0046.png",
+    "codepoint": "U+100371"
+  },
+  {
+    "glyph_name": "headphones_0047",
+    "source_file": "headphones-0047.png",
+    "codepoint": "U+100372"
+  },
+  {
+    "glyph_name": "headphones_0048",
+    "source_file": "headphones-0048.png",
+    "codepoint": "U+100373"
+  },
+  {
+    "glyph_name": "headphones_0049",
+    "source_file": "headphones-0049.png",
+    "codepoint": "U+100374"
+  },
+  {
+    "glyph_name": "headphones_0050",
+    "source_file": "headphones-0050.png",
+    "codepoint": "U+100375"
+  },
+  {
+    "glyph_name": "headphones_0051",
+    "source_file": "headphones-0051.png",
+    "codepoint": "U+100376"
+  },
+  {
+    "glyph_name": "headphones_0052",
+    "source_file": "headphones-0052.png",
+    "codepoint": "U+100377"
+  },
+  {
+    "glyph_name": "headphones_0053",
+    "source_file": "headphones-0053.png",
+    "codepoint": "U+100378"
+  },
+  {
+    "glyph_name": "headphones_0054",
+    "source_file": "headphones-0054.png",
+    "codepoint": "U+100379"
+  },
+  {
+    "glyph_name": "headphones_0055",
+    "source_file": "headphones-0055.png",
+    "codepoint": "U+10037A"
+  },
+  {
+    "glyph_name": "headphones_0056",
+    "source_file": "headphones-0056.png",
+    "codepoint": "U+10037B"
+  },
+  {
+    "glyph_name": "headphones_0057",
+    "source_file": "headphones-0057.png",
+    "codepoint": "U+10037C"
+  },
+  {
+    "glyph_name": "headphones_0058",
+    "source_file": "headphones-0058.png",
+    "codepoint": "U+10037D"
+  },
+  {
+    "glyph_name": "headphones_0059",
+    "source_file": "headphones-0059.png",
+    "codepoint": "U+10037E"
+  },
+  {
+    "glyph_name": "headphones_0060",
+    "source_file": "headphones-0060.png",
+    "codepoint": "U+10037F"
+  },
+  {
+    "glyph_name": "headphones_0061",
+    "source_file": "headphones-0061.png",
+    "codepoint": "U+100380"
+  },
+  {
+    "glyph_name": "headphones_0062",
+    "source_file": "headphones-0062.png",
+    "codepoint": "U+100381"
+  },
+  {
+    "glyph_name": "headphones_0063",
+    "source_file": "headphones-0063.png",
+    "codepoint": "U+100382"
+  },
+  {
+    "glyph_name": "headphones_0064",
+    "source_file": "headphones-0064.png",
+    "codepoint": "U+100383"
+  },
+  {
+    "glyph_name": "headphones_0065",
+    "source_file": "headphones-0065.png",
+    "codepoint": "U+100384"
+  },
+  {
+    "glyph_name": "headphones_0066",
+    "source_file": "headphones-0066.png",
+    "codepoint": "U+100385"
+  },
+  {
+    "glyph_name": "headphones_0067",
+    "source_file": "headphones-0067.png",
+    "codepoint": "U+100386"
+  },
+  {
+    "glyph_name": "headphones_0068",
+    "source_file": "headphones-0068.png",
+    "codepoint": "U+100387"
+  },
+  {
+    "glyph_name": "headphones_0069",
+    "source_file": "headphones-0069.png",
+    "codepoint": "U+100388"
+  },
+  {
+    "glyph_name": "headphones_0070",
+    "source_file": "headphones-0070.png",
+    "codepoint": "U+100389"
+  },
+  {
+    "glyph_name": "headphones_0071",
+    "source_file": "headphones-0071.png",
+    "codepoint": "U+10038A"
+  },
+  {
+    "glyph_name": "headphones_0072",
+    "source_file": "headphones-0072.png",
+    "codepoint": "U+10038B"
+  },
+  {
+    "glyph_name": "headphones_0073",
+    "source_file": "headphones-0073.png",
+    "codepoint": "U+10038C"
+  },
+  {
+    "glyph_name": "headphones_0074",
+    "source_file": "headphones-0074.png",
+    "codepoint": "U+10038D"
+  },
+  {
+    "glyph_name": "headphones_0075",
+    "source_file": "headphones-0075.png",
+    "codepoint": "U+10038E"
+  },
+  {
+    "glyph_name": "headphones_0076",
+    "source_file": "headphones-0076.png",
+    "codepoint": "U+10038F"
+  },
+  {
+    "glyph_name": "headphones_0077",
+    "source_file": "headphones-0077.png",
+    "codepoint": "U+100390"
+  },
+  {
+    "glyph_name": "headphones_0078",
+    "source_file": "headphones-0078.png",
+    "codepoint": "U+100391"
+  },
+  {
+    "glyph_name": "headphones_0079",
+    "source_file": "headphones-0079.png",
+    "codepoint": "U+100392"
+  },
+  {
+    "glyph_name": "headphones_0080",
+    "source_file": "headphones-0080.png",
+    "codepoint": "U+100393"
+  },
+  {
+    "glyph_name": "headphones_0081",
+    "source_file": "headphones-0081.png",
+    "codepoint": "U+100394"
+  },
+  {
+    "glyph_name": "headphones_0082",
+    "source_file": "headphones-0082.png",
+    "codepoint": "U+100395"
+  },
+  {
+    "glyph_name": "headphones_0083",
+    "source_file": "headphones-0083.png",
+    "codepoint": "U+100396"
+  },
+  {
+    "glyph_name": "headphones_0084",
+    "source_file": "headphones-0084.png",
+    "codepoint": "U+100397"
+  },
+  {
+    "glyph_name": "headphones_0085",
+    "source_file": "headphones-0085.png",
+    "codepoint": "U+100398"
+  },
+  {
+    "glyph_name": "headphones_0086",
+    "source_file": "headphones-0086.png",
+    "codepoint": "U+100399"
+  },
+  {
+    "glyph_name": "headphones_0087",
+    "source_file": "headphones-0087.png",
+    "codepoint": "U+10039A"
+  },
+  {
+    "glyph_name": "headphones_0088",
+    "source_file": "headphones-0088.png",
+    "codepoint": "U+10039B"
+  },
+  {
+    "glyph_name": "headphones_0089",
+    "source_file": "headphones-0089.png",
+    "codepoint": "U+10039C"
+  },
+  {
+    "glyph_name": "headphones_0090",
+    "source_file": "headphones-0090.png",
+    "codepoint": "U+10039D"
+  },
+  {
+    "glyph_name": "headphones_0091",
+    "source_file": "headphones-0091.png",
+    "codepoint": "U+10039E"
+  },
+  {
+    "glyph_name": "headphones_0092",
+    "source_file": "headphones-0092.png",
+    "codepoint": "U+10039F"
+  },
+  {
+    "glyph_name": "headphones_0093",
+    "source_file": "headphones-0093.png",
+    "codepoint": "U+1003A0"
+  },
+  {
+    "glyph_name": "headphones_0094",
+    "source_file": "headphones-0094.png",
+    "codepoint": "U+1003A1"
+  },
+  {
+    "glyph_name": "headphones_0095",
+    "source_file": "headphones-0095.png",
+    "codepoint": "U+1003A2"
+  },
+  {
+    "glyph_name": "headphones_0096",
+    "source_file": "headphones-0096.png",
+    "codepoint": "U+1003A3"
+  },
+  {
+    "glyph_name": "headphones_0097",
+    "source_file": "headphones-0097.png",
+    "codepoint": "U+1003A4"
+  },
+  {
+    "glyph_name": "headphones_0098",
+    "source_file": "headphones-0098.png",
+    "codepoint": "U+1003A5"
+  },
+  {
+    "glyph_name": "headphones_0099",
+    "source_file": "headphones-0099.png",
+    "codepoint": "U+1003A6"
+  },
+  {
+    "glyph_name": "headphones_0100",
+    "source_file": "headphones-0100.png",
+    "codepoint": "U+1003A7"
+  },
+  {
+    "glyph_name": "headphones_0101",
+    "source_file": "headphones-0101.png",
+    "codepoint": "U+1003A8"
+  },
+  {
+    "glyph_name": "headphones_0102",
+    "source_file": "headphones-0102.png",
+    "codepoint": "U+1003A9"
+  },
+  {
+    "glyph_name": "headphones_0103",
+    "source_file": "headphones-0103.png",
+    "codepoint": "U+1003AA"
+  },
+  {
+    "glyph_name": "headphones_0104",
+    "source_file": "headphones-0104.png",
+    "codepoint": "U+1003AB"
+  },
+  {
+    "glyph_name": "headphones_0105",
+    "source_file": "headphones-0105.png",
+    "codepoint": "U+1003AC"
+  },
+  {
+    "glyph_name": "headphones_0106",
+    "source_file": "headphones-0106.png",
+    "codepoint": "U+1003AD"
+  },
+  {
+    "glyph_name": "headphones_0107",
+    "source_file": "headphones-0107.png",
+    "codepoint": "U+1003AE"
+  },
+  {
+    "glyph_name": "headphones_0108",
+    "source_file": "headphones-0108.png",
+    "codepoint": "U+1003AF"
+  },
+  {
+    "glyph_name": "hourglass_0001",
+    "source_file": "hourglass-0001.png",
+    "codepoint": "U+1001EB"
+  },
+  {
+    "glyph_name": "hourglass_0002",
+    "source_file": "hourglass-0002.png",
+    "codepoint": "U+1001EC"
+  },
+  {
+    "glyph_name": "hourglass_0003",
+    "source_file": "hourglass-0003.png",
+    "codepoint": "U+1001ED"
+  },
+  {
+    "glyph_name": "hourglass_0004",
+    "source_file": "hourglass-0004.png",
+    "codepoint": "U+1001EE"
+  },
+  {
+    "glyph_name": "hourglass_0005",
+    "source_file": "hourglass-0005.png",
+    "codepoint": "U+1001EF"
+  },
+  {
+    "glyph_name": "hourglass_0006",
+    "source_file": "hourglass-0006.png",
+    "codepoint": "U+1001F0"
+  },
+  {
+    "glyph_name": "hourglass_0007",
+    "source_file": "hourglass-0007.png",
+    "codepoint": "U+1001F1"
+  },
+  {
+    "glyph_name": "hourglass_0008",
+    "source_file": "hourglass-0008.png",
+    "codepoint": "U+1001F2"
+  },
+  {
+    "glyph_name": "hourglass_0009",
+    "source_file": "hourglass-0009.png",
+    "codepoint": "U+1001F3"
+  },
+  {
+    "glyph_name": "hourglass_0010",
+    "source_file": "hourglass-0010.png",
+    "codepoint": "U+1001F4"
+  },
+  {
+    "glyph_name": "hourglass_0011",
+    "source_file": "hourglass-0011.png",
+    "codepoint": "U+1001F5"
+  },
+  {
+    "glyph_name": "hourglass_0012",
+    "source_file": "hourglass-0012.png",
+    "codepoint": "U+1001F6"
+  },
+  {
+    "glyph_name": "hourglass_0013",
+    "source_file": "hourglass-0013.png",
+    "codepoint": "U+1001F7"
+  },
+  {
+    "glyph_name": "hourglass_0014",
+    "source_file": "hourglass-0014.png",
+    "codepoint": "U+1001F8"
+  },
+  {
+    "glyph_name": "hourglass_0015",
+    "source_file": "hourglass-0015.png",
+    "codepoint": "U+1001F9"
+  },
+  {
+    "glyph_name": "hourglass_0016",
+    "source_file": "hourglass-0016.png",
+    "codepoint": "U+1001FA"
+  },
+  {
+    "glyph_name": "hourglass_0017",
+    "source_file": "hourglass-0017.png",
+    "codepoint": "U+1001FB"
+  },
+  {
+    "glyph_name": "hourglass_0018",
+    "source_file": "hourglass-0018.png",
+    "codepoint": "U+1001FC"
+  },
+  {
+    "glyph_name": "hourglass_0019",
+    "source_file": "hourglass-0019.png",
+    "codepoint": "U+1001FD"
+  },
+  {
+    "glyph_name": "hourglass_0020",
+    "source_file": "hourglass-0020.png",
+    "codepoint": "U+1001FE"
+  },
+  {
+    "glyph_name": "hourglass_0021",
+    "source_file": "hourglass-0021.png",
+    "codepoint": "U+1001FF"
+  },
+  {
+    "glyph_name": "hourglass_0022",
+    "source_file": "hourglass-0022.png",
+    "codepoint": "U+100200"
+  },
+  {
+    "glyph_name": "hourglass_0023",
+    "source_file": "hourglass-0023.png",
+    "codepoint": "U+100201"
+  },
+  {
+    "glyph_name": "hourglass_0024",
+    "source_file": "hourglass-0024.png",
+    "codepoint": "U+100202"
+  },
+  {
+    "glyph_name": "hourglass_0025",
+    "source_file": "hourglass-0025.png",
+    "codepoint": "U+100203"
+  },
+  {
+    "glyph_name": "hourglass_0026",
+    "source_file": "hourglass-0026.png",
+    "codepoint": "U+100204"
+  },
+  {
+    "glyph_name": "hourglass_0027",
+    "source_file": "hourglass-0027.png",
+    "codepoint": "U+100205"
+  },
+  {
+    "glyph_name": "hourglass_0028",
+    "source_file": "hourglass-0028.png",
+    "codepoint": "U+100206"
+  },
+  {
+    "glyph_name": "hourglass_0029",
+    "source_file": "hourglass-0029.png",
+    "codepoint": "U+100207"
+  },
+  {
+    "glyph_name": "hourglass_0030",
+    "source_file": "hourglass-0030.png",
+    "codepoint": "U+100208"
+  },
+  {
+    "glyph_name": "hourglass_0031",
+    "source_file": "hourglass-0031.png",
+    "codepoint": "U+100209"
+  },
+  {
+    "glyph_name": "hourglass_0032",
+    "source_file": "hourglass-0032.png",
+    "codepoint": "U+10020A"
+  },
+  {
+    "glyph_name": "hourglass_0033",
+    "source_file": "hourglass-0033.png",
+    "codepoint": "U+10020B"
+  },
+  {
+    "glyph_name": "hourglass_0034",
+    "source_file": "hourglass-0034.png",
+    "codepoint": "U+10020C"
+  },
+  {
+    "glyph_name": "hourglass_0035",
+    "source_file": "hourglass-0035.png",
+    "codepoint": "U+10020D"
+  },
+  {
+    "glyph_name": "hourglass_0036",
+    "source_file": "hourglass-0036.png",
+    "codepoint": "U+10020E"
+  },
+  {
+    "glyph_name": "hourglass_0037",
+    "source_file": "hourglass-0037.png",
+    "codepoint": "U+10020F"
+  },
+  {
+    "glyph_name": "hourglass_0038",
+    "source_file": "hourglass-0038.png",
+    "codepoint": "U+100210"
+  },
+  {
+    "glyph_name": "hourglass_0039",
+    "source_file": "hourglass-0039.png",
+    "codepoint": "U+100211"
+  },
+  {
+    "glyph_name": "hourglass_0040",
+    "source_file": "hourglass-0040.png",
+    "codepoint": "U+100212"
+  },
+  {
+    "glyph_name": "hourglass_0041",
+    "source_file": "hourglass-0041.png",
+    "codepoint": "U+100213"
+  },
+  {
+    "glyph_name": "hourglass_0042",
+    "source_file": "hourglass-0042.png",
+    "codepoint": "U+100214"
+  },
+  {
+    "glyph_name": "hourglass_0043",
+    "source_file": "hourglass-0043.png",
+    "codepoint": "U+100215"
+  },
+  {
+    "glyph_name": "hourglass_0044",
+    "source_file": "hourglass-0044.png",
+    "codepoint": "U+100216"
+  },
+  {
+    "glyph_name": "hourglass_0045",
+    "source_file": "hourglass-0045.png",
+    "codepoint": "U+100217"
+  },
+  {
+    "glyph_name": "hourglass_0046",
+    "source_file": "hourglass-0046.png",
+    "codepoint": "U+100218"
+  },
+  {
+    "glyph_name": "hourglass_0047",
+    "source_file": "hourglass-0047.png",
+    "codepoint": "U+100219"
+  },
+  {
+    "glyph_name": "hourglass_0048",
+    "source_file": "hourglass-0048.png",
+    "codepoint": "U+10021A"
+  },
+  {
+    "glyph_name": "hourglass_0049",
+    "source_file": "hourglass-0049.png",
+    "codepoint": "U+10021B"
+  },
+  {
+    "glyph_name": "hourglass_0050",
+    "source_file": "hourglass-0050.png",
+    "codepoint": "U+10021C"
+  },
+  {
+    "glyph_name": "hourglass_0051",
+    "source_file": "hourglass-0051.png",
+    "codepoint": "U+10021D"
+  },
+  {
+    "glyph_name": "hourglass_0052",
+    "source_file": "hourglass-0052.png",
+    "codepoint": "U+10021E"
+  },
+  {
+    "glyph_name": "hourglass_0053",
+    "source_file": "hourglass-0053.png",
+    "codepoint": "U+10021F"
+  },
+  {
+    "glyph_name": "hourglass_0054",
+    "source_file": "hourglass-0054.png",
+    "codepoint": "U+100220"
+  },
+  {
+    "glyph_name": "hourglass_0055",
+    "source_file": "hourglass-0055.png",
+    "codepoint": "U+100221"
+  },
+  {
+    "glyph_name": "hourglass_0056",
+    "source_file": "hourglass-0056.png",
+    "codepoint": "U+100222"
+  },
+  {
+    "glyph_name": "hourglass_0057",
+    "source_file": "hourglass-0057.png",
+    "codepoint": "U+100223"
+  },
+  {
+    "glyph_name": "hourglass_0058",
+    "source_file": "hourglass-0058.png",
+    "codepoint": "U+100224"
+  },
+  {
+    "glyph_name": "hourglass_0059",
+    "source_file": "hourglass-0059.png",
+    "codepoint": "U+100225"
+  },
+  {
+    "glyph_name": "hourglass_0060",
+    "source_file": "hourglass-0060.png",
+    "codepoint": "U+100226"
+  },
+  {
+    "glyph_name": "hourglass_0061",
+    "source_file": "hourglass-0061.png",
+    "codepoint": "U+100227"
+  },
+  {
+    "glyph_name": "hourglass_0062",
+    "source_file": "hourglass-0062.png",
+    "codepoint": "U+100228"
+  },
+  {
+    "glyph_name": "hourglass_0063",
+    "source_file": "hourglass-0063.png",
+    "codepoint": "U+100229"
+  },
+  {
+    "glyph_name": "hourglass_0064",
+    "source_file": "hourglass-0064.png",
+    "codepoint": "U+10022A"
+  },
+  {
+    "glyph_name": "hourglass_0065",
+    "source_file": "hourglass-0065.png",
+    "codepoint": "U+10022B"
+  },
+  {
+    "glyph_name": "hourglass_0066",
+    "source_file": "hourglass-0066.png",
+    "codepoint": "U+10022C"
+  },
+  {
+    "glyph_name": "hourglass_0067",
+    "source_file": "hourglass-0067.png",
+    "codepoint": "U+10022D"
+  },
+  {
+    "glyph_name": "hourglass_0068",
+    "source_file": "hourglass-0068.png",
+    "codepoint": "U+10022E"
+  },
+  {
+    "glyph_name": "hourglass_0069",
+    "source_file": "hourglass-0069.png",
+    "codepoint": "U+10022F"
+  },
+  {
+    "glyph_name": "hourglass_0070",
+    "source_file": "hourglass-0070.png",
+    "codepoint": "U+100230"
+  },
+  {
+    "glyph_name": "hourglass_0071",
+    "source_file": "hourglass-0071.png",
+    "codepoint": "U+100231"
+  },
+  {
+    "glyph_name": "hourglass_0072",
+    "source_file": "hourglass-0072.png",
+    "codepoint": "U+100232"
+  },
+  {
+    "glyph_name": "hourglass_0073",
+    "source_file": "hourglass-0073.png",
+    "codepoint": "U+100233"
+  },
+  {
+    "glyph_name": "hourglass_0074",
+    "source_file": "hourglass-0074.png",
+    "codepoint": "U+100234"
+  },
+  {
+    "glyph_name": "hourglass_0075",
+    "source_file": "hourglass-0075.png",
+    "codepoint": "U+100235"
+  },
+  {
+    "glyph_name": "hourglass_0076",
+    "source_file": "hourglass-0076.png",
+    "codepoint": "U+100236"
+  },
+  {
+    "glyph_name": "hourglass_0077",
+    "source_file": "hourglass-0077.png",
+    "codepoint": "U+100237"
+  },
+  {
+    "glyph_name": "hourglass_0078",
+    "source_file": "hourglass-0078.png",
+    "codepoint": "U+100238"
+  },
+  {
+    "glyph_name": "hourglass_0079",
+    "source_file": "hourglass-0079.png",
+    "codepoint": "U+100239"
+  },
+  {
+    "glyph_name": "hourglass_0080",
+    "source_file": "hourglass-0080.png",
+    "codepoint": "U+10023A"
+  },
+  {
+    "glyph_name": "hourglass_0081",
+    "source_file": "hourglass-0081.png",
+    "codepoint": "U+10023B"
+  },
+  {
+    "glyph_name": "hourglass_0082",
+    "source_file": "hourglass-0082.png",
+    "codepoint": "U+10023C"
+  },
+  {
+    "glyph_name": "hourglass_0083",
+    "source_file": "hourglass-0083.png",
+    "codepoint": "U+10023D"
+  },
+  {
+    "glyph_name": "hourglass_0084",
+    "source_file": "hourglass-0084.png",
+    "codepoint": "U+10023E"
+  },
+  {
+    "glyph_name": "hourglass_0085",
+    "source_file": "hourglass-0085.png",
+    "codepoint": "U+10023F"
+  },
+  {
+    "glyph_name": "hourglass_0086",
+    "source_file": "hourglass-0086.png",
+    "codepoint": "U+100240"
+  },
+  {
+    "glyph_name": "hourglass_0087",
+    "source_file": "hourglass-0087.png",
+    "codepoint": "U+100241"
+  },
+  {
+    "glyph_name": "hourglass_0088",
+    "source_file": "hourglass-0088.png",
+    "codepoint": "U+100242"
+  },
+  {
+    "glyph_name": "hourglass_0089",
+    "source_file": "hourglass-0089.png",
+    "codepoint": "U+100243"
+  },
+  {
+    "glyph_name": "hourglass_0090",
+    "source_file": "hourglass-0090.png",
+    "codepoint": "U+100244"
+  },
+  {
+    "glyph_name": "hourglass_0091",
+    "source_file": "hourglass-0091.png",
+    "codepoint": "U+100245"
+  },
+  {
+    "glyph_name": "hourglass_0092",
+    "source_file": "hourglass-0092.png",
+    "codepoint": "U+100246"
+  },
+  {
+    "glyph_name": "hourglass_0093",
+    "source_file": "hourglass-0093.png",
+    "codepoint": "U+100247"
+  },
+  {
+    "glyph_name": "hourglass_0094",
+    "source_file": "hourglass-0094.png",
+    "codepoint": "U+100248"
+  },
+  {
+    "glyph_name": "hourglass_0095",
+    "source_file": "hourglass-0095.png",
+    "codepoint": "U+100249"
+  },
+  {
+    "glyph_name": "hourglass_0096",
+    "source_file": "hourglass-0096.png",
+    "codepoint": "U+10024A"
+  },
+  {
+    "glyph_name": "hourglass_0097",
+    "source_file": "hourglass-0097.png",
+    "codepoint": "U+10024B"
+  },
+  {
+    "glyph_name": "hourglass_0098",
+    "source_file": "hourglass-0098.png",
+    "codepoint": "U+10024C"
+  },
+  {
+    "glyph_name": "hourglass_0099",
+    "source_file": "hourglass-0099.png",
+    "codepoint": "U+10024D"
+  },
+  {
+    "glyph_name": "hourglass_0100",
+    "source_file": "hourglass-0100.png",
+    "codepoint": "U+10024E"
+  },
+  {
+    "glyph_name": "hourglass_0101",
+    "source_file": "hourglass-0101.png",
+    "codepoint": "U+10024F"
+  },
+  {
+    "glyph_name": "hourglass_0102",
+    "source_file": "hourglass-0102.png",
+    "codepoint": "U+100250"
+  },
+  {
+    "glyph_name": "hourglass_0103",
+    "source_file": "hourglass-0103.png",
+    "codepoint": "U+100251"
+  },
+  {
+    "glyph_name": "hourglass_0104",
+    "source_file": "hourglass-0104.png",
+    "codepoint": "U+100252"
+  },
+  {
+    "glyph_name": "hourglass_0105",
+    "source_file": "hourglass-0105.png",
+    "codepoint": "U+100253"
+  },
+  {
+    "glyph_name": "hourglass_0106",
+    "source_file": "hourglass-0106.png",
+    "codepoint": "U+100254"
+  },
+  {
+    "glyph_name": "hourglass_0107",
+    "source_file": "hourglass-0107.png",
+    "codepoint": "U+100255"
+  },
+  {
+    "glyph_name": "hourglass_0108",
+    "source_file": "hourglass-0108.png",
+    "codepoint": "U+100256"
+  },
+  {
+    "glyph_name": "mosque_0001",
+    "source_file": "mosque-0001.png",
+    "codepoint": "U+10017F"
+  },
+  {
+    "glyph_name": "mosque_0002",
+    "source_file": "mosque-0002.png",
+    "codepoint": "U+100180"
+  },
+  {
+    "glyph_name": "mosque_0003",
+    "source_file": "mosque-0003.png",
+    "codepoint": "U+100181"
+  },
+  {
+    "glyph_name": "mosque_0004",
+    "source_file": "mosque-0004.png",
+    "codepoint": "U+100182"
+  },
+  {
+    "glyph_name": "mosque_0005",
+    "source_file": "mosque-0005.png",
+    "codepoint": "U+100183"
+  },
+  {
+    "glyph_name": "mosque_0006",
+    "source_file": "mosque-0006.png",
+    "codepoint": "U+100184"
+  },
+  {
+    "glyph_name": "mosque_0007",
+    "source_file": "mosque-0007.png",
+    "codepoint": "U+100185"
+  },
+  {
+    "glyph_name": "mosque_0008",
+    "source_file": "mosque-0008.png",
+    "codepoint": "U+100186"
+  },
+  {
+    "glyph_name": "mosque_0009",
+    "source_file": "mosque-0009.png",
+    "codepoint": "U+100187"
+  },
+  {
+    "glyph_name": "mosque_0010",
+    "source_file": "mosque-0010.png",
+    "codepoint": "U+100188"
+  },
+  {
+    "glyph_name": "mosque_0011",
+    "source_file": "mosque-0011.png",
+    "codepoint": "U+100189"
+  },
+  {
+    "glyph_name": "mosque_0012",
+    "source_file": "mosque-0012.png",
+    "codepoint": "U+10018A"
+  },
+  {
+    "glyph_name": "mosque_0013",
+    "source_file": "mosque-0013.png",
+    "codepoint": "U+10018B"
+  },
+  {
+    "glyph_name": "mosque_0014",
+    "source_file": "mosque-0014.png",
+    "codepoint": "U+10018C"
+  },
+  {
+    "glyph_name": "mosque_0015",
+    "source_file": "mosque-0015.png",
+    "codepoint": "U+10018D"
+  },
+  {
+    "glyph_name": "mosque_0016",
+    "source_file": "mosque-0016.png",
+    "codepoint": "U+10018E"
+  },
+  {
+    "glyph_name": "mosque_0017",
+    "source_file": "mosque-0017.png",
+    "codepoint": "U+10018F"
+  },
+  {
+    "glyph_name": "mosque_0018",
+    "source_file": "mosque-0018.png",
+    "codepoint": "U+100190"
+  },
+  {
+    "glyph_name": "mosque_0019",
+    "source_file": "mosque-0019.png",
+    "codepoint": "U+100191"
+  },
+  {
+    "glyph_name": "mosque_0020",
+    "source_file": "mosque-0020.png",
+    "codepoint": "U+100192"
+  },
+  {
+    "glyph_name": "mosque_0021",
+    "source_file": "mosque-0021.png",
+    "codepoint": "U+100193"
+  },
+  {
+    "glyph_name": "mosque_0022",
+    "source_file": "mosque-0022.png",
+    "codepoint": "U+100194"
+  },
+  {
+    "glyph_name": "mosque_0023",
+    "source_file": "mosque-0023.png",
+    "codepoint": "U+100195"
+  },
+  {
+    "glyph_name": "mosque_0024",
+    "source_file": "mosque-0024.png",
+    "codepoint": "U+100196"
+  },
+  {
+    "glyph_name": "mosque_0025",
+    "source_file": "mosque-0025.png",
+    "codepoint": "U+100197"
+  },
+  {
+    "glyph_name": "mosque_0026",
+    "source_file": "mosque-0026.png",
+    "codepoint": "U+100198"
+  },
+  {
+    "glyph_name": "mosque_0027",
+    "source_file": "mosque-0027.png",
+    "codepoint": "U+100199"
+  },
+  {
+    "glyph_name": "mosque_0028",
+    "source_file": "mosque-0028.png",
+    "codepoint": "U+10019A"
+  },
+  {
+    "glyph_name": "mosque_0029",
+    "source_file": "mosque-0029.png",
+    "codepoint": "U+10019B"
+  },
+  {
+    "glyph_name": "mosque_0030",
+    "source_file": "mosque-0030.png",
+    "codepoint": "U+10019C"
+  },
+  {
+    "glyph_name": "mosque_0031",
+    "source_file": "mosque-0031.png",
+    "codepoint": "U+10019D"
+  },
+  {
+    "glyph_name": "mosque_0032",
+    "source_file": "mosque-0032.png",
+    "codepoint": "U+10019E"
+  },
+  {
+    "glyph_name": "mosque_0033",
+    "source_file": "mosque-0033.png",
+    "codepoint": "U+10019F"
+  },
+  {
+    "glyph_name": "mosque_0034",
+    "source_file": "mosque-0034.png",
+    "codepoint": "U+1001A0"
+  },
+  {
+    "glyph_name": "mosque_0035",
+    "source_file": "mosque-0035.png",
+    "codepoint": "U+1001A1"
+  },
+  {
+    "glyph_name": "mosque_0036",
+    "source_file": "mosque-0036.png",
+    "codepoint": "U+1001A2"
+  },
+  {
+    "glyph_name": "mosque_0037",
+    "source_file": "mosque-0037.png",
+    "codepoint": "U+1001A3"
+  },
+  {
+    "glyph_name": "mosque_0038",
+    "source_file": "mosque-0038.png",
+    "codepoint": "U+1001A4"
+  },
+  {
+    "glyph_name": "mosque_0039",
+    "source_file": "mosque-0039.png",
+    "codepoint": "U+1001A5"
+  },
+  {
+    "glyph_name": "mosque_0040",
+    "source_file": "mosque-0040.png",
+    "codepoint": "U+1001A6"
+  },
+  {
+    "glyph_name": "mosque_0041",
+    "source_file": "mosque-0041.png",
+    "codepoint": "U+1001A7"
+  },
+  {
+    "glyph_name": "mosque_0042",
+    "source_file": "mosque-0042.png",
+    "codepoint": "U+1001A8"
+  },
+  {
+    "glyph_name": "mosque_0043",
+    "source_file": "mosque-0043.png",
+    "codepoint": "U+1001A9"
+  },
+  {
+    "glyph_name": "mosque_0044",
+    "source_file": "mosque-0044.png",
+    "codepoint": "U+1001AA"
+  },
+  {
+    "glyph_name": "music_note_0001",
+    "source_file": "music-note-0001.png",
+    "codepoint": "U+100257"
+  },
+  {
+    "glyph_name": "music_note_0002",
+    "source_file": "music-note-0002.png",
+    "codepoint": "U+100258"
+  },
+  {
+    "glyph_name": "music_note_0003",
+    "source_file": "music-note-0003.png",
+    "codepoint": "U+100259"
+  },
+  {
+    "glyph_name": "music_note_0004",
+    "source_file": "music-note-0004.png",
+    "codepoint": "U+10025A"
+  },
+  {
+    "glyph_name": "music_note_0005",
+    "source_file": "music-note-0005.png",
+    "codepoint": "U+10025B"
+  },
+  {
+    "glyph_name": "music_note_0006",
+    "source_file": "music-note-0006.png",
+    "codepoint": "U+10025C"
+  },
+  {
+    "glyph_name": "music_note_0007",
+    "source_file": "music-note-0007.png",
+    "codepoint": "U+10025D"
+  },
+  {
+    "glyph_name": "music_note_0008",
+    "source_file": "music-note-0008.png",
+    "codepoint": "U+10025E"
+  },
+  {
+    "glyph_name": "music_note_0009",
+    "source_file": "music-note-0009.png",
+    "codepoint": "U+10025F"
+  },
+  {
+    "glyph_name": "music_note_0010",
+    "source_file": "music-note-0010.png",
+    "codepoint": "U+100260"
+  },
+  {
+    "glyph_name": "music_note_0011",
+    "source_file": "music-note-0011.png",
+    "codepoint": "U+100261"
+  },
+  {
+    "glyph_name": "music_note_0012",
+    "source_file": "music-note-0012.png",
+    "codepoint": "U+100262"
+  },
+  {
+    "glyph_name": "music_note_0013",
+    "source_file": "music-note-0013.png",
+    "codepoint": "U+100263"
+  },
+  {
+    "glyph_name": "music_note_0014",
+    "source_file": "music-note-0014.png",
+    "codepoint": "U+100264"
+  },
+  {
+    "glyph_name": "music_note_0015",
+    "source_file": "music-note-0015.png",
+    "codepoint": "U+100265"
+  },
+  {
+    "glyph_name": "music_note_0016",
+    "source_file": "music-note-0016.png",
+    "codepoint": "U+100266"
+  },
+  {
+    "glyph_name": "music_note_0017",
+    "source_file": "music-note-0017.png",
+    "codepoint": "U+100267"
+  },
+  {
+    "glyph_name": "music_note_0018",
+    "source_file": "music-note-0018.png",
+    "codepoint": "U+100268"
+  },
+  {
+    "glyph_name": "music_note_0019",
+    "source_file": "music-note-0019.png",
+    "codepoint": "U+100269"
+  },
+  {
+    "glyph_name": "music_note_0020",
+    "source_file": "music-note-0020.png",
+    "codepoint": "U+10026A"
+  },
+  {
+    "glyph_name": "music_note_0021",
+    "source_file": "music-note-0021.png",
+    "codepoint": "U+10026B"
+  },
+  {
+    "glyph_name": "music_note_0022",
+    "source_file": "music-note-0022.png",
+    "codepoint": "U+10026C"
+  },
+  {
+    "glyph_name": "music_note_0023",
+    "source_file": "music-note-0023.png",
+    "codepoint": "U+10026D"
+  },
+  {
+    "glyph_name": "music_note_0024",
+    "source_file": "music-note-0024.png",
+    "codepoint": "U+10026E"
+  },
+  {
+    "glyph_name": "music_note_0025",
+    "source_file": "music-note-0025.png",
+    "codepoint": "U+10026F"
+  },
+  {
+    "glyph_name": "music_note_0026",
+    "source_file": "music-note-0026.png",
+    "codepoint": "U+100270"
+  },
+  {
+    "glyph_name": "music_note_0027",
+    "source_file": "music-note-0027.png",
+    "codepoint": "U+100271"
+  },
+  {
+    "glyph_name": "music_note_0028",
+    "source_file": "music-note-0028.png",
+    "codepoint": "U+100272"
+  },
+  {
+    "glyph_name": "music_note_0029",
+    "source_file": "music-note-0029.png",
+    "codepoint": "U+100273"
+  },
+  {
+    "glyph_name": "music_note_0030",
+    "source_file": "music-note-0030.png",
+    "codepoint": "U+100274"
+  },
+  {
+    "glyph_name": "music_note_0031",
+    "source_file": "music-note-0031.png",
+    "codepoint": "U+100275"
+  },
+  {
+    "glyph_name": "music_note_0032",
+    "source_file": "music-note-0032.png",
+    "codepoint": "U+100276"
+  },
+  {
+    "glyph_name": "music_note_0033",
+    "source_file": "music-note-0033.png",
+    "codepoint": "U+100277"
+  },
+  {
+    "glyph_name": "music_note_0034",
+    "source_file": "music-note-0034.png",
+    "codepoint": "U+100278"
+  },
+  {
+    "glyph_name": "music_note_0035",
+    "source_file": "music-note-0035.png",
+    "codepoint": "U+100279"
+  },
+  {
+    "glyph_name": "music_note_0036",
+    "source_file": "music-note-0036.png",
+    "codepoint": "U+10027A"
+  },
+  {
+    "glyph_name": "music_note_0037",
+    "source_file": "music-note-0037.png",
+    "codepoint": "U+10027B"
+  },
+  {
+    "glyph_name": "music_note_0038",
+    "source_file": "music-note-0038.png",
+    "codepoint": "U+10027C"
+  },
+  {
+    "glyph_name": "music_note_0039",
+    "source_file": "music-note-0039.png",
+    "codepoint": "U+10027D"
+  },
+  {
+    "glyph_name": "music_note_0040",
+    "source_file": "music-note-0040.png",
+    "codepoint": "U+10027E"
+  },
+  {
+    "glyph_name": "music_note_0041",
+    "source_file": "music-note-0041.png",
+    "codepoint": "U+10027F"
+  },
+  {
+    "glyph_name": "music_note_0042",
+    "source_file": "music-note-0042.png",
+    "codepoint": "U+100280"
+  },
+  {
+    "glyph_name": "music_note_0043",
+    "source_file": "music-note-0043.png",
+    "codepoint": "U+100281"
+  },
+  {
+    "glyph_name": "music_note_0044",
+    "source_file": "music-note-0044.png",
+    "codepoint": "U+100282"
+  },
+  {
+    "glyph_name": "music_note_0045",
+    "source_file": "music-note-0045.png",
+    "codepoint": "U+100283"
+  },
+  {
+    "glyph_name": "music_note_0046",
+    "source_file": "music-note-0046.png",
+    "codepoint": "U+100284"
+  },
+  {
+    "glyph_name": "music_note_0047",
+    "source_file": "music-note-0047.png",
+    "codepoint": "U+100285"
+  },
+  {
+    "glyph_name": "music_note_0048",
+    "source_file": "music-note-0048.png",
+    "codepoint": "U+100286"
+  },
+  {
+    "glyph_name": "music_note_0049",
+    "source_file": "music-note-0049.png",
+    "codepoint": "U+100287"
+  },
+  {
+    "glyph_name": "music_note_0050",
+    "source_file": "music-note-0050.png",
+    "codepoint": "U+100288"
+  },
+  {
+    "glyph_name": "music_note_0051",
+    "source_file": "music-note-0051.png",
+    "codepoint": "U+100289"
+  },
+  {
+    "glyph_name": "music_note_0052",
+    "source_file": "music-note-0052.png",
+    "codepoint": "U+10028A"
+  },
+  {
+    "glyph_name": "music_note_0053",
+    "source_file": "music-note-0053.png",
+    "codepoint": "U+10028B"
+  },
+  {
+    "glyph_name": "music_note_0054",
+    "source_file": "music-note-0054.png",
+    "codepoint": "U+10028C"
+  },
+  {
+    "glyph_name": "music_note_0055",
+    "source_file": "music-note-0055.png",
+    "codepoint": "U+10028D"
+  },
+  {
+    "glyph_name": "music_note_0056",
+    "source_file": "music-note-0056.png",
+    "codepoint": "U+10028E"
+  },
+  {
+    "glyph_name": "music_note_0057",
+    "source_file": "music-note-0057.png",
+    "codepoint": "U+10028F"
+  },
+  {
+    "glyph_name": "music_note_0058",
+    "source_file": "music-note-0058.png",
+    "codepoint": "U+100290"
+  },
+  {
+    "glyph_name": "music_note_0059",
+    "source_file": "music-note-0059.png",
+    "codepoint": "U+100291"
+  },
+  {
+    "glyph_name": "music_note_0060",
+    "source_file": "music-note-0060.png",
+    "codepoint": "U+100292"
+  },
+  {
+    "glyph_name": "package_0001",
+    "source_file": "package-0001.png",
+    "codepoint": "U+10004F"
+  },
+  {
+    "glyph_name": "package_0002",
+    "source_file": "package-0002.png",
+    "codepoint": "U+100050"
+  },
+  {
+    "glyph_name": "package_0003",
+    "source_file": "package-0003.png",
+    "codepoint": "U+100051"
+  },
+  {
+    "glyph_name": "package_0004",
+    "source_file": "package-0004.png",
+    "codepoint": "U+100052"
+  },
+  {
+    "glyph_name": "package_0005",
+    "source_file": "package-0005.png",
+    "codepoint": "U+100053"
+  },
+  {
+    "glyph_name": "package_0006",
+    "source_file": "package-0006.png",
+    "codepoint": "U+100054"
+  },
+  {
+    "glyph_name": "package_0007",
+    "source_file": "package-0007.png",
+    "codepoint": "U+100055"
+  },
+  {
+    "glyph_name": "package_0008",
+    "source_file": "package-0008.png",
+    "codepoint": "U+100056"
+  },
+  {
+    "glyph_name": "package_0009",
+    "source_file": "package-0009.png",
+    "codepoint": "U+100057"
+  },
+  {
+    "glyph_name": "package_0010",
+    "source_file": "package-0010.png",
+    "codepoint": "U+100058"
+  },
+  {
+    "glyph_name": "package_0011",
+    "source_file": "package-0011.png",
+    "codepoint": "U+100059"
+  },
+  {
+    "glyph_name": "package_0012",
+    "source_file": "package-0012.png",
+    "codepoint": "U+10005A"
+  },
+  {
+    "glyph_name": "package_0013",
+    "source_file": "package-0013.png",
+    "codepoint": "U+10005B"
+  },
+  {
+    "glyph_name": "package_0014",
+    "source_file": "package-0014.png",
+    "codepoint": "U+10005C"
+  },
+  {
+    "glyph_name": "package_0015",
+    "source_file": "package-0015.png",
+    "codepoint": "U+10005D"
+  },
+  {
+    "glyph_name": "package_0016",
+    "source_file": "package-0016.png",
+    "codepoint": "U+10005E"
+  },
+  {
+    "glyph_name": "package_0017",
+    "source_file": "package-0017.png",
+    "codepoint": "U+10005F"
+  },
+  {
+    "glyph_name": "package_0018",
+    "source_file": "package-0018.png",
+    "codepoint": "U+100060"
+  },
+  {
+    "glyph_name": "package_0019",
+    "source_file": "package-0019.png",
+    "codepoint": "U+100061"
+  },
+  {
+    "glyph_name": "package_0020",
+    "source_file": "package-0020.png",
+    "codepoint": "U+100062"
+  },
+  {
+    "glyph_name": "package_0021",
+    "source_file": "package-0021.png",
+    "codepoint": "U+100063"
+  },
+  {
+    "glyph_name": "package_0022",
+    "source_file": "package-0022.png",
+    "codepoint": "U+100064"
+  },
+  {
+    "glyph_name": "package_0023",
+    "source_file": "package-0023.png",
+    "codepoint": "U+100065"
+  },
+  {
+    "glyph_name": "package_0024",
+    "source_file": "package-0024.png",
+    "codepoint": "U+100066"
+  },
+  {
+    "glyph_name": "package_0025",
+    "source_file": "package-0025.png",
+    "codepoint": "U+100067"
+  },
+  {
+    "glyph_name": "package_0026",
+    "source_file": "package-0026.png",
+    "codepoint": "U+100068"
+  },
+  {
+    "glyph_name": "package_0027",
+    "source_file": "package-0027.png",
+    "codepoint": "U+100069"
+  },
+  {
+    "glyph_name": "package_0028",
+    "source_file": "package-0028.png",
+    "codepoint": "U+10006A"
+  },
+  {
+    "glyph_name": "package_0029",
+    "source_file": "package-0029.png",
+    "codepoint": "U+10006B"
+  },
+  {
+    "glyph_name": "package_0030",
+    "source_file": "package-0030.png",
+    "codepoint": "U+10006C"
+  },
+  {
+    "glyph_name": "package_0031",
+    "source_file": "package-0031.png",
+    "codepoint": "U+10006D"
+  },
+  {
+    "glyph_name": "package_0032",
+    "source_file": "package-0032.png",
+    "codepoint": "U+10006E"
+  },
+  {
+    "glyph_name": "package_0033",
+    "source_file": "package-0033.png",
+    "codepoint": "U+10006F"
+  },
+  {
+    "glyph_name": "package_0034",
+    "source_file": "package-0034.png",
+    "codepoint": "U+100070"
+  },
+  {
+    "glyph_name": "package_0035",
+    "source_file": "package-0035.png",
+    "codepoint": "U+100071"
+  },
+  {
+    "glyph_name": "package_0036",
+    "source_file": "package-0036.png",
+    "codepoint": "U+100072"
+  },
+  {
+    "glyph_name": "package_0037",
+    "source_file": "package-0037.png",
+    "codepoint": "U+100073"
+  },
+  {
+    "glyph_name": "package_0038",
+    "source_file": "package-0038.png",
+    "codepoint": "U+100074"
+  },
+  {
+    "glyph_name": "package_0039",
+    "source_file": "package-0039.png",
+    "codepoint": "U+100075"
+  },
+  {
+    "glyph_name": "package_0040",
+    "source_file": "package-0040.png",
+    "codepoint": "U+100076"
+  },
+  {
+    "glyph_name": "package_0041",
+    "source_file": "package-0041.png",
+    "codepoint": "U+100077"
+  },
+  {
+    "glyph_name": "package_0042",
+    "source_file": "package-0042.png",
+    "codepoint": "U+100078"
+  },
+  {
+    "glyph_name": "package_0043",
+    "source_file": "package-0043.png",
+    "codepoint": "U+100079"
+  },
+  {
+    "glyph_name": "package_0044",
+    "source_file": "package-0044.png",
+    "codepoint": "U+10007A"
+  },
+  {
+    "glyph_name": "package_0045",
+    "source_file": "package-0045.png",
+    "codepoint": "U+10007B"
+  },
+  {
+    "glyph_name": "package_0046",
+    "source_file": "package-0046.png",
+    "codepoint": "U+10007C"
+  },
+  {
+    "glyph_name": "package_0047",
+    "source_file": "package-0047.png",
+    "codepoint": "U+10007D"
+  },
+  {
+    "glyph_name": "package_0048",
+    "source_file": "package-0048.png",
+    "codepoint": "U+10007E"
+  },
+  {
+    "glyph_name": "package_0049",
+    "source_file": "package-0049.png",
+    "codepoint": "U+10007F"
+  },
+  {
+    "glyph_name": "package_0050",
+    "source_file": "package-0050.png",
+    "codepoint": "U+100080"
+  },
+  {
+    "glyph_name": "package_0051",
+    "source_file": "package-0051.png",
+    "codepoint": "U+100081"
+  },
+  {
+    "glyph_name": "package_0052",
+    "source_file": "package-0052.png",
+    "codepoint": "U+100082"
+  },
+  {
+    "glyph_name": "package_0053",
+    "source_file": "package-0053.png",
+    "codepoint": "U+100083"
+  },
+  {
+    "glyph_name": "package_0054",
+    "source_file": "package-0054.png",
+    "codepoint": "U+100084"
+  },
+  {
+    "glyph_name": "package_0055",
+    "source_file": "package-0055.png",
+    "codepoint": "U+100085"
+  },
+  {
+    "glyph_name": "package_0056",
+    "source_file": "package-0056.png",
+    "codepoint": "U+100086"
+  },
+  {
+    "glyph_name": "package_0057",
+    "source_file": "package-0057.png",
+    "codepoint": "U+100087"
+  },
+  {
+    "glyph_name": "package_0058",
+    "source_file": "package-0058.png",
+    "codepoint": "U+100088"
+  },
+  {
+    "glyph_name": "package_0059",
+    "source_file": "package-0059.png",
+    "codepoint": "U+100089"
+  },
+  {
+    "glyph_name": "package_0060",
+    "source_file": "package-0060.png",
+    "codepoint": "U+10008A"
+  },
+  {
+    "glyph_name": "package_0061",
+    "source_file": "package-0061.png",
+    "codepoint": "U+10008B"
+  },
+  {
+    "glyph_name": "package_0062",
+    "source_file": "package-0062.png",
+    "codepoint": "U+10008C"
+  },
+  {
+    "glyph_name": "package_0063",
+    "source_file": "package-0063.png",
+    "codepoint": "U+10008D"
+  },
+  {
+    "glyph_name": "package_0064",
+    "source_file": "package-0064.png",
+    "codepoint": "U+10008E"
+  },
+  {
+    "glyph_name": "package_0065",
+    "source_file": "package-0065.png",
+    "codepoint": "U+10008F"
+  },
+  {
+    "glyph_name": "package_0066",
+    "source_file": "package-0066.png",
+    "codepoint": "U+100090"
+  },
+  {
+    "glyph_name": "package_0067",
+    "source_file": "package-0067.png",
+    "codepoint": "U+100091"
+  },
+  {
+    "glyph_name": "package_0068",
+    "source_file": "package-0068.png",
+    "codepoint": "U+100092"
+  },
+  {
+    "glyph_name": "package_0069",
+    "source_file": "package-0069.png",
+    "codepoint": "U+100093"
+  },
+  {
+    "glyph_name": "package_0070",
+    "source_file": "package-0070.png",
+    "codepoint": "U+100094"
+  },
+  {
+    "glyph_name": "package_0071",
+    "source_file": "package-0071.png",
+    "codepoint": "U+100095"
+  },
+  {
+    "glyph_name": "package_0072",
+    "source_file": "package-0072.png",
+    "codepoint": "U+100096"
+  },
+  {
+    "glyph_name": "package",
+    "source_file": "package.gif",
+    "codepoint": "U+100097"
+  },
+  {
+    "glyph_name": "power_0001",
+    "source_file": "power-0001.png",
+    "codepoint": "U+1003EC"
+  },
+  {
+    "glyph_name": "power_0002",
+    "source_file": "power-0002.png",
+    "codepoint": "U+1003ED"
+  },
+  {
+    "glyph_name": "power_0003",
+    "source_file": "power-0003.png",
+    "codepoint": "U+1003EE"
+  },
+  {
+    "glyph_name": "power_0004",
+    "source_file": "power-0004.png",
+    "codepoint": "U+1003EF"
+  },
+  {
+    "glyph_name": "power_0005",
+    "source_file": "power-0005.png",
+    "codepoint": "U+1003F0"
+  },
+  {
+    "glyph_name": "power_0006",
+    "source_file": "power-0006.png",
+    "codepoint": "U+1003F1"
+  },
+  {
+    "glyph_name": "power_0007",
+    "source_file": "power-0007.png",
+    "codepoint": "U+1003F2"
+  },
+  {
+    "glyph_name": "power_0008",
+    "source_file": "power-0008.png",
+    "codepoint": "U+1003F3"
+  },
+  {
+    "glyph_name": "power_0009",
+    "source_file": "power-0009.png",
+    "codepoint": "U+1003F4"
+  },
+  {
+    "glyph_name": "power_0010",
+    "source_file": "power-0010.png",
+    "codepoint": "U+1003F5"
+  },
+  {
+    "glyph_name": "power_0011",
+    "source_file": "power-0011.png",
+    "codepoint": "U+1003F6"
+  },
+  {
+    "glyph_name": "power_0012",
+    "source_file": "power-0012.png",
+    "codepoint": "U+1003F7"
+  },
+  {
+    "glyph_name": "power_0013",
+    "source_file": "power-0013.png",
+    "codepoint": "U+1003F8"
+  },
+  {
+    "glyph_name": "power_0014",
+    "source_file": "power-0014.png",
+    "codepoint": "U+1003F9"
+  },
+  {
+    "glyph_name": "power_0015",
+    "source_file": "power-0015.png",
+    "codepoint": "U+1003FA"
+  },
+  {
+    "glyph_name": "power_0016",
+    "source_file": "power-0016.png",
+    "codepoint": "U+1003FB"
+  },
+  {
+    "glyph_name": "power_0017",
+    "source_file": "power-0017.png",
+    "codepoint": "U+1003FC"
+  },
+  {
+    "glyph_name": "power_0018",
+    "source_file": "power-0018.png",
+    "codepoint": "U+1003FD"
+  },
+  {
+    "glyph_name": "power_0019",
+    "source_file": "power-0019.png",
+    "codepoint": "U+1003FE"
+  },
+  {
+    "glyph_name": "power_0020",
+    "source_file": "power-0020.png",
+    "codepoint": "U+1003FF"
+  },
+  {
+    "glyph_name": "power_0021",
+    "source_file": "power-0021.png",
+    "codepoint": "U+100400"
+  },
+  {
+    "glyph_name": "power_0022",
+    "source_file": "power-0022.png",
+    "codepoint": "U+100401"
+  },
+  {
+    "glyph_name": "power_0023",
+    "source_file": "power-0023.png",
+    "codepoint": "U+100402"
+  },
+  {
+    "glyph_name": "power_0024",
+    "source_file": "power-0024.png",
+    "codepoint": "U+100403"
+  },
+  {
+    "glyph_name": "power_0025",
+    "source_file": "power-0025.png",
+    "codepoint": "U+100404"
+  },
+  {
+    "glyph_name": "power_0026",
+    "source_file": "power-0026.png",
+    "codepoint": "U+100405"
+  },
+  {
+    "glyph_name": "power_0027",
+    "source_file": "power-0027.png",
+    "codepoint": "U+100406"
+  },
+  {
+    "glyph_name": "power_0028",
+    "source_file": "power-0028.png",
+    "codepoint": "U+100407"
+  },
+  {
+    "glyph_name": "power_0029",
+    "source_file": "power-0029.png",
+    "codepoint": "U+100408"
+  },
+  {
+    "glyph_name": "power_0030",
+    "source_file": "power-0030.png",
+    "codepoint": "U+100409"
+  },
+  {
+    "glyph_name": "power_0031",
+    "source_file": "power-0031.png",
+    "codepoint": "U+10040A"
+  },
+  {
+    "glyph_name": "power_0032",
+    "source_file": "power-0032.png",
+    "codepoint": "U+10040B"
+  },
+  {
+    "glyph_name": "power_0033",
+    "source_file": "power-0033.png",
+    "codepoint": "U+10040C"
+  },
+  {
+    "glyph_name": "power_0034",
+    "source_file": "power-0034.png",
+    "codepoint": "U+10040D"
+  },
+  {
+    "glyph_name": "power_0035",
+    "source_file": "power-0035.png",
+    "codepoint": "U+10040E"
+  },
+  {
+    "glyph_name": "power_0036",
+    "source_file": "power-0036.png",
+    "codepoint": "U+10040F"
+  },
+  {
+    "glyph_name": "power_0037",
+    "source_file": "power-0037.png",
+    "codepoint": "U+100410"
+  },
+  {
+    "glyph_name": "power_0038",
+    "source_file": "power-0038.png",
+    "codepoint": "U+100411"
+  },
+  {
+    "glyph_name": "power_0039",
+    "source_file": "power-0039.png",
+    "codepoint": "U+100412"
+  },
+  {
+    "glyph_name": "power_0040",
+    "source_file": "power-0040.png",
+    "codepoint": "U+100413"
+  },
+  {
+    "glyph_name": "power_0041",
+    "source_file": "power-0041.png",
+    "codepoint": "U+100414"
+  },
+  {
+    "glyph_name": "power_0042",
+    "source_file": "power-0042.png",
+    "codepoint": "U+100415"
+  },
+  {
+    "glyph_name": "power_0043",
+    "source_file": "power-0043.png",
+    "codepoint": "U+100416"
+  },
+  {
+    "glyph_name": "power_0044",
+    "source_file": "power-0044.png",
+    "codepoint": "U+100417"
+  },
+  {
+    "glyph_name": "power_0045",
+    "source_file": "power-0045.png",
+    "codepoint": "U+100418"
+  },
+  {
+    "glyph_name": "power_0046",
+    "source_file": "power-0046.png",
+    "codepoint": "U+100419"
+  },
+  {
+    "glyph_name": "power_0047",
+    "source_file": "power-0047.png",
+    "codepoint": "U+10041A"
+  },
+  {
+    "glyph_name": "power_0048",
+    "source_file": "power-0048.png",
+    "codepoint": "U+10041B"
+  },
+  {
+    "glyph_name": "power_0049",
+    "source_file": "power-0049.png",
+    "codepoint": "U+10041C"
+  },
+  {
+    "glyph_name": "power_0050",
+    "source_file": "power-0050.png",
+    "codepoint": "U+10041D"
+  },
+  {
+    "glyph_name": "power_0051",
+    "source_file": "power-0051.png",
+    "codepoint": "U+10041E"
+  },
+  {
+    "glyph_name": "power_0052",
+    "source_file": "power-0052.png",
+    "codepoint": "U+10041F"
+  },
+  {
+    "glyph_name": "power_0053",
+    "source_file": "power-0053.png",
+    "codepoint": "U+100420"
+  },
+  {
+    "glyph_name": "power_0054",
+    "source_file": "power-0054.png",
+    "codepoint": "U+100421"
+  },
+  {
+    "glyph_name": "power_0055",
+    "source_file": "power-0055.png",
+    "codepoint": "U+100422"
+  },
+  {
+    "glyph_name": "power_0056",
+    "source_file": "power-0056.png",
+    "codepoint": "U+100423"
+  },
+  {
+    "glyph_name": "power_0057",
+    "source_file": "power-0057.png",
+    "codepoint": "U+100424"
+  },
+  {
+    "glyph_name": "power_0058",
+    "source_file": "power-0058.png",
+    "codepoint": "U+100425"
+  },
+  {
+    "glyph_name": "power_0059",
+    "source_file": "power-0059.png",
+    "codepoint": "U+100426"
+  },
+  {
+    "glyph_name": "power_0060",
+    "source_file": "power-0060.png",
+    "codepoint": "U+100427"
+  },
+  {
+    "glyph_name": "power_0061",
+    "source_file": "power-0061.png",
+    "codepoint": "U+100428"
+  },
+  {
+    "glyph_name": "power_0062",
+    "source_file": "power-0062.png",
+    "codepoint": "U+100429"
+  },
+  {
+    "glyph_name": "power_0063",
+    "source_file": "power-0063.png",
+    "codepoint": "U+10042A"
+  },
+  {
+    "glyph_name": "power_0064",
+    "source_file": "power-0064.png",
+    "codepoint": "U+10042B"
+  },
+  {
+    "glyph_name": "power_0065",
+    "source_file": "power-0065.png",
+    "codepoint": "U+10042C"
+  },
+  {
+    "glyph_name": "power_0066",
+    "source_file": "power-0066.png",
+    "codepoint": "U+10042D"
+  },
+  {
+    "glyph_name": "power_0067",
+    "source_file": "power-0067.png",
+    "codepoint": "U+10042E"
+  },
+  {
+    "glyph_name": "power_0068",
+    "source_file": "power-0068.png",
+    "codepoint": "U+10042F"
+  },
+  {
+    "glyph_name": "power_0069",
+    "source_file": "power-0069.png",
+    "codepoint": "U+100430"
+  },
+  {
+    "glyph_name": "power_0070",
+    "source_file": "power-0070.png",
+    "codepoint": "U+100431"
+  },
+  {
+    "glyph_name": "power_0071",
+    "source_file": "power-0071.png",
+    "codepoint": "U+100432"
+  },
+  {
+    "glyph_name": "power_0072",
+    "source_file": "power-0072.png",
+    "codepoint": "U+100433"
+  },
+  {
+    "glyph_name": "power_0073",
+    "source_file": "power-0073.png",
+    "codepoint": "U+100434"
+  },
+  {
+    "glyph_name": "volume_0001",
+    "source_file": "volume-0001.png",
+    "codepoint": "U+100308"
+  },
+  {
+    "glyph_name": "volume_0002",
+    "source_file": "volume-0002.png",
+    "codepoint": "U+100309"
+  },
+  {
+    "glyph_name": "volume_0003",
+    "source_file": "volume-0003.png",
+    "codepoint": "U+10030A"
+  },
+  {
+    "glyph_name": "volume_0004",
+    "source_file": "volume-0004.png",
+    "codepoint": "U+10030B"
+  },
+  {
+    "glyph_name": "volume_0005",
+    "source_file": "volume-0005.png",
+    "codepoint": "U+10030C"
+  },
+  {
+    "glyph_name": "volume_0006",
+    "source_file": "volume-0006.png",
+    "codepoint": "U+10030D"
+  },
+  {
+    "glyph_name": "volume_0007",
+    "source_file": "volume-0007.png",
+    "codepoint": "U+10030E"
+  },
+  {
+    "glyph_name": "volume_0008",
+    "source_file": "volume-0008.png",
+    "codepoint": "U+10030F"
+  },
+  {
+    "glyph_name": "volume_0009",
+    "source_file": "volume-0009.png",
+    "codepoint": "U+100310"
+  },
+  {
+    "glyph_name": "volume_0010",
+    "source_file": "volume-0010.png",
+    "codepoint": "U+100311"
+  },
+  {
+    "glyph_name": "volume_0011",
+    "source_file": "volume-0011.png",
+    "codepoint": "U+100312"
+  },
+  {
+    "glyph_name": "volume_0012",
+    "source_file": "volume-0012.png",
+    "codepoint": "U+100313"
+  },
+  {
+    "glyph_name": "volume_0013",
+    "source_file": "volume-0013.png",
+    "codepoint": "U+100314"
+  },
+  {
+    "glyph_name": "volume_0014",
+    "source_file": "volume-0014.png",
+    "codepoint": "U+100315"
+  },
+  {
+    "glyph_name": "volume_0015",
+    "source_file": "volume-0015.png",
+    "codepoint": "U+100316"
+  },
+  {
+    "glyph_name": "volume_0016",
+    "source_file": "volume-0016.png",
+    "codepoint": "U+100317"
+  },
+  {
+    "glyph_name": "volume_0017",
+    "source_file": "volume-0017.png",
+    "codepoint": "U+100318"
+  },
+  {
+    "glyph_name": "volume_0018",
+    "source_file": "volume-0018.png",
+    "codepoint": "U+100319"
+  },
+  {
+    "glyph_name": "volume_0019",
+    "source_file": "volume-0019.png",
+    "codepoint": "U+10031A"
+  },
+  {
+    "glyph_name": "volume_0020",
+    "source_file": "volume-0020.png",
+    "codepoint": "U+10031B"
+  },
+  {
+    "glyph_name": "volume_0021",
+    "source_file": "volume-0021.png",
+    "codepoint": "U+10031C"
+  },
+  {
+    "glyph_name": "volume_0022",
+    "source_file": "volume-0022.png",
+    "codepoint": "U+10031D"
+  },
+  {
+    "glyph_name": "volume_0023",
+    "source_file": "volume-0023.png",
+    "codepoint": "U+10031E"
+  },
+  {
+    "glyph_name": "volume_0024",
+    "source_file": "volume-0024.png",
+    "codepoint": "U+10031F"
+  },
+  {
+    "glyph_name": "volume_0025",
+    "source_file": "volume-0025.png",
+    "codepoint": "U+100320"
+  },
+  {
+    "glyph_name": "volume_0026",
+    "source_file": "volume-0026.png",
+    "codepoint": "U+100321"
+  },
+  {
+    "glyph_name": "volume_0027",
+    "source_file": "volume-0027.png",
+    "codepoint": "U+100322"
+  },
+  {
+    "glyph_name": "volume_0028",
+    "source_file": "volume-0028.png",
+    "codepoint": "U+100323"
+  },
+  {
+    "glyph_name": "volume_0029",
+    "source_file": "volume-0029.png",
+    "codepoint": "U+100324"
+  },
+  {
+    "glyph_name": "volume_0030",
+    "source_file": "volume-0030.png",
+    "codepoint": "U+100325"
+  },
+  {
+    "glyph_name": "volume_0031",
+    "source_file": "volume-0031.png",
+    "codepoint": "U+100326"
+  },
+  {
+    "glyph_name": "volume_0032",
+    "source_file": "volume-0032.png",
+    "codepoint": "U+100327"
+  },
+  {
+    "glyph_name": "volume_0033",
+    "source_file": "volume-0033.png",
+    "codepoint": "U+100328"
+  },
+  {
+    "glyph_name": "volume_0034",
+    "source_file": "volume-0034.png",
+    "codepoint": "U+100329"
+  },
+  {
+    "glyph_name": "volume_0035",
+    "source_file": "volume-0035.png",
+    "codepoint": "U+10032A"
+  },
+  {
+    "glyph_name": "volume_0036",
+    "source_file": "volume-0036.png",
+    "codepoint": "U+10032B"
+  },
+  {
+    "glyph_name": "volume_0037",
+    "source_file": "volume-0037.png",
+    "codepoint": "U+10032C"
+  },
+  {
+    "glyph_name": "volume_0038",
+    "source_file": "volume-0038.png",
+    "codepoint": "U+10032D"
+  },
+  {
+    "glyph_name": "volume_0039",
+    "source_file": "volume-0039.png",
+    "codepoint": "U+10032E"
+  },
+  {
+    "glyph_name": "volume_0040",
+    "source_file": "volume-0040.png",
+    "codepoint": "U+10032F"
+  },
+  {
+    "glyph_name": "volume_0041",
+    "source_file": "volume-0041.png",
+    "codepoint": "U+100330"
+  },
+  {
+    "glyph_name": "volume_0042",
+    "source_file": "volume-0042.png",
+    "codepoint": "U+100331"
+  },
+  {
+    "glyph_name": "volume_0043",
+    "source_file": "volume-0043.png",
+    "codepoint": "U+100332"
+  },
+  {
+    "glyph_name": "volume_0044",
+    "source_file": "volume-0044.png",
+    "codepoint": "U+100333"
+  },
+  {
+    "glyph_name": "volume_0045",
+    "source_file": "volume-0045.png",
+    "codepoint": "U+100334"
+  },
+  {
+    "glyph_name": "volume_0046",
+    "source_file": "volume-0046.png",
+    "codepoint": "U+100335"
+  },
+  {
+    "glyph_name": "volume_0047",
+    "source_file": "volume-0047.png",
+    "codepoint": "U+100336"
+  },
+  {
+    "glyph_name": "volume_0048",
+    "source_file": "volume-0048.png",
+    "codepoint": "U+100337"
+  },
+  {
+    "glyph_name": "volume_0049",
+    "source_file": "volume-0049.png",
+    "codepoint": "U+100338"
+  },
+  {
+    "glyph_name": "volume_0050",
+    "source_file": "volume-0050.png",
+    "codepoint": "U+100339"
+  },
+  {
+    "glyph_name": "volume_0051",
+    "source_file": "volume-0051.png",
+    "codepoint": "U+10033A"
+  },
+  {
+    "glyph_name": "volume_0052",
+    "source_file": "volume-0052.png",
+    "codepoint": "U+10033B"
+  },
+  {
+    "glyph_name": "volume_0053",
+    "source_file": "volume-0053.png",
+    "codepoint": "U+10033C"
+  },
+  {
+    "glyph_name": "volume_0054",
+    "source_file": "volume-0054.png",
+    "codepoint": "U+10033D"
+  },
+  {
+    "glyph_name": "volume_0055",
+    "source_file": "volume-0055.png",
+    "codepoint": "U+10033E"
+  },
+  {
+    "glyph_name": "volume_0056",
+    "source_file": "volume-0056.png",
+    "codepoint": "U+10033F"
+  },
+  {
+    "glyph_name": "volume_0057",
+    "source_file": "volume-0057.png",
+    "codepoint": "U+100340"
+  },
+  {
+    "glyph_name": "volume_0058",
+    "source_file": "volume-0058.png",
+    "codepoint": "U+100341"
+  },
+  {
+    "glyph_name": "volume_0059",
+    "source_file": "volume-0059.png",
+    "codepoint": "U+100342"
+  },
+  {
+    "glyph_name": "volume_0060",
+    "source_file": "volume-0060.png",
+    "codepoint": "U+100343"
+  },
+  {
+    "glyph_name": "wifi_0001",
+    "source_file": "wifi-0001.png",
+    "codepoint": "U+100293"
+  },
+  {
+    "glyph_name": "wifi_0002",
+    "source_file": "wifi-0002.png",
+    "codepoint": "U+100294"
+  },
+  {
+    "glyph_name": "wifi_0003",
+    "source_file": "wifi-0003.png",
+    "codepoint": "U+100295"
+  },
+  {
+    "glyph_name": "wifi_0004",
+    "source_file": "wifi-0004.png",
+    "codepoint": "U+100296"
+  },
+  {
+    "glyph_name": "wifi_0005",
+    "source_file": "wifi-0005.png",
+    "codepoint": "U+100297"
+  },
+  {
+    "glyph_name": "wifi_0006",
+    "source_file": "wifi-0006.png",
+    "codepoint": "U+100298"
+  },
+  {
+    "glyph_name": "wifi_0007",
+    "source_file": "wifi-0007.png",
+    "codepoint": "U+100299"
+  },
+  {
+    "glyph_name": "wifi_0008",
+    "source_file": "wifi-0008.png",
+    "codepoint": "U+10029A"
+  },
+  {
+    "glyph_name": "wifi_0009",
+    "source_file": "wifi-0009.png",
+    "codepoint": "U+10029B"
+  },
+  {
+    "glyph_name": "wifi_0010",
+    "source_file": "wifi-0010.png",
+    "codepoint": "U+10029C"
+  },
+  {
+    "glyph_name": "wifi_0011",
+    "source_file": "wifi-0011.png",
+    "codepoint": "U+10029D"
+  },
+  {
+    "glyph_name": "wifi_0012",
+    "source_file": "wifi-0012.png",
+    "codepoint": "U+10029E"
+  },
+  {
+    "glyph_name": "wifi_0013",
+    "source_file": "wifi-0013.png",
+    "codepoint": "U+10029F"
+  },
+  {
+    "glyph_name": "wifi_0014",
+    "source_file": "wifi-0014.png",
+    "codepoint": "U+1002A0"
+  },
+  {
+    "glyph_name": "wifi_0015",
+    "source_file": "wifi-0015.png",
+    "codepoint": "U+1002A1"
+  },
+  {
+    "glyph_name": "wifi_0016",
+    "source_file": "wifi-0016.png",
+    "codepoint": "U+1002A2"
+  },
+  {
+    "glyph_name": "wifi_0017",
+    "source_file": "wifi-0017.png",
+    "codepoint": "U+1002A3"
+  },
+  {
+    "glyph_name": "wifi_0018",
+    "source_file": "wifi-0018.png",
+    "codepoint": "U+1002A4"
+  },
+  {
+    "glyph_name": "wifi_0019",
+    "source_file": "wifi-0019.png",
+    "codepoint": "U+1002A5"
+  },
+  {
+    "glyph_name": "wifi_0020",
+    "source_file": "wifi-0020.png",
+    "codepoint": "U+1002A6"
+  },
+  {
+    "glyph_name": "wifi_0021",
+    "source_file": "wifi-0021.png",
+    "codepoint": "U+1002A7"
+  },
+  {
+    "glyph_name": "wifi_0022",
+    "source_file": "wifi-0022.png",
+    "codepoint": "U+1002A8"
+  },
+  {
+    "glyph_name": "wifi_0023",
+    "source_file": "wifi-0023.png",
+    "codepoint": "U+1002A9"
+  },
+  {
+    "glyph_name": "wifi_0024",
+    "source_file": "wifi-0024.png",
+    "codepoint": "U+1002AA"
+  },
+  {
+    "glyph_name": "wifi_0025",
+    "source_file": "wifi-0025.png",
+    "codepoint": "U+1002AB"
+  },
+  {
+    "glyph_name": "wifi_0026",
+    "source_file": "wifi-0026.png",
+    "codepoint": "U+1002AC"
+  },
+  {
+    "glyph_name": "wifi_0027",
+    "source_file": "wifi-0027.png",
+    "codepoint": "U+1002AD"
+  },
+  {
+    "glyph_name": "wifi_0028",
+    "source_file": "wifi-0028.png",
+    "codepoint": "U+1002AE"
+  },
+  {
+    "glyph_name": "wifi_0029",
+    "source_file": "wifi-0029.png",
+    "codepoint": "U+1002AF"
+  },
+  {
+    "glyph_name": "wifi_0030",
+    "source_file": "wifi-0030.png",
+    "codepoint": "U+1002B0"
+  },
+  {
+    "glyph_name": "wifi_0031",
+    "source_file": "wifi-0031.png",
+    "codepoint": "U+1002B1"
+  },
+  {
+    "glyph_name": "wifi_0032",
+    "source_file": "wifi-0032.png",
+    "codepoint": "U+1002B2"
+  },
+  {
+    "glyph_name": "wifi_0033",
+    "source_file": "wifi-0033.png",
+    "codepoint": "U+1002B3"
+  },
+  {
+    "glyph_name": "wifi_0034",
+    "source_file": "wifi-0034.png",
+    "codepoint": "U+1002B4"
+  },
+  {
+    "glyph_name": "wifi_0035",
+    "source_file": "wifi-0035.png",
+    "codepoint": "U+1002B5"
+  },
+  {
+    "glyph_name": "wifi_0036",
+    "source_file": "wifi-0036.png",
+    "codepoint": "U+1002B6"
+  },
+  {
+    "glyph_name": "wifi_0037",
+    "source_file": "wifi-0037.png",
+    "codepoint": "U+1002B7"
+  },
+  {
+    "glyph_name": "wifi_0038",
+    "source_file": "wifi-0038.png",
+    "codepoint": "U+1002B8"
+  },
+  {
+    "glyph_name": "wifi_0039",
+    "source_file": "wifi-0039.png",
+    "codepoint": "U+1002B9"
+  },
+  {
+    "glyph_name": "wifi_0040",
+    "source_file": "wifi-0040.png",
+    "codepoint": "U+1002BA"
+  },
+  {
+    "glyph_name": "wifi_0041",
+    "source_file": "wifi-0041.png",
+    "codepoint": "U+1002BB"
+  },
+  {
+    "glyph_name": "wifi_0042",
+    "source_file": "wifi-0042.png",
+    "codepoint": "U+1002BC"
+  },
+  {
+    "glyph_name": "wifi_0043",
+    "source_file": "wifi-0043.png",
+    "codepoint": "U+1002BD"
+  },
+  {
+    "glyph_name": "wifi_0044",
+    "source_file": "wifi-0044.png",
+    "codepoint": "U+1002BE"
+  }
+]

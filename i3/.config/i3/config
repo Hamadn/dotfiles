@@ -22,6 +22,7 @@ font pango:Iosevka Nerd Font Mono 12
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
+exec --no-startup-id wezterm start --daemonize
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
@@ -53,7 +54,11 @@ floating_modifier $mod
 tiling_drag modifier titlebar
 
 # start a terminal
-bindsym $mod+k exec --no-startup-id wezterm
+bindsym $mod+k exec --no-startup-id wezterm start
+
+# scratchpad terminal (show if alive, spawn otherwise)
+for_window [class="wezterm-scratch"] move to scratchpad
+bindsym $mod+Return exec --no-startup-id "i3-msg '[class=wezterm-scratch] scratchpad show' 2>/dev/null || wezterm start --class wezterm-scratch"
 
 # kill focused window
 bindsym $mod+c kill

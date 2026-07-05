@@ -1,0 +1,5995 @@
+{
+  "version": 1,
+  "project_id": "c23849d4270649b494f82d0eacef3a7b",
+  "codepoint_start": "U+10004F",
+  "entries": [
+    {
+      "source_file": "battery-0001.png",
+      "codepoint": "U+1002BF",
+      "image_fingerprint": "fnv1a64:60f830dc74d8a644",
+      "active": true
+    },
+    {
+      "source_file": "battery-0002.png",
+      "codepoint": "U+1002C0",
+      "image_fingerprint": "fnv1a64:12db9cbeb05bb1df",
+      "active": true
+    },
+    {
+      "source_file": "battery-0003.png",
+      "codepoint": "U+1002C1",
+      "image_fingerprint": "fnv1a64:9b037166b8dc2702",
+      "active": true
+    },
+    {
+      "source_file": "battery-0004.png",
+      "codepoint": "U+1002C2",
+      "image_fingerprint": "fnv1a64:b08010e4bff21169",
+      "active": true
+    },
+    {
+      "source_file": "battery-0005.png",
+      "codepoint": "U+1002C3",
+      "image_fingerprint": "fnv1a64:94ebea5c83622540",
+      "active": true
+    },
+    {
+      "source_file": "battery-0006.png",
+      "codepoint": "U+1002C4",
+      "image_fingerprint": "fnv1a64:b36c2a3c713274b1",
+      "active": true
+    },
+    {
+      "source_file": "battery-0007.png",
+      "codepoint": "U+1002C5",
+      "image_fingerprint": "fnv1a64:ba61465539d6401c",
+      "active": true
+    },
+    {
+      "source_file": "battery-0008.png",
+      "codepoint": "U+1002C6",
+      "image_fingerprint": "fnv1a64:4fd6e3d6fd331bc3",
+      "active": true
+    },
+    {
+      "source_file": "battery-0009.png",
+      "codepoint": "U+1002C7",
+      "image_fingerprint": "fnv1a64:3d4e228b0e9fc2cb",
+      "active": true
+    },
+    {
+      "source_file": "battery-0010.png",
+      "codepoint": "U+1002C8",
+      "image_fingerprint": "fnv1a64:00d08cdb0bb977c7",
+      "active": true
+    },
+    {
+      "source_file": "battery-0011.png",
+      "codepoint": "U+1002C9",
+      "image_fingerprint": "fnv1a64:4a4aa6573f6ee4fa",
+      "active": true
+    },
+    {
+      "source_file": "battery-0012.png",
+      "codepoint": "U+1002CA",
+      "image_fingerprint": "fnv1a64:8a71b002ada6f17a",
+      "active": true
+    },
+    {
+      "source_file": "battery-0013.png",
+      "codepoint": "U+1002CB",
+      "image_fingerprint": "fnv1a64:ae911a3276b5463b",
+      "active": true
+    },
+    {
+      "source_file": "battery-0014.png",
+      "codepoint": "U+1002CC",
+      "image_fingerprint": "fnv1a64:0670ed3cbfa44fe0",
+      "active": true
+    },
+    {
+      "source_file": "battery-0015.png",
+      "codepoint": "U+1002CD",
+      "image_fingerprint": "fnv1a64:bef3f4437b92c2fe",
+      "active": true
+    },
+    {
+      "source_file": "battery-0016.png",
+      "codepoint": "U+1002CE",
+      "image_fingerprint": "fnv1a64:d2500e0e149733f3",
+      "active": true
+    },
+    {
+      "source_file": "battery-0017.png",
+      "codepoint": "U+1002CF",
+      "image_fingerprint": "fnv1a64:c48a087aa289de67",
+      "active": true
+    },
+    {
+      "source_file": "battery-0018.png",
+      "codepoint": "U+1002D0",
+      "image_fingerprint": "fnv1a64:f2870c0f8898a038",
+      "active": true
+    },
+    {
+      "source_file": "battery-0019.png",
+      "codepoint": "U+1002D1",
+      "image_fingerprint": "fnv1a64:a59b142c7c8c25c5",
+      "active": true
+    },
+    {
+      "source_file": "battery-0020.png",
+      "codepoint": "U+1002D2",
+      "image_fingerprint": "fnv1a64:1cc0ea12b784902b",
+      "active": true
+    },
+    {
+      "source_file": "battery-0021.png",
+      "codepoint": "U+1002D3",
+      "image_fingerprint": "fnv1a64:519a1a3c8fcb576c",
+      "active": true
+    },
+    {
+      "source_file": "battery-0022.png",
+      "codepoint": "U+1002D4",
+      "image_fingerprint": "fnv1a64:b11a1d2f097c2b2e",
+      "active": true
+    },
+    {
+      "source_file": "battery-0023.png",
+      "codepoint": "U+1002D5",
+      "image_fingerprint": "fnv1a64:9bc342321a22d4e3",
+      "active": true
+    },
+    {
+      "source_file": "battery-0024.png",
+      "codepoint": "U+1002D6",
+      "image_fingerprint": "fnv1a64:9144ba79cde0063c",
+      "active": true
+    },
+    {
+      "source_file": "battery-0025.png",
+      "codepoint": "U+1002D7",
+      "image_fingerprint": "fnv1a64:f97bc9d9975f3fc8",
+      "active": true
+    },
+    {
+      "source_file": "battery-0026.png",
+      "codepoint": "U+1002D8",
+      "image_fingerprint": "fnv1a64:fcbc24f2fe22ee37",
+      "active": true
+    },
+    {
+      "source_file": "battery-0027.png",
+      "codepoint": "U+1002D9",
+      "image_fingerprint": "fnv1a64:c65d438b67914ba7",
+      "active": true
+    },
+    {
+      "source_file": "battery-0028.png",
+      "codepoint": "U+1002DA",
+      "image_fingerprint": "fnv1a64:1832ae3c5851cd7f",
+      "active": true
+    },
+    {
+      "source_file": "battery-0029.png",
+      "codepoint": "U+1002DB",
+      "image_fingerprint": "fnv1a64:c786bfcf0167874a",
+      "active": true
+    },
+    {
+      "source_file": "battery-0030.png",
+      "codepoint": "U+1002DC",
+      "image_fingerprint": "fnv1a64:2c5bce686ea2ffa4",
+      "active": true
+    },
+    {
+      "source_file": "battery-0031.png",
+      "codepoint": "U+1002DD",
+      "image_fingerprint": "fnv1a64:0377d965dd02ecb5",
+      "active": true
+    },
+    {
+      "source_file": "battery-0032.png",
+      "codepoint": "U+1002DE",
+      "image_fingerprint": "fnv1a64:d02277ee8a211bc9",
+      "active": true
+    },
+    {
+      "source_file": "battery-0033.png",
+      "codepoint": "U+1002DF",
+      "image_fingerprint": "fnv1a64:d3c80885e7bb8569",
+      "active": true
+    },
+    {
+      "source_file": "battery-0034.png",
+      "codepoint": "U+1002E0",
+      "image_fingerprint": "fnv1a64:c77699a80eb85d3b",
+      "active": true
+    },
+    {
+      "source_file": "battery-0035.png",
+      "codepoint": "U+1002E1",
+      "image_fingerprint": "fnv1a64:31d25439a785fcfd",
+      "active": true
+    },
+    {
+      "source_file": "battery-0036.png",
+      "codepoint": "U+1002E2",
+      "image_fingerprint": "fnv1a64:2b38da198e4a7e97",
+      "active": true
+    },
+    {
+      "source_file": "battery-0037.png",
+      "codepoint": "U+1002E3",
+      "image_fingerprint": "fnv1a64:d598e09f9ed00c34",
+      "active": true
+    },
+    {
+      "source_file": "battery-0038.png",
+      "codepoint": "U+1002E4",
+      "image_fingerprint": "fnv1a64:aab4fae00217764e",
+      "active": true
+    },
+    {
+      "source_file": "battery-0039.png",
+      "codepoint": "U+1002E5",
+      "image_fingerprint": "fnv1a64:252ba0e007513e6d",
+      "active": true
+    },
+    {
+      "source_file": "battery-0040.png",
+      "codepoint": "U+1002E6",
+      "image_fingerprint": "fnv1a64:2e6ae0e2542fe102",
+      "active": true
+    },
+    {
+      "source_file": "battery-0041.png",
+      "codepoint": "U+1002E7",
+      "image_fingerprint": "fnv1a64:18308c8f2f85f0d2",
+      "active": true
+    },
+    {
+      "source_file": "battery-0042.png",
+      "codepoint": "U+1002E8",
+      "image_fingerprint": "fnv1a64:58bb781ad2a51f3a",
+      "active": true
+    },
+    {
+      "source_file": "battery-0043.png",
+      "codepoint": "U+1002E9",
+      "image_fingerprint": "fnv1a64:6d0fae847989e04b",
+      "active": true
+    },
+    {
+      "source_file": "battery-0044.png",
+      "codepoint": "U+1002EA",
+      "image_fingerprint": "fnv1a64:91d2f114ac31a2d1",
+      "active": true
+    },
+    {
+      "source_file": "battery-0045.png",
+      "codepoint": "U+1002EB",
+      "image_fingerprint": "fnv1a64:dcd0ab107c61a329",
+      "active": true
+    },
+    {
+      "source_file": "battery-0046.png",
+      "codepoint": "U+1002EC",
+      "image_fingerprint": "fnv1a64:8b47212a9bd52f14",
+      "active": true
+    },
+    {
+      "source_file": "battery-0047.png",
+      "codepoint": "U+1002ED",
+      "image_fingerprint": "fnv1a64:25e1c517b9135541",
+      "active": true
+    },
+    {
+      "source_file": "battery-0048.png",
+      "codepoint": "U+1002EE",
+      "image_fingerprint": "fnv1a64:426d99900c143c61",
+      "active": true
+    },
+    {
+      "source_file": "battery-0049.png",
+      "codepoint": "U+1002EF",
+      "image_fingerprint": "fnv1a64:4c0463052b8514cf",
+      "active": true
+    },
+    {
+      "source_file": "battery-0050.png",
+      "codepoint": "U+1002F0",
+      "image_fingerprint": "fnv1a64:61faf9579ee6758c",
+      "active": true
+    },
+    {
+      "source_file": "battery-0051.png",
+      "codepoint": "U+1002F1",
+      "image_fingerprint": "fnv1a64:066bd754c7fd93a9",
+      "active": true
+    },
+    {
+      "source_file": "battery-0052.png",
+      "codepoint": "U+1002F2",
+      "image_fingerprint": "fnv1a64:aad25c688f42de2f",
+      "active": true
+    },
+    {
+      "source_file": "battery-0053.png",
+      "codepoint": "U+1002F3",
+      "image_fingerprint": "fnv1a64:22ecb16154a6bc24",
+      "active": true
+    },
+    {
+      "source_file": "battery-0054.png",
+      "codepoint": "U+1002F4",
+      "image_fingerprint": "fnv1a64:5b7caf6acf0a8b1b",
+      "active": true
+    },
+    {
+      "source_file": "battery-0055.png",
+      "codepoint": "U+1002F5",
+      "image_fingerprint": "fnv1a64:51060fd7785a00a4",
+      "active": true
+    },
+    {
+      "source_file": "battery-0056.png",
+      "codepoint": "U+1002F6",
+      "image_fingerprint": "fnv1a64:2cfb45c5a10f73cc",
+      "active": true
+    },
+    {
+      "source_file": "battery-0057.png",
+      "codepoint": "U+1002F7",
+      "image_fingerprint": "fnv1a64:022b9ce710587783",
+      "active": true
+    },
+    {
+      "source_file": "battery-0058.png",
+      "codepoint": "U+1002F8",
+      "image_fingerprint": "fnv1a64:334cf4d428691ccc",
+      "active": true
+    },
+    {
+      "source_file": "battery-0059.png",
+      "codepoint": "U+1002F9",
+      "image_fingerprint": "fnv1a64:79a262166b14b21d",
+      "active": true
+    },
+    {
+      "source_file": "battery-0060.png",
+      "codepoint": "U+1002FA",
+      "image_fingerprint": "fnv1a64:f7cc51881cc1fa9f",
+      "active": true
+    },
+    {
+      "source_file": "battery-0061.png",
+      "codepoint": "U+1002FB",
+      "image_fingerprint": "fnv1a64:c6744c9cc5c4eb3a",
+      "active": true
+    },
+    {
+      "source_file": "battery-0062.png",
+      "codepoint": "U+1002FC",
+      "image_fingerprint": "fnv1a64:0f0a0189b1943a27",
+      "active": true
+    },
+    {
+      "source_file": "battery-0063.png",
+      "codepoint": "U+1002FD",
+      "image_fingerprint": "fnv1a64:0fbb1ce4d7a6969a",
+      "active": true
+    },
+    {
+      "source_file": "battery-0064.png",
+      "codepoint": "U+1002FE",
+      "image_fingerprint": "fnv1a64:fad4d58039984a1c",
+      "active": true
+    },
+    {
+      "source_file": "battery-0065.png",
+      "codepoint": "U+1002FF",
+      "image_fingerprint": "fnv1a64:341a5602bf0c2573",
+      "active": true
+    },
+    {
+      "source_file": "battery-0066.png",
+      "codepoint": "U+100300",
+      "image_fingerprint": "fnv1a64:45fd7e5381b82351",
+      "active": true
+    },
+    {
+      "source_file": "battery-0067.png",
+      "codepoint": "U+100301",
+      "image_fingerprint": "fnv1a64:201f454d90e318df",
+      "active": true
+    },
+    {
+      "source_file": "battery-0068.png",
+      "codepoint": "U+100302",
+      "image_fingerprint": "fnv1a64:26613bca16c474f2",
+      "active": true
+    },
+    {
+      "source_file": "battery-0069.png",
+      "codepoint": "U+100303",
+      "image_fingerprint": "fnv1a64:17dd66c1170e00b2",
+      "active": true
+    },
+    {
+      "source_file": "battery-0070.png",
+      "codepoint": "U+100304",
+      "image_fingerprint": "fnv1a64:7fc671c7549edc3b",
+      "active": true
+    },
+    {
+      "source_file": "battery-0071.png",
+      "codepoint": "U+100305",
+      "image_fingerprint": "fnv1a64:8a2435c010d1e55f",
+      "active": true
+    },
+    {
+      "source_file": "battery-0072.png",
+      "codepoint": "U+100306",
+      "image_fingerprint": "fnv1a64:317f593ef3b6e4c9",
+      "active": true
+    },
+    {
+      "source_file": "battery-0073.png",
+      "codepoint": "U+100307",
+      "image_fingerprint": "fnv1a64:5651280a58466235",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0001.png",
+      "codepoint": "U+1003B0",
+      "image_fingerprint": "fnv1a64:3394d50016adc667",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0002.png",
+      "codepoint": "U+1003B1",
+      "image_fingerprint": "fnv1a64:7f5dd15b7a210dd2",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0003.png",
+      "codepoint": "U+1003B2",
+      "image_fingerprint": "fnv1a64:63c8e53433e33682",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0004.png",
+      "codepoint": "U+1003B3",
+      "image_fingerprint": "fnv1a64:3851dc0caa5dc915",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0005.png",
+      "codepoint": "U+1003B4",
+      "image_fingerprint": "fnv1a64:d2b43b48f1027610",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0006.png",
+      "codepoint": "U+1003B5",
+      "image_fingerprint": "fnv1a64:c4fce1e1dde900a5",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0007.png",
+      "codepoint": "U+1003B6",
+      "image_fingerprint": "fnv1a64:a48895fa56ef3cdf",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0008.png",
+      "codepoint": "U+1003B7",
+      "image_fingerprint": "fnv1a64:18d7a56e01defea8",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0009.png",
+      "codepoint": "U+1003B8",
+      "image_fingerprint": "fnv1a64:0cc2fdd964c71878",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0010.png",
+      "codepoint": "U+1003B9",
+      "image_fingerprint": "fnv1a64:993098051b61f5c0",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0011.png",
+      "codepoint": "U+1003BA",
+      "image_fingerprint": "fnv1a64:759e104ed7b4672a",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0012.png",
+      "codepoint": "U+1003BB",
+      "image_fingerprint": "fnv1a64:33173bce6035bff5",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0013.png",
+      "codepoint": "U+1003BC",
+      "image_fingerprint": "fnv1a64:0df6726fae98fd6e",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0014.png",
+      "codepoint": "U+1003BD",
+      "image_fingerprint": "fnv1a64:263c5becc9b45cb2",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0015.png",
+      "codepoint": "U+1003BE",
+      "image_fingerprint": "fnv1a64:a19c0ba54c1c2395",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0016.png",
+      "codepoint": "U+1003BF",
+      "image_fingerprint": "fnv1a64:3dc1ab691f2f62b4",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0017.png",
+      "codepoint": "U+1003C0",
+      "image_fingerprint": "fnv1a64:24ad8d9f2cd88d35",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0018.png",
+      "codepoint": "U+1003C1",
+      "image_fingerprint": "fnv1a64:8da2625d26c32347",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0019.png",
+      "codepoint": "U+1003C2",
+      "image_fingerprint": "fnv1a64:c699715feca174da",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0020.png",
+      "codepoint": "U+1003C3",
+      "image_fingerprint": "fnv1a64:0d8296903855e8cb",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0021.png",
+      "codepoint": "U+1003C4",
+      "image_fingerprint": "fnv1a64:5a3bd8f005c8d449",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0022.png",
+      "codepoint": "U+1003C5",
+      "image_fingerprint": "fnv1a64:57ea65d8179b7431",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0023.png",
+      "codepoint": "U+1003C6",
+      "image_fingerprint": "fnv1a64:ace480130437f993",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0024.png",
+      "codepoint": "U+1003C7",
+      "image_fingerprint": "fnv1a64:dcd8e0710be43680",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0025.png",
+      "codepoint": "U+1003C8",
+      "image_fingerprint": "fnv1a64:fbbdf535e431dd3c",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0026.png",
+      "codepoint": "U+1003C9",
+      "image_fingerprint": "fnv1a64:acc992b18ef01631",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0027.png",
+      "codepoint": "U+1003CA",
+      "image_fingerprint": "fnv1a64:27bc9f56ca6f143d",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0028.png",
+      "codepoint": "U+1003CB",
+      "image_fingerprint": "fnv1a64:9ce3584e7170f988",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0029.png",
+      "codepoint": "U+1003CC",
+      "image_fingerprint": "fnv1a64:5b451997ce98f57d",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0030.png",
+      "codepoint": "U+1003CD",
+      "image_fingerprint": "fnv1a64:6e935a21efa45525",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0031.png",
+      "codepoint": "U+1003CE",
+      "image_fingerprint": "fnv1a64:7ffa4aab52171e4b",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0032.png",
+      "codepoint": "U+1003CF",
+      "image_fingerprint": "fnv1a64:1f77b1eb6ee0cb66",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0033.png",
+      "codepoint": "U+1003D0",
+      "image_fingerprint": "fnv1a64:f4e52865ecdfefbd",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0034.png",
+      "codepoint": "U+1003D1",
+      "image_fingerprint": "fnv1a64:7b42f430e29b4acd",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0035.png",
+      "codepoint": "U+1003D2",
+      "image_fingerprint": "fnv1a64:771cc792f0782381",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0036.png",
+      "codepoint": "U+1003D3",
+      "image_fingerprint": "fnv1a64:f96efd0e462db4cf",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0037.png",
+      "codepoint": "U+1003D4",
+      "image_fingerprint": "fnv1a64:a82cc3e1c80c9d6c",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0038.png",
+      "codepoint": "U+1003D5",
+      "image_fingerprint": "fnv1a64:da55b6f0c46cfd11",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0039.png",
+      "codepoint": "U+1003D6",
+      "image_fingerprint": "fnv1a64:093676223c659a29",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0040.png",
+      "codepoint": "U+1003D7",
+      "image_fingerprint": "fnv1a64:1a13d57040e3ea04",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0041.png",
+      "codepoint": "U+1003D8",
+      "image_fingerprint": "fnv1a64:09a9048d551639c2",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0042.png",
+      "codepoint": "U+1003D9",
+      "image_fingerprint": "fnv1a64:bdf9612ea3917ee0",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0043.png",
+      "codepoint": "U+1003DA",
+      "image_fingerprint": "fnv1a64:85b32272cd310c88",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0044.png",
+      "codepoint": "U+1003DB",
+      "image_fingerprint": "fnv1a64:8d78c133afc88ec6",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0045.png",
+      "codepoint": "U+1003DC",
+      "image_fingerprint": "fnv1a64:e3f2439f576f847e",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0046.png",
+      "codepoint": "U+1003DD",
+      "image_fingerprint": "fnv1a64:b36686c02e0e8c69",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0047.png",
+      "codepoint": "U+1003DE",
+      "image_fingerprint": "fnv1a64:bde97dc61c0983e7",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0048.png",
+      "codepoint": "U+1003DF",
+      "image_fingerprint": "fnv1a64:8510b68b8958309a",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0049.png",
+      "codepoint": "U+1003E0",
+      "image_fingerprint": "fnv1a64:8681eeece91e7433",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0050.png",
+      "codepoint": "U+1003E1",
+      "image_fingerprint": "fnv1a64:37f48eb26b4fb803",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0051.png",
+      "codepoint": "U+1003E2",
+      "image_fingerprint": "fnv1a64:f30036808f903a78",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0052.png",
+      "codepoint": "U+1003E3",
+      "image_fingerprint": "fnv1a64:da9926e8957b6ff7",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0053.png",
+      "codepoint": "U+1003E4",
+      "image_fingerprint": "fnv1a64:94d7e4f663981720",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0054.png",
+      "codepoint": "U+1003E5",
+      "image_fingerprint": "fnv1a64:a0a5fb10ded26559",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0055.png",
+      "codepoint": "U+1003E6",
+      "image_fingerprint": "fnv1a64:e0b8f90f2a6a9eda",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0056.png",
+      "codepoint": "U+1003E7",
+      "image_fingerprint": "fnv1a64:e0b8f90f2a6a9eda",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0057.png",
+      "codepoint": "U+1003E8",
+      "image_fingerprint": "fnv1a64:e0b8f90f2a6a9eda",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0058.png",
+      "codepoint": "U+1003E9",
+      "image_fingerprint": "fnv1a64:e0b8f90f2a6a9eda",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0059.png",
+      "codepoint": "U+1003EA",
+      "image_fingerprint": "fnv1a64:e0b8f90f2a6a9eda",
+      "active": true
+    },
+    {
+      "source_file": "brightness-0060.png",
+      "codepoint": "U+1003EB",
+      "image_fingerprint": "fnv1a64:e0b8f90f2a6a9eda",
+      "active": true
+    },
+    {
+      "source_file": "business-0001.png",
+      "codepoint": "U+1001AB",
+      "image_fingerprint": "fnv1a64:c9c74f790a5cfec1",
+      "active": true
+    },
+    {
+      "source_file": "business-0002.png",
+      "codepoint": "U+1001AC",
+      "image_fingerprint": "fnv1a64:c9c74f790a5cfec1",
+      "active": true
+    },
+    {
+      "source_file": "business-0003.png",
+      "codepoint": "U+1001AD",
+      "image_fingerprint": "fnv1a64:eba4ac0ed0d21af1",
+      "active": true
+    },
+    {
+      "source_file": "business-0004.png",
+      "codepoint": "U+1001AE",
+      "image_fingerprint": "fnv1a64:eba4ac0ed0d21af1",
+      "active": true
+    },
+    {
+      "source_file": "business-0005.png",
+      "codepoint": "U+1001AF",
+      "image_fingerprint": "fnv1a64:92efe5d6426bd6e3",
+      "active": true
+    },
+    {
+      "source_file": "business-0006.png",
+      "codepoint": "U+1001B0",
+      "image_fingerprint": "fnv1a64:9186e4e4a7e88a37",
+      "active": true
+    },
+    {
+      "source_file": "business-0007.png",
+      "codepoint": "U+1001B1",
+      "image_fingerprint": "fnv1a64:915c3b9bf9d1fcb0",
+      "active": true
+    },
+    {
+      "source_file": "business-0008.png",
+      "codepoint": "U+1001B2",
+      "image_fingerprint": "fnv1a64:3b572503a4eb0cd0",
+      "active": true
+    },
+    {
+      "source_file": "business-0009.png",
+      "codepoint": "U+1001B3",
+      "image_fingerprint": "fnv1a64:802c07d56b4cad96",
+      "active": true
+    },
+    {
+      "source_file": "business-0010.png",
+      "codepoint": "U+1001B4",
+      "image_fingerprint": "fnv1a64:802c07d56b4cad96",
+      "active": true
+    },
+    {
+      "source_file": "business-0011.png",
+      "codepoint": "U+1001B5",
+      "image_fingerprint": "fnv1a64:33931f48dac00ed8",
+      "active": true
+    },
+    {
+      "source_file": "business-0012.png",
+      "codepoint": "U+1001B6",
+      "image_fingerprint": "fnv1a64:016191b6d2ecb515",
+      "active": true
+    },
+    {
+      "source_file": "business-0013.png",
+      "codepoint": "U+1001B7",
+      "image_fingerprint": "fnv1a64:e8bee1fe853ee238",
+      "active": true
+    },
+    {
+      "source_file": "business-0014.png",
+      "codepoint": "U+1001B8",
+      "image_fingerprint": "fnv1a64:01fed4f3a45f650b",
+      "active": true
+    },
+    {
+      "source_file": "business-0015.png",
+      "codepoint": "U+1001B9",
+      "image_fingerprint": "fnv1a64:3b7d0cfa9291746c",
+      "active": true
+    },
+    {
+      "source_file": "business-0016.png",
+      "codepoint": "U+1001BA",
+      "image_fingerprint": "fnv1a64:3b7d0cfa9291746c",
+      "active": true
+    },
+    {
+      "source_file": "business-0017.png",
+      "codepoint": "U+1001BB",
+      "image_fingerprint": "fnv1a64:758cf93647935818",
+      "active": true
+    },
+    {
+      "source_file": "business-0018.png",
+      "codepoint": "U+1001BC",
+      "image_fingerprint": "fnv1a64:693ae3a530d38b5b",
+      "active": true
+    },
+    {
+      "source_file": "business-0019.png",
+      "codepoint": "U+1001BD",
+      "image_fingerprint": "fnv1a64:417ee828204ed0a7",
+      "active": true
+    },
+    {
+      "source_file": "business-0020.png",
+      "codepoint": "U+1001BE",
+      "image_fingerprint": "fnv1a64:0c85463dcbe5e6ba",
+      "active": true
+    },
+    {
+      "source_file": "business-0021.png",
+      "codepoint": "U+1001BF",
+      "image_fingerprint": "fnv1a64:2ebd41771d6e0fd5",
+      "active": true
+    },
+    {
+      "source_file": "business-0022.png",
+      "codepoint": "U+1001C0",
+      "image_fingerprint": "fnv1a64:2ebd41771d6e0fd5",
+      "active": true
+    },
+    {
+      "source_file": "business-0023.png",
+      "codepoint": "U+1001C1",
+      "image_fingerprint": "fnv1a64:b63be5ef233e8f14",
+      "active": true
+    },
+    {
+      "source_file": "business-0024.png",
+      "codepoint": "U+1001C2",
+      "image_fingerprint": "fnv1a64:ec7c92583b326c95",
+      "active": true
+    },
+    {
+      "source_file": "business-0025.png",
+      "codepoint": "U+1001C3",
+      "image_fingerprint": "fnv1a64:e0894bd9757b2140",
+      "active": true
+    },
+    {
+      "source_file": "business-0026.png",
+      "codepoint": "U+1001C4",
+      "image_fingerprint": "fnv1a64:9c9ff755c362f96b",
+      "active": true
+    },
+    {
+      "source_file": "business-0027.png",
+      "codepoint": "U+1001C5",
+      "image_fingerprint": "fnv1a64:6b67d148e7f83b08",
+      "active": true
+    },
+    {
+      "source_file": "business-0028.png",
+      "codepoint": "U+1001C6",
+      "image_fingerprint": "fnv1a64:6b67d148e7f83b08",
+      "active": true
+    },
+    {
+      "source_file": "business-0029.png",
+      "codepoint": "U+1001C7",
+      "image_fingerprint": "fnv1a64:95f7ae25954e2ad9",
+      "active": true
+    },
+    {
+      "source_file": "business-0030.png",
+      "codepoint": "U+1001C8",
+      "image_fingerprint": "fnv1a64:f0f5d1a717f463bb",
+      "active": true
+    },
+    {
+      "source_file": "business-0031.png",
+      "codepoint": "U+1001C9",
+      "image_fingerprint": "fnv1a64:3b4d5bc9de8bdac3",
+      "active": true
+    },
+    {
+      "source_file": "business-0032.png",
+      "codepoint": "U+1001CA",
+      "image_fingerprint": "fnv1a64:2dd6a71d14f5b057",
+      "active": true
+    },
+    {
+      "source_file": "business-0033.png",
+      "codepoint": "U+1001CB",
+      "image_fingerprint": "fnv1a64:ca178d951d692a09",
+      "active": true
+    },
+    {
+      "source_file": "business-0034.png",
+      "codepoint": "U+1001CC",
+      "image_fingerprint": "fnv1a64:ca178d951d692a09",
+      "active": true
+    },
+    {
+      "source_file": "business-0035.png",
+      "codepoint": "U+1001CD",
+      "image_fingerprint": "fnv1a64:3db5c8a328eeca3c",
+      "active": true
+    },
+    {
+      "source_file": "business-0036.png",
+      "codepoint": "U+1001CE",
+      "image_fingerprint": "fnv1a64:11aaf01fb02bea7f",
+      "active": true
+    },
+    {
+      "source_file": "business-0037.png",
+      "codepoint": "U+1001CF",
+      "image_fingerprint": "fnv1a64:737519b46d8f4e9f",
+      "active": true
+    },
+    {
+      "source_file": "business-0038.png",
+      "codepoint": "U+1001D0",
+      "image_fingerprint": "fnv1a64:52ce7be0fcfd0819",
+      "active": true
+    },
+    {
+      "source_file": "business-0039.png",
+      "codepoint": "U+1001D1",
+      "image_fingerprint": "fnv1a64:e09084d2367ccea6",
+      "active": true
+    },
+    {
+      "source_file": "business-0040.png",
+      "codepoint": "U+1001D2",
+      "image_fingerprint": "fnv1a64:e09084d2367ccea6",
+      "active": true
+    },
+    {
+      "source_file": "business-0041.png",
+      "codepoint": "U+1001D3",
+      "image_fingerprint": "fnv1a64:6dccc0c5484d8e7b",
+      "active": true
+    },
+    {
+      "source_file": "business-0042.png",
+      "codepoint": "U+1001D4",
+      "image_fingerprint": "fnv1a64:cd25949f6d723135",
+      "active": true
+    },
+    {
+      "source_file": "business-0043.png",
+      "codepoint": "U+1001D5",
+      "image_fingerprint": "fnv1a64:dd02454a4ff3c175",
+      "active": true
+    },
+    {
+      "source_file": "business-0044.png",
+      "codepoint": "U+1001D6",
+      "image_fingerprint": "fnv1a64:55757c4e93305e61",
+      "active": true
+    },
+    {
+      "source_file": "business-0045.png",
+      "codepoint": "U+1001D7",
+      "image_fingerprint": "fnv1a64:79c99ce23a6082ee",
+      "active": true
+    },
+    {
+      "source_file": "business-0046.png",
+      "codepoint": "U+1001D8",
+      "image_fingerprint": "fnv1a64:79c99ce23a6082ee",
+      "active": true
+    },
+    {
+      "source_file": "business-0047.png",
+      "codepoint": "U+1001D9",
+      "image_fingerprint": "fnv1a64:42cefd0e188144c9",
+      "active": true
+    },
+    {
+      "source_file": "business-0048.png",
+      "codepoint": "U+1001DA",
+      "image_fingerprint": "fnv1a64:d7661aa5878f10d2",
+      "active": true
+    },
+    {
+      "source_file": "business-0049.png",
+      "codepoint": "U+1001DB",
+      "image_fingerprint": "fnv1a64:8fe74a8574806e22",
+      "active": true
+    },
+    {
+      "source_file": "business-0050.png",
+      "codepoint": "U+1001DC",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0051.png",
+      "codepoint": "U+1001DD",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0052.png",
+      "codepoint": "U+1001DE",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0053.png",
+      "codepoint": "U+1001DF",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0054.png",
+      "codepoint": "U+1001E0",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0055.png",
+      "codepoint": "U+1001E1",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0056.png",
+      "codepoint": "U+1001E2",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0057.png",
+      "codepoint": "U+1001E3",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0058.png",
+      "codepoint": "U+1001E4",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0059.png",
+      "codepoint": "U+1001E5",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0060.png",
+      "codepoint": "U+1001E6",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0061.png",
+      "codepoint": "U+1001E7",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0062.png",
+      "codepoint": "U+1001E8",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0063.png",
+      "codepoint": "U+1001E9",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "business-0064.png",
+      "codepoint": "U+1001EA",
+      "image_fingerprint": "fnv1a64:7088cafbc567aff5",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0001.png",
+      "codepoint": "U+100098",
+      "image_fingerprint": "fnv1a64:675ba1632b9d165b",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0002.png",
+      "codepoint": "U+100099",
+      "image_fingerprint": "fnv1a64:675ba1632b9d165b",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0003.png",
+      "codepoint": "U+10009A",
+      "image_fingerprint": "fnv1a64:675ba1632b9d165b",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0004.png",
+      "codepoint": "U+10009B",
+      "image_fingerprint": "fnv1a64:675ba1632b9d165b",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0005.png",
+      "codepoint": "U+10009C",
+      "image_fingerprint": "fnv1a64:675ba1632b9d165b",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0006.png",
+      "codepoint": "U+10009D",
+      "image_fingerprint": "fnv1a64:675ba1632b9d165b",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0007.png",
+      "codepoint": "U+10009E",
+      "image_fingerprint": "fnv1a64:675ba1632b9d165b",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0008.png",
+      "codepoint": "U+10009F",
+      "image_fingerprint": "fnv1a64:45ec69a802f5ffff",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0009.png",
+      "codepoint": "U+1000A0",
+      "image_fingerprint": "fnv1a64:711138015d911913",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0010.png",
+      "codepoint": "U+1000A1",
+      "image_fingerprint": "fnv1a64:c78446808f6c51f8",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0011.png",
+      "codepoint": "U+1000A2",
+      "image_fingerprint": "fnv1a64:ee93df6569267e33",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0012.png",
+      "codepoint": "U+1000A3",
+      "image_fingerprint": "fnv1a64:4d91dc152b2508a1",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0013.png",
+      "codepoint": "U+1000A4",
+      "image_fingerprint": "fnv1a64:eb1667c380ff1e3f",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0014.png",
+      "codepoint": "U+1000A5",
+      "image_fingerprint": "fnv1a64:520c450a4dc96d2b",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0015.png",
+      "codepoint": "U+1000A6",
+      "image_fingerprint": "fnv1a64:ac9000d6d72d9157",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0016.png",
+      "codepoint": "U+1000A7",
+      "image_fingerprint": "fnv1a64:3bbedb298943ec2c",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0017.png",
+      "codepoint": "U+1000A8",
+      "image_fingerprint": "fnv1a64:8eed6ed25ac990da",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0018.png",
+      "codepoint": "U+1000A9",
+      "image_fingerprint": "fnv1a64:5afc0be48356b75b",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0019.png",
+      "codepoint": "U+1000AA",
+      "image_fingerprint": "fnv1a64:318df32e9b8aea41",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0020.png",
+      "codepoint": "U+1000AB",
+      "image_fingerprint": "fnv1a64:b73b29dc7f050baa",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0021.png",
+      "codepoint": "U+1000AC",
+      "image_fingerprint": "fnv1a64:5d1f4a0b22e3033e",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0022.png",
+      "codepoint": "U+1000AD",
+      "image_fingerprint": "fnv1a64:80f3d57b22a2bf8f",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0023.png",
+      "codepoint": "U+1000AE",
+      "image_fingerprint": "fnv1a64:3c0da44d26bf15d9",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0024.png",
+      "codepoint": "U+1000AF",
+      "image_fingerprint": "fnv1a64:b4b698c35e865e99",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0025.png",
+      "codepoint": "U+1000B0",
+      "image_fingerprint": "fnv1a64:b5cb68f75387c359",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0026.png",
+      "codepoint": "U+1000B1",
+      "image_fingerprint": "fnv1a64:69d4a6cafe1dd470",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0027.png",
+      "codepoint": "U+1000B2",
+      "image_fingerprint": "fnv1a64:98610191fd32f242",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0028.png",
+      "codepoint": "U+1000B3",
+      "image_fingerprint": "fnv1a64:b079fa97d7b582cc",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0029.png",
+      "codepoint": "U+1000B4",
+      "image_fingerprint": "fnv1a64:9b54d44dd7dd79b6",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0030.png",
+      "codepoint": "U+1000B5",
+      "image_fingerprint": "fnv1a64:196e83af73465dec",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0031.png",
+      "codepoint": "U+1000B6",
+      "image_fingerprint": "fnv1a64:15415fffb67a3a18",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0032.png",
+      "codepoint": "U+1000B7",
+      "image_fingerprint": "fnv1a64:61317715240b15a3",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0033.png",
+      "codepoint": "U+1000B8",
+      "image_fingerprint": "fnv1a64:96ebe154f36d18e9",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0034.png",
+      "codepoint": "U+1000B9",
+      "image_fingerprint": "fnv1a64:a7698d8feaa630e7",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0035.png",
+      "codepoint": "U+1000BA",
+      "image_fingerprint": "fnv1a64:75d2540849a3dab9",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0036.png",
+      "codepoint": "U+1000BB",
+      "image_fingerprint": "fnv1a64:f0d736ab46fb7a80",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0037.png",
+      "codepoint": "U+1000BC",
+      "image_fingerprint": "fnv1a64:5f9f7b355596bc5b",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0038.png",
+      "codepoint": "U+1000BD",
+      "image_fingerprint": "fnv1a64:f706b1c96b79b1d3",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0039.png",
+      "codepoint": "U+1000BE",
+      "image_fingerprint": "fnv1a64:5d46cd70f3b2d192",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0040.png",
+      "codepoint": "U+1000BF",
+      "image_fingerprint": "fnv1a64:ded82d541b8a86c8",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0041.png",
+      "codepoint": "U+1000C0",
+      "image_fingerprint": "fnv1a64:042cf0d800610c2e",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0042.png",
+      "codepoint": "U+1000C1",
+      "image_fingerprint": "fnv1a64:5f011ecad30fcd8d",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0043.png",
+      "codepoint": "U+1000C2",
+      "image_fingerprint": "fnv1a64:832e39e2d4da0b12",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0044.png",
+      "codepoint": "U+1000C3",
+      "image_fingerprint": "fnv1a64:d9b73e8dbc43502c",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0045.png",
+      "codepoint": "U+1000C4",
+      "image_fingerprint": "fnv1a64:4354ac06d958c731",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0046.png",
+      "codepoint": "U+1000C5",
+      "image_fingerprint": "fnv1a64:ef62598ad92584ab",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0047.png",
+      "codepoint": "U+1000C6",
+      "image_fingerprint": "fnv1a64:a29d1901ceb29bab",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0048.png",
+      "codepoint": "U+1000C7",
+      "image_fingerprint": "fnv1a64:dbce061172d8171e",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0049.png",
+      "codepoint": "U+1000C8",
+      "image_fingerprint": "fnv1a64:aad93b3594b7127f",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0050.png",
+      "codepoint": "U+1000C9",
+      "image_fingerprint": "fnv1a64:300b0c775c8f44ee",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0051.png",
+      "codepoint": "U+1000CA",
+      "image_fingerprint": "fnv1a64:00ca7e8ea33b583d",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0052.png",
+      "codepoint": "U+1000CB",
+      "image_fingerprint": "fnv1a64:1c93dadaa30980c3",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0053.png",
+      "codepoint": "U+1000CC",
+      "image_fingerprint": "fnv1a64:875191134d974a9a",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0054.png",
+      "codepoint": "U+1000CD",
+      "image_fingerprint": "fnv1a64:fdd1815b652162cf",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0055.png",
+      "codepoint": "U+1000CE",
+      "image_fingerprint": "fnv1a64:77fd274c4c7ecb32",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0056.png",
+      "codepoint": "U+1000CF",
+      "image_fingerprint": "fnv1a64:ca026d9742d30542",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0057.png",
+      "codepoint": "U+1000D0",
+      "image_fingerprint": "fnv1a64:69789f87527a38f2",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0058.png",
+      "codepoint": "U+1000D1",
+      "image_fingerprint": "fnv1a64:a988e655c4b5f354",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0059.png",
+      "codepoint": "U+1000D2",
+      "image_fingerprint": "fnv1a64:a8160bba2fa3f0f6",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0060.png",
+      "codepoint": "U+1000D3",
+      "image_fingerprint": "fnv1a64:e2546e25e4afb90d",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0061.png",
+      "codepoint": "U+1000D4",
+      "image_fingerprint": "fnv1a64:86d1662270ac237d",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0062.png",
+      "codepoint": "U+1000D5",
+      "image_fingerprint": "fnv1a64:9239faeae366173e",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0063.png",
+      "codepoint": "U+1000D6",
+      "image_fingerprint": "fnv1a64:4ab37e736bc3f761",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0064.png",
+      "codepoint": "U+1000D7",
+      "image_fingerprint": "fnv1a64:470f5ab95321dcf7",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0065.png",
+      "codepoint": "U+1000D8",
+      "image_fingerprint": "fnv1a64:7c489b649ccb4aa8",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0066.png",
+      "codepoint": "U+1000D9",
+      "image_fingerprint": "fnv1a64:837512ed3ef99c28",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0067.png",
+      "codepoint": "U+1000DA",
+      "image_fingerprint": "fnv1a64:3892018db75ab250",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0068.png",
+      "codepoint": "U+1000DB",
+      "image_fingerprint": "fnv1a64:f2e2513d36a37e52",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0069.png",
+      "codepoint": "U+1000DC",
+      "image_fingerprint": "fnv1a64:3f554a95df7275af",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0070.png",
+      "codepoint": "U+1000DD",
+      "image_fingerprint": "fnv1a64:c48d12eeda2c99ec",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0071.png",
+      "codepoint": "U+1000DE",
+      "image_fingerprint": "fnv1a64:933b4e51acf0b744",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0072.png",
+      "codepoint": "U+1000DF",
+      "image_fingerprint": "fnv1a64:11e7cc4979b296f5",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0073.png",
+      "codepoint": "U+1000E0",
+      "image_fingerprint": "fnv1a64:b3a15bb262c6bd3a",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0074.png",
+      "codepoint": "U+1000E1",
+      "image_fingerprint": "fnv1a64:e34c16ef108ebed6",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0075.png",
+      "codepoint": "U+1000E2",
+      "image_fingerprint": "fnv1a64:01174a058c400b20",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0076.png",
+      "codepoint": "U+1000E3",
+      "image_fingerprint": "fnv1a64:3ffde5a7bd872970",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0077.png",
+      "codepoint": "U+1000E4",
+      "image_fingerprint": "fnv1a64:4705dc1e0a1e2c76",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0078.png",
+      "codepoint": "U+1000E5",
+      "image_fingerprint": "fnv1a64:4705dc1e0a1e2c76",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0079.png",
+      "codepoint": "U+1000E6",
+      "image_fingerprint": "fnv1a64:4705dc1e0a1e2c76",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0080.png",
+      "codepoint": "U+1000E7",
+      "image_fingerprint": "fnv1a64:4705dc1e0a1e2c76",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0081.png",
+      "codepoint": "U+1000E8",
+      "image_fingerprint": "fnv1a64:4705dc1e0a1e2c76",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0082.png",
+      "codepoint": "U+1000E9",
+      "image_fingerprint": "fnv1a64:4705dc1e0a1e2c76",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0083.png",
+      "codepoint": "U+1000EA",
+      "image_fingerprint": "fnv1a64:4705dc1e0a1e2c76",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0084.png",
+      "codepoint": "U+1000EB",
+      "image_fingerprint": "fnv1a64:4705dc1e0a1e2c76",
+      "active": true
+    },
+    {
+      "source_file": "cpu-0085.png",
+      "codepoint": "U+1000EC",
+      "image_fingerprint": "fnv1a64:4705dc1e0a1e2c76",
+      "active": true
+    },
+    {
+      "source_file": "drive-0001.png",
+      "codepoint": "U+1000ED",
+      "image_fingerprint": "fnv1a64:b9ac61b427b51ec2",
+      "active": true
+    },
+    {
+      "source_file": "drive-0002.png",
+      "codepoint": "U+1000EE",
+      "image_fingerprint": "fnv1a64:f88b6b0679ccf52a",
+      "active": true
+    },
+    {
+      "source_file": "drive-0003.png",
+      "codepoint": "U+1000EF",
+      "image_fingerprint": "fnv1a64:f88b6b0679ccf52a",
+      "active": true
+    },
+    {
+      "source_file": "drive-0004.png",
+      "codepoint": "U+1000F0",
+      "image_fingerprint": "fnv1a64:f88b6b0679ccf52a",
+      "active": true
+    },
+    {
+      "source_file": "drive-0005.png",
+      "codepoint": "U+1000F1",
+      "image_fingerprint": "fnv1a64:f88b6b0679ccf52a",
+      "active": true
+    },
+    {
+      "source_file": "drive-0006.png",
+      "codepoint": "U+1000F2",
+      "image_fingerprint": "fnv1a64:f88b6b0679ccf52a",
+      "active": true
+    },
+    {
+      "source_file": "drive-0007.png",
+      "codepoint": "U+1000F3",
+      "image_fingerprint": "fnv1a64:f88b6b0679ccf52a",
+      "active": true
+    },
+    {
+      "source_file": "drive-0008.png",
+      "codepoint": "U+1000F4",
+      "image_fingerprint": "fnv1a64:59e88441b478afb9",
+      "active": true
+    },
+    {
+      "source_file": "drive-0009.png",
+      "codepoint": "U+1000F5",
+      "image_fingerprint": "fnv1a64:6bdc1f51ab6f610a",
+      "active": true
+    },
+    {
+      "source_file": "drive-0010.png",
+      "codepoint": "U+1000F6",
+      "image_fingerprint": "fnv1a64:6bdc1f51ab6f610a",
+      "active": true
+    },
+    {
+      "source_file": "drive-0011.png",
+      "codepoint": "U+1000F7",
+      "image_fingerprint": "fnv1a64:34dbb48921d1310d",
+      "active": true
+    },
+    {
+      "source_file": "drive-0012.png",
+      "codepoint": "U+1000F8",
+      "image_fingerprint": "fnv1a64:a39c916125f04be9",
+      "active": true
+    },
+    {
+      "source_file": "drive-0013.png",
+      "codepoint": "U+1000F9",
+      "image_fingerprint": "fnv1a64:24bde4a1aae8acff",
+      "active": true
+    },
+    {
+      "source_file": "drive-0014.png",
+      "codepoint": "U+1000FA",
+      "image_fingerprint": "fnv1a64:6787a7139fe1a0e0",
+      "active": true
+    },
+    {
+      "source_file": "drive-0015.png",
+      "codepoint": "U+1000FB",
+      "image_fingerprint": "fnv1a64:2b3421957d36c746",
+      "active": true
+    },
+    {
+      "source_file": "drive-0016.png",
+      "codepoint": "U+1000FC",
+      "image_fingerprint": "fnv1a64:2b3421957d36c746",
+      "active": true
+    },
+    {
+      "source_file": "drive-0017.png",
+      "codepoint": "U+1000FD",
+      "image_fingerprint": "fnv1a64:346cb4c7493d1a5f",
+      "active": true
+    },
+    {
+      "source_file": "drive-0018.png",
+      "codepoint": "U+1000FE",
+      "image_fingerprint": "fnv1a64:37c84fdac2f09122",
+      "active": true
+    },
+    {
+      "source_file": "drive-0019.png",
+      "codepoint": "U+1000FF",
+      "image_fingerprint": "fnv1a64:23e8c40c5e166d05",
+      "active": true
+    },
+    {
+      "source_file": "drive-0020.png",
+      "codepoint": "U+100100",
+      "image_fingerprint": "fnv1a64:a18d377ed31aaeb4",
+      "active": true
+    },
+    {
+      "source_file": "drive-0021.png",
+      "codepoint": "U+100101",
+      "image_fingerprint": "fnv1a64:71c6de19e57ab9e5",
+      "active": true
+    },
+    {
+      "source_file": "drive-0022.png",
+      "codepoint": "U+100102",
+      "image_fingerprint": "fnv1a64:71c6de19e57ab9e5",
+      "active": true
+    },
+    {
+      "source_file": "drive-0023.png",
+      "codepoint": "U+100103",
+      "image_fingerprint": "fnv1a64:9b432269db17cfad",
+      "active": true
+    },
+    {
+      "source_file": "drive-0024.png",
+      "codepoint": "U+100104",
+      "image_fingerprint": "fnv1a64:e2a4cbfec709113f",
+      "active": true
+    },
+    {
+      "source_file": "drive-0025.png",
+      "codepoint": "U+100105",
+      "image_fingerprint": "fnv1a64:117efee6a5612f69",
+      "active": true
+    },
+    {
+      "source_file": "drive-0026.png",
+      "codepoint": "U+100106",
+      "image_fingerprint": "fnv1a64:9c12909af8ec3e58",
+      "active": true
+    },
+    {
+      "source_file": "drive-0027.png",
+      "codepoint": "U+100107",
+      "image_fingerprint": "fnv1a64:f1beba8ed56ddc03",
+      "active": true
+    },
+    {
+      "source_file": "drive-0028.png",
+      "codepoint": "U+100108",
+      "image_fingerprint": "fnv1a64:f1beba8ed56ddc03",
+      "active": true
+    },
+    {
+      "source_file": "drive-0029.png",
+      "codepoint": "U+100109",
+      "image_fingerprint": "fnv1a64:a99f703e42e66bad",
+      "active": true
+    },
+    {
+      "source_file": "drive-0030.png",
+      "codepoint": "U+10010A",
+      "image_fingerprint": "fnv1a64:32e8cbe3f166461e",
+      "active": true
+    },
+    {
+      "source_file": "drive-0031.png",
+      "codepoint": "U+10010B",
+      "image_fingerprint": "fnv1a64:b63fbdc9863f4ea2",
+      "active": true
+    },
+    {
+      "source_file": "drive-0032.png",
+      "codepoint": "U+10010C",
+      "image_fingerprint": "fnv1a64:f35d26d686d04233",
+      "active": true
+    },
+    {
+      "source_file": "drive-0033.png",
+      "codepoint": "U+10010D",
+      "image_fingerprint": "fnv1a64:ddb8c51d87f59718",
+      "active": true
+    },
+    {
+      "source_file": "drive-0034.png",
+      "codepoint": "U+10010E",
+      "image_fingerprint": "fnv1a64:ddb8c51d87f59718",
+      "active": true
+    },
+    {
+      "source_file": "drive-0035.png",
+      "codepoint": "U+10010F",
+      "image_fingerprint": "fnv1a64:80b6ff253a92090f",
+      "active": true
+    },
+    {
+      "source_file": "drive-0036.png",
+      "codepoint": "U+100110",
+      "image_fingerprint": "fnv1a64:ad783eab96fb4b1b",
+      "active": true
+    },
+    {
+      "source_file": "drive-0037.png",
+      "codepoint": "U+100111",
+      "image_fingerprint": "fnv1a64:0b7afd2884bfa8fa",
+      "active": true
+    },
+    {
+      "source_file": "drive-0038.png",
+      "codepoint": "U+100112",
+      "image_fingerprint": "fnv1a64:54374c37563268f1",
+      "active": true
+    },
+    {
+      "source_file": "drive-0039.png",
+      "codepoint": "U+100113",
+      "image_fingerprint": "fnv1a64:01642ba611749c5d",
+      "active": true
+    },
+    {
+      "source_file": "drive-0040.png",
+      "codepoint": "U+100114",
+      "image_fingerprint": "fnv1a64:01642ba611749c5d",
+      "active": true
+    },
+    {
+      "source_file": "drive-0041.png",
+      "codepoint": "U+100115",
+      "image_fingerprint": "fnv1a64:fede7c8ba136d29e",
+      "active": true
+    },
+    {
+      "source_file": "drive-0042.png",
+      "codepoint": "U+100116",
+      "image_fingerprint": "fnv1a64:aaff50bb7ea9d553",
+      "active": true
+    },
+    {
+      "source_file": "drive-0043.png",
+      "codepoint": "U+100117",
+      "image_fingerprint": "fnv1a64:a69e61b3c99f1b6f",
+      "active": true
+    },
+    {
+      "source_file": "drive-0044.png",
+      "codepoint": "U+100118",
+      "image_fingerprint": "fnv1a64:b4910062ba8c2075",
+      "active": true
+    },
+    {
+      "source_file": "drive-0045.png",
+      "codepoint": "U+100119",
+      "image_fingerprint": "fnv1a64:5cc35d8eec01067b",
+      "active": true
+    },
+    {
+      "source_file": "drive-0046.png",
+      "codepoint": "U+10011A",
+      "image_fingerprint": "fnv1a64:5cc35d8eec01067b",
+      "active": true
+    },
+    {
+      "source_file": "drive-0047.png",
+      "codepoint": "U+10011B",
+      "image_fingerprint": "fnv1a64:841fe610df3aafef",
+      "active": true
+    },
+    {
+      "source_file": "drive-0048.png",
+      "codepoint": "U+10011C",
+      "image_fingerprint": "fnv1a64:ecb41ea96774e5fb",
+      "active": true
+    },
+    {
+      "source_file": "drive-0049.png",
+      "codepoint": "U+10011D",
+      "image_fingerprint": "fnv1a64:2140891be144d0c4",
+      "active": true
+    },
+    {
+      "source_file": "drive-0050.png",
+      "codepoint": "U+10011E",
+      "image_fingerprint": "fnv1a64:5022d601d4f7b1ff",
+      "active": true
+    },
+    {
+      "source_file": "drive-0051.png",
+      "codepoint": "U+10011F",
+      "image_fingerprint": "fnv1a64:1160c16fccc4e33d",
+      "active": true
+    },
+    {
+      "source_file": "drive-0052.png",
+      "codepoint": "U+100120",
+      "image_fingerprint": "fnv1a64:1160c16fccc4e33d",
+      "active": true
+    },
+    {
+      "source_file": "drive-0053.png",
+      "codepoint": "U+100121",
+      "image_fingerprint": "fnv1a64:84b790bfc3d19866",
+      "active": true
+    },
+    {
+      "source_file": "drive-0054.png",
+      "codepoint": "U+100122",
+      "image_fingerprint": "fnv1a64:1c92f2b2c34edf2c",
+      "active": true
+    },
+    {
+      "source_file": "drive-0055.png",
+      "codepoint": "U+100123",
+      "image_fingerprint": "fnv1a64:ac3305f18cbcdccd",
+      "active": true
+    },
+    {
+      "source_file": "drive-0056.png",
+      "codepoint": "U+100124",
+      "image_fingerprint": "fnv1a64:2a7baf5b9c35df18",
+      "active": true
+    },
+    {
+      "source_file": "drive-0057.png",
+      "codepoint": "U+100125",
+      "image_fingerprint": "fnv1a64:f5d79717ffab5e1c",
+      "active": true
+    },
+    {
+      "source_file": "drive-0058.png",
+      "codepoint": "U+100126",
+      "image_fingerprint": "fnv1a64:f5d79717ffab5e1c",
+      "active": true
+    },
+    {
+      "source_file": "drive-0059.png",
+      "codepoint": "U+100127",
+      "image_fingerprint": "fnv1a64:a68497d7971d3969",
+      "active": true
+    },
+    {
+      "source_file": "drive-0060.png",
+      "codepoint": "U+100128",
+      "image_fingerprint": "fnv1a64:5a5b9d1938a95391",
+      "active": true
+    },
+    {
+      "source_file": "drive-0061.png",
+      "codepoint": "U+100129",
+      "image_fingerprint": "fnv1a64:c12e516056bc8af9",
+      "active": true
+    },
+    {
+      "source_file": "drive-0062.png",
+      "codepoint": "U+10012A",
+      "image_fingerprint": "fnv1a64:823aa7c689a9058b",
+      "active": true
+    },
+    {
+      "source_file": "drive-0063.png",
+      "codepoint": "U+10012B",
+      "image_fingerprint": "fnv1a64:6348becd36a4419f",
+      "active": true
+    },
+    {
+      "source_file": "drive-0064.png",
+      "codepoint": "U+10012C",
+      "image_fingerprint": "fnv1a64:6348becd36a4419f",
+      "active": true
+    },
+    {
+      "source_file": "drive-0065.png",
+      "codepoint": "U+10012D",
+      "image_fingerprint": "fnv1a64:c7131e8529bd51ba",
+      "active": true
+    },
+    {
+      "source_file": "drive-0066.png",
+      "codepoint": "U+10012E",
+      "image_fingerprint": "fnv1a64:3c68fbdddabd4f7b",
+      "active": true
+    },
+    {
+      "source_file": "drive-0067.png",
+      "codepoint": "U+10012F",
+      "image_fingerprint": "fnv1a64:a5031920feda560d",
+      "active": true
+    },
+    {
+      "source_file": "drive-0068.png",
+      "codepoint": "U+100130",
+      "image_fingerprint": "fnv1a64:af7170328ab3bde8",
+      "active": true
+    },
+    {
+      "source_file": "drive-0069.png",
+      "codepoint": "U+100131",
+      "image_fingerprint": "fnv1a64:82b369d61ee1169f",
+      "active": true
+    },
+    {
+      "source_file": "drive-0070.png",
+      "codepoint": "U+100132",
+      "image_fingerprint": "fnv1a64:82b369d61ee1169f",
+      "active": true
+    },
+    {
+      "source_file": "drive-0071.png",
+      "codepoint": "U+100133",
+      "image_fingerprint": "fnv1a64:eedf7a90e691520b",
+      "active": true
+    },
+    {
+      "source_file": "drive-0072.png",
+      "codepoint": "U+100134",
+      "image_fingerprint": "fnv1a64:eedf7a90e691520b",
+      "active": true
+    },
+    {
+      "source_file": "drive-0073.png",
+      "codepoint": "U+100135",
+      "image_fingerprint": "fnv1a64:eedf7a90e691520b",
+      "active": true
+    },
+    {
+      "source_file": "gold-0001.png",
+      "codepoint": "U+100136",
+      "image_fingerprint": "fnv1a64:722ebf66bdc328cb",
+      "active": true
+    },
+    {
+      "source_file": "gold-0002.png",
+      "codepoint": "U+100137",
+      "image_fingerprint": "fnv1a64:722ebf66bdc328cb",
+      "active": true
+    },
+    {
+      "source_file": "gold-0003.png",
+      "codepoint": "U+100138",
+      "image_fingerprint": "fnv1a64:722ebf66bdc328cb",
+      "active": true
+    },
+    {
+      "source_file": "gold-0004.png",
+      "codepoint": "U+100139",
+      "image_fingerprint": "fnv1a64:722ebf66bdc328cb",
+      "active": true
+    },
+    {
+      "source_file": "gold-0005.png",
+      "codepoint": "U+10013A",
+      "image_fingerprint": "fnv1a64:722ebf66bdc328cb",
+      "active": true
+    },
+    {
+      "source_file": "gold-0006.png",
+      "codepoint": "U+10013B",
+      "image_fingerprint": "fnv1a64:722ebf66bdc328cb",
+      "active": true
+    },
+    {
+      "source_file": "gold-0007.png",
+      "codepoint": "U+10013C",
+      "image_fingerprint": "fnv1a64:722ebf66bdc328cb",
+      "active": true
+    },
+    {
+      "source_file": "gold-0008.png",
+      "codepoint": "U+10013D",
+      "image_fingerprint": "fnv1a64:021f7f66ac7cca9a",
+      "active": true
+    },
+    {
+      "source_file": "gold-0009.png",
+      "codepoint": "U+10013E",
+      "image_fingerprint": "fnv1a64:96aaacdc8f0be8ef",
+      "active": true
+    },
+    {
+      "source_file": "gold-0010.png",
+      "codepoint": "U+10013F",
+      "image_fingerprint": "fnv1a64:96aaacdc8f0be8ef",
+      "active": true
+    },
+    {
+      "source_file": "gold-0011.png",
+      "codepoint": "U+100140",
+      "image_fingerprint": "fnv1a64:ee2c625433c6881e",
+      "active": true
+    },
+    {
+      "source_file": "gold-0012.png",
+      "codepoint": "U+100141",
+      "image_fingerprint": "fnv1a64:41852f23b9304217",
+      "active": true
+    },
+    {
+      "source_file": "gold-0013.png",
+      "codepoint": "U+100142",
+      "image_fingerprint": "fnv1a64:ab16a3ad90c903ce",
+      "active": true
+    },
+    {
+      "source_file": "gold-0014.png",
+      "codepoint": "U+100143",
+      "image_fingerprint": "fnv1a64:86adde240ae7afb6",
+      "active": true
+    },
+    {
+      "source_file": "gold-0015.png",
+      "codepoint": "U+100144",
+      "image_fingerprint": "fnv1a64:b3692fb1c9d89bfe",
+      "active": true
+    },
+    {
+      "source_file": "gold-0016.png",
+      "codepoint": "U+100145",
+      "image_fingerprint": "fnv1a64:b3692fb1c9d89bfe",
+      "active": true
+    },
+    {
+      "source_file": "gold-0017.png",
+      "codepoint": "U+100146",
+      "image_fingerprint": "fnv1a64:7d204f80fa8d80f1",
+      "active": true
+    },
+    {
+      "source_file": "gold-0018.png",
+      "codepoint": "U+100147",
+      "image_fingerprint": "fnv1a64:f39b607e47ffa013",
+      "active": true
+    },
+    {
+      "source_file": "gold-0019.png",
+      "codepoint": "U+100148",
+      "image_fingerprint": "fnv1a64:bdebb27bdd7945c3",
+      "active": true
+    },
+    {
+      "source_file": "gold-0020.png",
+      "codepoint": "U+100149",
+      "image_fingerprint": "fnv1a64:404237496a6935c9",
+      "active": true
+    },
+    {
+      "source_file": "gold-0021.png",
+      "codepoint": "U+10014A",
+      "image_fingerprint": "fnv1a64:a92bc122917acc02",
+      "active": true
+    },
+    {
+      "source_file": "gold-0022.png",
+      "codepoint": "U+10014B",
+      "image_fingerprint": "fnv1a64:a92bc122917acc02",
+      "active": true
+    },
+    {
+      "source_file": "gold-0023.png",
+      "codepoint": "U+10014C",
+      "image_fingerprint": "fnv1a64:3e44baebda7a3990",
+      "active": true
+    },
+    {
+      "source_file": "gold-0024.png",
+      "codepoint": "U+10014D",
+      "image_fingerprint": "fnv1a64:e58e0f3c0bfcf20f",
+      "active": true
+    },
+    {
+      "source_file": "gold-0025.png",
+      "codepoint": "U+10014E",
+      "image_fingerprint": "fnv1a64:47c344fbd9789eda",
+      "active": true
+    },
+    {
+      "source_file": "gold-0026.png",
+      "codepoint": "U+10014F",
+      "image_fingerprint": "fnv1a64:13c50187b7cd0c9e",
+      "active": true
+    },
+    {
+      "source_file": "gold-0027.png",
+      "codepoint": "U+100150",
+      "image_fingerprint": "fnv1a64:650a6b0e5a2d9fa8",
+      "active": true
+    },
+    {
+      "source_file": "gold-0028.png",
+      "codepoint": "U+100151",
+      "image_fingerprint": "fnv1a64:650a6b0e5a2d9fa8",
+      "active": true
+    },
+    {
+      "source_file": "gold-0029.png",
+      "codepoint": "U+100152",
+      "image_fingerprint": "fnv1a64:53809521e5856e09",
+      "active": true
+    },
+    {
+      "source_file": "gold-0030.png",
+      "codepoint": "U+100153",
+      "image_fingerprint": "fnv1a64:db53dfe97520861a",
+      "active": true
+    },
+    {
+      "source_file": "gold-0031.png",
+      "codepoint": "U+100154",
+      "image_fingerprint": "fnv1a64:a10c0e793a633cbd",
+      "active": true
+    },
+    {
+      "source_file": "gold-0032.png",
+      "codepoint": "U+100155",
+      "image_fingerprint": "fnv1a64:683baf9bb2eb71a5",
+      "active": true
+    },
+    {
+      "source_file": "gold-0033.png",
+      "codepoint": "U+100156",
+      "image_fingerprint": "fnv1a64:6d0c576fde67b372",
+      "active": true
+    },
+    {
+      "source_file": "gold-0034.png",
+      "codepoint": "U+100157",
+      "image_fingerprint": "fnv1a64:6d0c576fde67b372",
+      "active": true
+    },
+    {
+      "source_file": "gold-0035.png",
+      "codepoint": "U+100158",
+      "image_fingerprint": "fnv1a64:263bd3df3b85e834",
+      "active": true
+    },
+    {
+      "source_file": "gold-0036.png",
+      "codepoint": "U+100159",
+      "image_fingerprint": "fnv1a64:814e0a67b19f39a2",
+      "active": true
+    },
+    {
+      "source_file": "gold-0037.png",
+      "codepoint": "U+10015A",
+      "image_fingerprint": "fnv1a64:25122c74026aefc0",
+      "active": true
+    },
+    {
+      "source_file": "gold-0038.png",
+      "codepoint": "U+10015B",
+      "image_fingerprint": "fnv1a64:27ef7ae7b53a8ac7",
+      "active": true
+    },
+    {
+      "source_file": "gold-0039.png",
+      "codepoint": "U+10015C",
+      "image_fingerprint": "fnv1a64:6ccb1ecdb6892ed8",
+      "active": true
+    },
+    {
+      "source_file": "gold-0040.png",
+      "codepoint": "U+10015D",
+      "image_fingerprint": "fnv1a64:6ccb1ecdb6892ed8",
+      "active": true
+    },
+    {
+      "source_file": "gold-0041.png",
+      "codepoint": "U+10015E",
+      "image_fingerprint": "fnv1a64:0bf4d49f6da5f55f",
+      "active": true
+    },
+    {
+      "source_file": "gold-0042.png",
+      "codepoint": "U+10015F",
+      "image_fingerprint": "fnv1a64:8fbb48aa9aa660bf",
+      "active": true
+    },
+    {
+      "source_file": "gold-0043.png",
+      "codepoint": "U+100160",
+      "image_fingerprint": "fnv1a64:f9fa64c9f10fd400",
+      "active": true
+    },
+    {
+      "source_file": "gold-0044.png",
+      "codepoint": "U+100161",
+      "image_fingerprint": "fnv1a64:d9465a6963c6f925",
+      "active": true
+    },
+    {
+      "source_file": "gold-0045.png",
+      "codepoint": "U+100162",
+      "image_fingerprint": "fnv1a64:ac5f34617bb46e11",
+      "active": true
+    },
+    {
+      "source_file": "gold-0046.png",
+      "codepoint": "U+100163",
+      "image_fingerprint": "fnv1a64:ac5f34617bb46e11",
+      "active": true
+    },
+    {
+      "source_file": "gold-0047.png",
+      "codepoint": "U+100164",
+      "image_fingerprint": "fnv1a64:cd3c435daee11bd1",
+      "active": true
+    },
+    {
+      "source_file": "gold-0048.png",
+      "codepoint": "U+100165",
+      "image_fingerprint": "fnv1a64:3f143d25b05399a8",
+      "active": true
+    },
+    {
+      "source_file": "gold-0049.png",
+      "codepoint": "U+100166",
+      "image_fingerprint": "fnv1a64:a9ca84c6714fc79e",
+      "active": true
+    },
+    {
+      "source_file": "gold-0050.png",
+      "codepoint": "U+100167",
+      "image_fingerprint": "fnv1a64:66b3cce816e9e8bc",
+      "active": true
+    },
+    {
+      "source_file": "gold-0051.png",
+      "codepoint": "U+100168",
+      "image_fingerprint": "fnv1a64:d749d145b03abe66",
+      "active": true
+    },
+    {
+      "source_file": "gold-0052.png",
+      "codepoint": "U+100169",
+      "image_fingerprint": "fnv1a64:d749d145b03abe66",
+      "active": true
+    },
+    {
+      "source_file": "gold-0053.png",
+      "codepoint": "U+10016A",
+      "image_fingerprint": "fnv1a64:fe31e73875063677",
+      "active": true
+    },
+    {
+      "source_file": "gold-0054.png",
+      "codepoint": "U+10016B",
+      "image_fingerprint": "fnv1a64:1507f0fac07e1a20",
+      "active": true
+    },
+    {
+      "source_file": "gold-0055.png",
+      "codepoint": "U+10016C",
+      "image_fingerprint": "fnv1a64:d9ec3d731e190536",
+      "active": true
+    },
+    {
+      "source_file": "gold-0056.png",
+      "codepoint": "U+10016D",
+      "image_fingerprint": "fnv1a64:76a6d867bc86825a",
+      "active": true
+    },
+    {
+      "source_file": "gold-0057.png",
+      "codepoint": "U+10016E",
+      "image_fingerprint": "fnv1a64:17316c77c186bb62",
+      "active": true
+    },
+    {
+      "source_file": "gold-0058.png",
+      "codepoint": "U+10016F",
+      "image_fingerprint": "fnv1a64:17316c77c186bb62",
+      "active": true
+    },
+    {
+      "source_file": "gold-0059.png",
+      "codepoint": "U+100170",
+      "image_fingerprint": "fnv1a64:75ba700e2efb99b2",
+      "active": true
+    },
+    {
+      "source_file": "gold-0060.png",
+      "codepoint": "U+100171",
+      "image_fingerprint": "fnv1a64:e3236bfbf7a44185",
+      "active": true
+    },
+    {
+      "source_file": "gold-0061.png",
+      "codepoint": "U+100172",
+      "image_fingerprint": "fnv1a64:f912519cc2878fc3",
+      "active": true
+    },
+    {
+      "source_file": "gold-0062.png",
+      "codepoint": "U+100173",
+      "image_fingerprint": "fnv1a64:e065aa8062701c96",
+      "active": true
+    },
+    {
+      "source_file": "gold-0063.png",
+      "codepoint": "U+100174",
+      "image_fingerprint": "fnv1a64:053c61adfede0fa2",
+      "active": true
+    },
+    {
+      "source_file": "gold-0064.png",
+      "codepoint": "U+100175",
+      "image_fingerprint": "fnv1a64:053c61adfede0fa2",
+      "active": true
+    },
+    {
+      "source_file": "gold-0065.png",
+      "codepoint": "U+100176",
+      "image_fingerprint": "fnv1a64:6d6966fe6a962cf7",
+      "active": true
+    },
+    {
+      "source_file": "gold-0066.png",
+      "codepoint": "U+100177",
+      "image_fingerprint": "fnv1a64:9fb4a0ecc24f86d2",
+      "active": true
+    },
+    {
+      "source_file": "gold-0067.png",
+      "codepoint": "U+100178",
+      "image_fingerprint": "fnv1a64:c7d8960b5dbde137",
+      "active": true
+    },
+    {
+      "source_file": "gold-0068.png",
+      "codepoint": "U+100179",
+      "image_fingerprint": "fnv1a64:b376e3cf9ac0e9c5",
+      "active": true
+    },
+    {
+      "source_file": "gold-0069.png",
+      "codepoint": "U+10017A",
+      "image_fingerprint": "fnv1a64:b8f5913d41c9c94f",
+      "active": true
+    },
+    {
+      "source_file": "gold-0070.png",
+      "codepoint": "U+10017B",
+      "image_fingerprint": "fnv1a64:b8f5913d41c9c94f",
+      "active": true
+    },
+    {
+      "source_file": "gold-0071.png",
+      "codepoint": "U+10017C",
+      "image_fingerprint": "fnv1a64:bbdd0c4a23f36610",
+      "active": true
+    },
+    {
+      "source_file": "gold-0072.png",
+      "codepoint": "U+10017D",
+      "image_fingerprint": "fnv1a64:bbdd0c4a23f36610",
+      "active": true
+    },
+    {
+      "source_file": "gold-0073.png",
+      "codepoint": "U+10017E",
+      "image_fingerprint": "fnv1a64:bbdd0c4a23f36610",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0001.png",
+      "codepoint": "U+100344",
+      "image_fingerprint": "fnv1a64:045c14495674698f",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0002.png",
+      "codepoint": "U+100345",
+      "image_fingerprint": "fnv1a64:cefe1c0a2b50e4d0",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0003.png",
+      "codepoint": "U+100346",
+      "image_fingerprint": "fnv1a64:5d87de020790e7dd",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0004.png",
+      "codepoint": "U+100347",
+      "image_fingerprint": "fnv1a64:be7d77d2648b2076",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0005.png",
+      "codepoint": "U+100348",
+      "image_fingerprint": "fnv1a64:96c3e9c71a06948d",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0006.png",
+      "codepoint": "U+100349",
+      "image_fingerprint": "fnv1a64:9654afce46adf62d",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0007.png",
+      "codepoint": "U+10034A",
+      "image_fingerprint": "fnv1a64:26823a44c7ae250a",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0008.png",
+      "codepoint": "U+10034B",
+      "image_fingerprint": "fnv1a64:541d3c605fb3a2e5",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0009.png",
+      "codepoint": "U+10034C",
+      "image_fingerprint": "fnv1a64:3dcb870fec9acec8",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0010.png",
+      "codepoint": "U+10034D",
+      "image_fingerprint": "fnv1a64:5b589b1cfb5543e6",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0011.png",
+      "codepoint": "U+10034E",
+      "image_fingerprint": "fnv1a64:b9a78391e388b8dd",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0012.png",
+      "codepoint": "U+10034F",
+      "image_fingerprint": "fnv1a64:d070eae9d00c745f",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0013.png",
+      "codepoint": "U+100350",
+      "image_fingerprint": "fnv1a64:56c76824b6fd574a",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0014.png",
+      "codepoint": "U+100351",
+      "image_fingerprint": "fnv1a64:0719ea7ea6f95488",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0015.png",
+      "codepoint": "U+100352",
+      "image_fingerprint": "fnv1a64:0c234f1cbde1a175",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0016.png",
+      "codepoint": "U+100353",
+      "image_fingerprint": "fnv1a64:cf4d78fe130c9f19",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0017.png",
+      "codepoint": "U+100354",
+      "image_fingerprint": "fnv1a64:cea8b581f8ac9678",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0018.png",
+      "codepoint": "U+100355",
+      "image_fingerprint": "fnv1a64:9a065e406030b20e",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0019.png",
+      "codepoint": "U+100356",
+      "image_fingerprint": "fnv1a64:b4adc9d1d2811b9e",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0020.png",
+      "codepoint": "U+100357",
+      "image_fingerprint": "fnv1a64:015f7bb91cc72992",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0021.png",
+      "codepoint": "U+100358",
+      "image_fingerprint": "fnv1a64:d965bb665d3f112f",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0022.png",
+      "codepoint": "U+100359",
+      "image_fingerprint": "fnv1a64:72c07f33b7952798",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0023.png",
+      "codepoint": "U+10035A",
+      "image_fingerprint": "fnv1a64:7e9643c8a4b6e4da",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0024.png",
+      "codepoint": "U+10035B",
+      "image_fingerprint": "fnv1a64:cd1266660426c42f",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0025.png",
+      "codepoint": "U+10035C",
+      "image_fingerprint": "fnv1a64:efde18d33a1c25c0",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0026.png",
+      "codepoint": "U+10035D",
+      "image_fingerprint": "fnv1a64:4493da93defd5a34",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0027.png",
+      "codepoint": "U+10035E",
+      "image_fingerprint": "fnv1a64:c99d728bfd2a9831",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0028.png",
+      "codepoint": "U+10035F",
+      "image_fingerprint": "fnv1a64:2bd94dc8a3f3b872",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0029.png",
+      "codepoint": "U+100360",
+      "image_fingerprint": "fnv1a64:2584fc3104415952",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0030.png",
+      "codepoint": "U+100361",
+      "image_fingerprint": "fnv1a64:75c3d2dabaf67860",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0031.png",
+      "codepoint": "U+100362",
+      "image_fingerprint": "fnv1a64:b74655445ac2eccc",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0032.png",
+      "codepoint": "U+100363",
+      "image_fingerprint": "fnv1a64:7230839f0cceba16",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0033.png",
+      "codepoint": "U+100364",
+      "image_fingerprint": "fnv1a64:2ee59557849275e4",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0034.png",
+      "codepoint": "U+100365",
+      "image_fingerprint": "fnv1a64:e1b5d73328d66147",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0035.png",
+      "codepoint": "U+100366",
+      "image_fingerprint": "fnv1a64:b1174060950f43c7",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0036.png",
+      "codepoint": "U+100367",
+      "image_fingerprint": "fnv1a64:0e3e280cf6063bb9",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0037.png",
+      "codepoint": "U+100368",
+      "image_fingerprint": "fnv1a64:016072365470d4f8",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0038.png",
+      "codepoint": "U+100369",
+      "image_fingerprint": "fnv1a64:929170407015c630",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0039.png",
+      "codepoint": "U+10036A",
+      "image_fingerprint": "fnv1a64:040f799ba12052eb",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0040.png",
+      "codepoint": "U+10036B",
+      "image_fingerprint": "fnv1a64:fccb023e36eed0b7",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0041.png",
+      "codepoint": "U+10036C",
+      "image_fingerprint": "fnv1a64:6d5172df53a8d09f",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0042.png",
+      "codepoint": "U+10036D",
+      "image_fingerprint": "fnv1a64:fb27654bca6e20f1",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0043.png",
+      "codepoint": "U+10036E",
+      "image_fingerprint": "fnv1a64:4d0843c368745df8",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0044.png",
+      "codepoint": "U+10036F",
+      "image_fingerprint": "fnv1a64:6ed4c67c3411a0e7",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0045.png",
+      "codepoint": "U+100370",
+      "image_fingerprint": "fnv1a64:48e2cacb04ff4fe7",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0046.png",
+      "codepoint": "U+100371",
+      "image_fingerprint": "fnv1a64:7accdf9bf70aa790",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0047.png",
+      "codepoint": "U+100372",
+      "image_fingerprint": "fnv1a64:f8f90fab7ee3f548",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0048.png",
+      "codepoint": "U+100373",
+      "image_fingerprint": "fnv1a64:8ec21e3b94efe3dd",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0049.png",
+      "codepoint": "U+100374",
+      "image_fingerprint": "fnv1a64:494479d6aae8016f",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0050.png",
+      "codepoint": "U+100375",
+      "image_fingerprint": "fnv1a64:4c6babb5b1afb9fe",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0051.png",
+      "codepoint": "U+100376",
+      "image_fingerprint": "fnv1a64:b6a57dbf232e8275",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0052.png",
+      "codepoint": "U+100377",
+      "image_fingerprint": "fnv1a64:858b56103a5d6c8e",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0053.png",
+      "codepoint": "U+100378",
+      "image_fingerprint": "fnv1a64:0d097ebc67595a4c",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0054.png",
+      "codepoint": "U+100379",
+      "image_fingerprint": "fnv1a64:1c549119aa3439c3",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0055.png",
+      "codepoint": "U+10037A",
+      "image_fingerprint": "fnv1a64:1ddfa9b5a25dc43b",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0056.png",
+      "codepoint": "U+10037B",
+      "image_fingerprint": "fnv1a64:8f7b43edd0bf2ab6",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0057.png",
+      "codepoint": "U+10037C",
+      "image_fingerprint": "fnv1a64:76274b6b3710e10e",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0058.png",
+      "codepoint": "U+10037D",
+      "image_fingerprint": "fnv1a64:4366c73fcd848690",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0059.png",
+      "codepoint": "U+10037E",
+      "image_fingerprint": "fnv1a64:c171da588da64148",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0060.png",
+      "codepoint": "U+10037F",
+      "image_fingerprint": "fnv1a64:194bbff6194294fa",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0061.png",
+      "codepoint": "U+100380",
+      "image_fingerprint": "fnv1a64:9c0283269c054f00",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0062.png",
+      "codepoint": "U+100381",
+      "image_fingerprint": "fnv1a64:2614b848055983d0",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0063.png",
+      "codepoint": "U+100382",
+      "image_fingerprint": "fnv1a64:e6a446575821f1a5",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0064.png",
+      "codepoint": "U+100383",
+      "image_fingerprint": "fnv1a64:c666db9d3f19d511",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0065.png",
+      "codepoint": "U+100384",
+      "image_fingerprint": "fnv1a64:27f67911d5bdcd7b",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0066.png",
+      "codepoint": "U+100385",
+      "image_fingerprint": "fnv1a64:93a3279a9c80a3e5",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0067.png",
+      "codepoint": "U+100386",
+      "image_fingerprint": "fnv1a64:373cca8c2847dc89",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0068.png",
+      "codepoint": "U+100387",
+      "image_fingerprint": "fnv1a64:c89b1983bd1f3d12",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0069.png",
+      "codepoint": "U+100388",
+      "image_fingerprint": "fnv1a64:cb2939880897f880",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0070.png",
+      "codepoint": "U+100389",
+      "image_fingerprint": "fnv1a64:7e1abaea74cca423",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0071.png",
+      "codepoint": "U+10038A",
+      "image_fingerprint": "fnv1a64:1b288bf0ceebd8e4",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0072.png",
+      "codepoint": "U+10038B",
+      "image_fingerprint": "fnv1a64:c908cbc0e2182864",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0073.png",
+      "codepoint": "U+10038C",
+      "image_fingerprint": "fnv1a64:8a15533ebaae9565",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0074.png",
+      "codepoint": "U+10038D",
+      "image_fingerprint": "fnv1a64:cd049b929ac2e51a",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0075.png",
+      "codepoint": "U+10038E",
+      "image_fingerprint": "fnv1a64:46471ac148fe1c2b",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0076.png",
+      "codepoint": "U+10038F",
+      "image_fingerprint": "fnv1a64:6b4dbf650a332c5d",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0077.png",
+      "codepoint": "U+100390",
+      "image_fingerprint": "fnv1a64:0c2397f9762c5d95",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0078.png",
+      "codepoint": "U+100391",
+      "image_fingerprint": "fnv1a64:d16e0a14ad326245",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0079.png",
+      "codepoint": "U+100392",
+      "image_fingerprint": "fnv1a64:c77099a93b6d75e3",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0080.png",
+      "codepoint": "U+100393",
+      "image_fingerprint": "fnv1a64:5654af6dee3d201c",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0081.png",
+      "codepoint": "U+100394",
+      "image_fingerprint": "fnv1a64:4202a558664af543",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0082.png",
+      "codepoint": "U+100395",
+      "image_fingerprint": "fnv1a64:1f618e52b23b5e91",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0083.png",
+      "codepoint": "U+100396",
+      "image_fingerprint": "fnv1a64:d14085b76c3da4d9",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0084.png",
+      "codepoint": "U+100397",
+      "image_fingerprint": "fnv1a64:26d03bbb8e905f3c",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0085.png",
+      "codepoint": "U+100398",
+      "image_fingerprint": "fnv1a64:734e3edf0a62e212",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0086.png",
+      "codepoint": "U+100399",
+      "image_fingerprint": "fnv1a64:bdafaabc48e02d68",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0087.png",
+      "codepoint": "U+10039A",
+      "image_fingerprint": "fnv1a64:c9261d5a29e12d7b",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0088.png",
+      "codepoint": "U+10039B",
+      "image_fingerprint": "fnv1a64:c9aa2cb9fc74a40c",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0089.png",
+      "codepoint": "U+10039C",
+      "image_fingerprint": "fnv1a64:0d6b8e5ca3ee93ba",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0090.png",
+      "codepoint": "U+10039D",
+      "image_fingerprint": "fnv1a64:337f42589c52e65a",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0091.png",
+      "codepoint": "U+10039E",
+      "image_fingerprint": "fnv1a64:e743e42df27c76ef",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0092.png",
+      "codepoint": "U+10039F",
+      "image_fingerprint": "fnv1a64:dd63ca278a4ae8a7",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0093.png",
+      "codepoint": "U+1003A0",
+      "image_fingerprint": "fnv1a64:5fef4d5a817fcf9f",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0094.png",
+      "codepoint": "U+1003A1",
+      "image_fingerprint": "fnv1a64:be650656b9a40173",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0095.png",
+      "codepoint": "U+1003A2",
+      "image_fingerprint": "fnv1a64:ba0f4266fb6b466b",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0096.png",
+      "codepoint": "U+1003A3",
+      "image_fingerprint": "fnv1a64:4ee48cc246e438b5",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0097.png",
+      "codepoint": "U+1003A4",
+      "image_fingerprint": "fnv1a64:d4c28c5619dac1cc",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0098.png",
+      "codepoint": "U+1003A5",
+      "image_fingerprint": "fnv1a64:c87c366bb0f49dc4",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0099.png",
+      "codepoint": "U+1003A6",
+      "image_fingerprint": "fnv1a64:9564527c8c476515",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0100.png",
+      "codepoint": "U+1003A7",
+      "image_fingerprint": "fnv1a64:359c2fc8f7b1d774",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0101.png",
+      "codepoint": "U+1003A8",
+      "image_fingerprint": "fnv1a64:6c706a4699c8d79c",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0102.png",
+      "codepoint": "U+1003A9",
+      "image_fingerprint": "fnv1a64:5e2d85c770d77241",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0103.png",
+      "codepoint": "U+1003AA",
+      "image_fingerprint": "fnv1a64:5e2d85c770d77241",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0104.png",
+      "codepoint": "U+1003AB",
+      "image_fingerprint": "fnv1a64:5e2d85c770d77241",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0105.png",
+      "codepoint": "U+1003AC",
+      "image_fingerprint": "fnv1a64:5e2d85c770d77241",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0106.png",
+      "codepoint": "U+1003AD",
+      "image_fingerprint": "fnv1a64:5e2d85c770d77241",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0107.png",
+      "codepoint": "U+1003AE",
+      "image_fingerprint": "fnv1a64:5e2d85c770d77241",
+      "active": true
+    },
+    {
+      "source_file": "headphones-0108.png",
+      "codepoint": "U+1003AF",
+      "image_fingerprint": "fnv1a64:5e2d85c770d77241",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0001.png",
+      "codepoint": "U+1001EB",
+      "image_fingerprint": "fnv1a64:2d269722069db93c",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0002.png",
+      "codepoint": "U+1001EC",
+      "image_fingerprint": "fnv1a64:2d269722069db93c",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0003.png",
+      "codepoint": "U+1001ED",
+      "image_fingerprint": "fnv1a64:2d269722069db93c",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0004.png",
+      "codepoint": "U+1001EE",
+      "image_fingerprint": "fnv1a64:2d269722069db93c",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0005.png",
+      "codepoint": "U+1001EF",
+      "image_fingerprint": "fnv1a64:2d269722069db93c",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0006.png",
+      "codepoint": "U+1001F0",
+      "image_fingerprint": "fnv1a64:2d269722069db93c",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0007.png",
+      "codepoint": "U+1001F1",
+      "image_fingerprint": "fnv1a64:2d269722069db93c",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0008.png",
+      "codepoint": "U+1001F2",
+      "image_fingerprint": "fnv1a64:8ebc35d3887f042a",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0009.png",
+      "codepoint": "U+1001F3",
+      "image_fingerprint": "fnv1a64:c5c779901a0e2e68",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0010.png",
+      "codepoint": "U+1001F4",
+      "image_fingerprint": "fnv1a64:52721a5a37c46820",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0011.png",
+      "codepoint": "U+1001F5",
+      "image_fingerprint": "fnv1a64:5efc679875a4f941",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0012.png",
+      "codepoint": "U+1001F6",
+      "image_fingerprint": "fnv1a64:7ea10f1888499e62",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0013.png",
+      "codepoint": "U+1001F7",
+      "image_fingerprint": "fnv1a64:bd010cf6bc830148",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0014.png",
+      "codepoint": "U+1001F8",
+      "image_fingerprint": "fnv1a64:2f14a4eefa41bbc8",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0015.png",
+      "codepoint": "U+1001F9",
+      "image_fingerprint": "fnv1a64:80e14287bc4b52b2",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0016.png",
+      "codepoint": "U+1001FA",
+      "image_fingerprint": "fnv1a64:c47818e708669f4d",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0017.png",
+      "codepoint": "U+1001FB",
+      "image_fingerprint": "fnv1a64:f1a662427dd663e3",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0018.png",
+      "codepoint": "U+1001FC",
+      "image_fingerprint": "fnv1a64:326c8793e00ebd07",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0019.png",
+      "codepoint": "U+1001FD",
+      "image_fingerprint": "fnv1a64:5d1841b5e5fda788",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0020.png",
+      "codepoint": "U+1001FE",
+      "image_fingerprint": "fnv1a64:bfbcda9ed29c2e85",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0021.png",
+      "codepoint": "U+1001FF",
+      "image_fingerprint": "fnv1a64:d87469188399fe58",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0022.png",
+      "codepoint": "U+100200",
+      "image_fingerprint": "fnv1a64:09c0c923c311e494",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0023.png",
+      "codepoint": "U+100201",
+      "image_fingerprint": "fnv1a64:849fef114ffa4efd",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0024.png",
+      "codepoint": "U+100202",
+      "image_fingerprint": "fnv1a64:4157b1f12c7180eb",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0025.png",
+      "codepoint": "U+100203",
+      "image_fingerprint": "fnv1a64:5ddec2bccdc6da7b",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0026.png",
+      "codepoint": "U+100204",
+      "image_fingerprint": "fnv1a64:0279d16a482c3fab",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0027.png",
+      "codepoint": "U+100205",
+      "image_fingerprint": "fnv1a64:786f7193458be28f",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0028.png",
+      "codepoint": "U+100206",
+      "image_fingerprint": "fnv1a64:08b670ef075151c1",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0029.png",
+      "codepoint": "U+100207",
+      "image_fingerprint": "fnv1a64:89dc6a726fcf3b3e",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0030.png",
+      "codepoint": "U+100208",
+      "image_fingerprint": "fnv1a64:adb951bfc757cd86",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0031.png",
+      "codepoint": "U+100209",
+      "image_fingerprint": "fnv1a64:33df567b05f95a48",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0032.png",
+      "codepoint": "U+10020A",
+      "image_fingerprint": "fnv1a64:b58c1a169009b0c7",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0033.png",
+      "codepoint": "U+10020B",
+      "image_fingerprint": "fnv1a64:3a9e3fa7d5a8224b",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0034.png",
+      "codepoint": "U+10020C",
+      "image_fingerprint": "fnv1a64:b9861611af5ee5b9",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0035.png",
+      "codepoint": "U+10020D",
+      "image_fingerprint": "fnv1a64:9b0132061303869d",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0036.png",
+      "codepoint": "U+10020E",
+      "image_fingerprint": "fnv1a64:78fb1996ce9fc8c4",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0037.png",
+      "codepoint": "U+10020F",
+      "image_fingerprint": "fnv1a64:976b098413db07f2",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0038.png",
+      "codepoint": "U+100210",
+      "image_fingerprint": "fnv1a64:ddd9ae2bdd07f4f0",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0039.png",
+      "codepoint": "U+100211",
+      "image_fingerprint": "fnv1a64:650bba43db00f310",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0040.png",
+      "codepoint": "U+100212",
+      "image_fingerprint": "fnv1a64:2e3c7d7dab638777",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0041.png",
+      "codepoint": "U+100213",
+      "image_fingerprint": "fnv1a64:03e5774954524543",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0042.png",
+      "codepoint": "U+100214",
+      "image_fingerprint": "fnv1a64:99134da4ecf957fb",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0043.png",
+      "codepoint": "U+100215",
+      "image_fingerprint": "fnv1a64:c654cd0fff328990",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0044.png",
+      "codepoint": "U+100216",
+      "image_fingerprint": "fnv1a64:9afde2b0283606c7",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0045.png",
+      "codepoint": "U+100217",
+      "image_fingerprint": "fnv1a64:e144961c63bd5460",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0046.png",
+      "codepoint": "U+100218",
+      "image_fingerprint": "fnv1a64:52a865447aed1328",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0047.png",
+      "codepoint": "U+100219",
+      "image_fingerprint": "fnv1a64:f339af84730f6878",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0048.png",
+      "codepoint": "U+10021A",
+      "image_fingerprint": "fnv1a64:a632a3dcab0f0cc2",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0049.png",
+      "codepoint": "U+10021B",
+      "image_fingerprint": "fnv1a64:1a6e9d58c73a69b5",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0050.png",
+      "codepoint": "U+10021C",
+      "image_fingerprint": "fnv1a64:bc738ab274c2aa1c",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0051.png",
+      "codepoint": "U+10021D",
+      "image_fingerprint": "fnv1a64:f527a39707e67880",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0052.png",
+      "codepoint": "U+10021E",
+      "image_fingerprint": "fnv1a64:fd83d9f6db59dc70",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0053.png",
+      "codepoint": "U+10021F",
+      "image_fingerprint": "fnv1a64:f72770c388e46b9a",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0054.png",
+      "codepoint": "U+100220",
+      "image_fingerprint": "fnv1a64:76de3ef305f9cf4d",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0055.png",
+      "codepoint": "U+100221",
+      "image_fingerprint": "fnv1a64:e73ecf23a076362a",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0056.png",
+      "codepoint": "U+100222",
+      "image_fingerprint": "fnv1a64:631ce55a9b646c20",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0057.png",
+      "codepoint": "U+100223",
+      "image_fingerprint": "fnv1a64:13ad92cae99caf40",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0058.png",
+      "codepoint": "U+100224",
+      "image_fingerprint": "fnv1a64:3b803b5f9a939068",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0059.png",
+      "codepoint": "U+100225",
+      "image_fingerprint": "fnv1a64:f6e70ab7bdb38c59",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0060.png",
+      "codepoint": "U+100226",
+      "image_fingerprint": "fnv1a64:595cd0be9a379643",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0061.png",
+      "codepoint": "U+100227",
+      "image_fingerprint": "fnv1a64:677e86115ebf34f5",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0062.png",
+      "codepoint": "U+100228",
+      "image_fingerprint": "fnv1a64:ea538cdfd420d73d",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0063.png",
+      "codepoint": "U+100229",
+      "image_fingerprint": "fnv1a64:f1776448fc8b16fb",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0064.png",
+      "codepoint": "U+10022A",
+      "image_fingerprint": "fnv1a64:7e67458a04250115",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0065.png",
+      "codepoint": "U+10022B",
+      "image_fingerprint": "fnv1a64:5452ce18f1bc2883",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0066.png",
+      "codepoint": "U+10022C",
+      "image_fingerprint": "fnv1a64:880e715f41dc9f39",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0067.png",
+      "codepoint": "U+10022D",
+      "image_fingerprint": "fnv1a64:1bd9c5b4bbc0761e",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0068.png",
+      "codepoint": "U+10022E",
+      "image_fingerprint": "fnv1a64:e299550885716c29",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0069.png",
+      "codepoint": "U+10022F",
+      "image_fingerprint": "fnv1a64:d4003eee0dec4387",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0070.png",
+      "codepoint": "U+100230",
+      "image_fingerprint": "fnv1a64:8b1170a9d9e07bae",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0071.png",
+      "codepoint": "U+100231",
+      "image_fingerprint": "fnv1a64:11c712d1cdfebbe2",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0072.png",
+      "codepoint": "U+100232",
+      "image_fingerprint": "fnv1a64:b620eff7a01e6b1a",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0073.png",
+      "codepoint": "U+100233",
+      "image_fingerprint": "fnv1a64:645a3c39b3ffeb9e",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0074.png",
+      "codepoint": "U+100234",
+      "image_fingerprint": "fnv1a64:c05acc7c0593185a",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0075.png",
+      "codepoint": "U+100235",
+      "image_fingerprint": "fnv1a64:93769351b3d11ad8",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0076.png",
+      "codepoint": "U+100236",
+      "image_fingerprint": "fnv1a64:a5a263b1c925da16",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0077.png",
+      "codepoint": "U+100237",
+      "image_fingerprint": "fnv1a64:8591e9f36da948a8",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0078.png",
+      "codepoint": "U+100238",
+      "image_fingerprint": "fnv1a64:44d241e0e56dadf7",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0079.png",
+      "codepoint": "U+100239",
+      "image_fingerprint": "fnv1a64:c9aa693ba376a62e",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0080.png",
+      "codepoint": "U+10023A",
+      "image_fingerprint": "fnv1a64:b1af2a16daccb75f",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0081.png",
+      "codepoint": "U+10023B",
+      "image_fingerprint": "fnv1a64:6ab9b2e76a07bbaa",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0082.png",
+      "codepoint": "U+10023C",
+      "image_fingerprint": "fnv1a64:727c5b3d85822ce3",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0083.png",
+      "codepoint": "U+10023D",
+      "image_fingerprint": "fnv1a64:f84be6be108bbf50",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0084.png",
+      "codepoint": "U+10023E",
+      "image_fingerprint": "fnv1a64:98bd0041050ad840",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0085.png",
+      "codepoint": "U+10023F",
+      "image_fingerprint": "fnv1a64:05559860005c9f5d",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0086.png",
+      "codepoint": "U+100240",
+      "image_fingerprint": "fnv1a64:1aed7cf8a24171c2",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0087.png",
+      "codepoint": "U+100241",
+      "image_fingerprint": "fnv1a64:b57910bbc1beb009",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0088.png",
+      "codepoint": "U+100242",
+      "image_fingerprint": "fnv1a64:019477e2fcfba59a",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0089.png",
+      "codepoint": "U+100243",
+      "image_fingerprint": "fnv1a64:18defd3f0ecb71cc",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0090.png",
+      "codepoint": "U+100244",
+      "image_fingerprint": "fnv1a64:9933ca7c95d8e657",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0091.png",
+      "codepoint": "U+100245",
+      "image_fingerprint": "fnv1a64:47842220ba9e5261",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0092.png",
+      "codepoint": "U+100246",
+      "image_fingerprint": "fnv1a64:b2ba3369cfdd0d21",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0093.png",
+      "codepoint": "U+100247",
+      "image_fingerprint": "fnv1a64:0343d234819d2b76",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0094.png",
+      "codepoint": "U+100248",
+      "image_fingerprint": "fnv1a64:10e44c88930bc759",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0095.png",
+      "codepoint": "U+100249",
+      "image_fingerprint": "fnv1a64:a648455845600914",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0096.png",
+      "codepoint": "U+10024A",
+      "image_fingerprint": "fnv1a64:a7875345afaef33a",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0097.png",
+      "codepoint": "U+10024B",
+      "image_fingerprint": "fnv1a64:5c6826dff070143e",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0098.png",
+      "codepoint": "U+10024C",
+      "image_fingerprint": "fnv1a64:5045bdeb4203d322",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0099.png",
+      "codepoint": "U+10024D",
+      "image_fingerprint": "fnv1a64:59a40ad160c398c9",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0100.png",
+      "codepoint": "U+10024E",
+      "image_fingerprint": "fnv1a64:c54b7fd3d5be5e0b",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0101.png",
+      "codepoint": "U+10024F",
+      "image_fingerprint": "fnv1a64:95431ace084d1a8a",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0102.png",
+      "codepoint": "U+100250",
+      "image_fingerprint": "fnv1a64:1bb7366325d6fb92",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0103.png",
+      "codepoint": "U+100251",
+      "image_fingerprint": "fnv1a64:193bd3867898d903",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0104.png",
+      "codepoint": "U+100252",
+      "image_fingerprint": "fnv1a64:f5d02ebcdf914678",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0105.png",
+      "codepoint": "U+100253",
+      "image_fingerprint": "fnv1a64:03683cbd0695d261",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0106.png",
+      "codepoint": "U+100254",
+      "image_fingerprint": "fnv1a64:d2e0212e902164c4",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0107.png",
+      "codepoint": "U+100255",
+      "image_fingerprint": "fnv1a64:78d3e9f5d6fcfd5d",
+      "active": true
+    },
+    {
+      "source_file": "hourglass-0108.png",
+      "codepoint": "U+100256",
+      "image_fingerprint": "fnv1a64:4dafe5bc184b4a51",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0001.png",
+      "codepoint": "U+10017F",
+      "image_fingerprint": "fnv1a64:f69f1af11ba97f68",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0002.png",
+      "codepoint": "U+100180",
+      "image_fingerprint": "fnv1a64:f69f1af11ba97f68",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0003.png",
+      "codepoint": "U+100181",
+      "image_fingerprint": "fnv1a64:c3d28606ade8b2ba",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0004.png",
+      "codepoint": "U+100182",
+      "image_fingerprint": "fnv1a64:c3d28606ade8b2ba",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0005.png",
+      "codepoint": "U+100183",
+      "image_fingerprint": "fnv1a64:9dba0f1e58610bcf",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0006.png",
+      "codepoint": "U+100184",
+      "image_fingerprint": "fnv1a64:e5944e647421478e",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0007.png",
+      "codepoint": "U+100185",
+      "image_fingerprint": "fnv1a64:1289164dabf6d7c1",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0008.png",
+      "codepoint": "U+100186",
+      "image_fingerprint": "fnv1a64:0963179294692473",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0009.png",
+      "codepoint": "U+100187",
+      "image_fingerprint": "fnv1a64:0c07ac864aa9bf1d",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0010.png",
+      "codepoint": "U+100188",
+      "image_fingerprint": "fnv1a64:0c07ac864aa9bf1d",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0011.png",
+      "codepoint": "U+100189",
+      "image_fingerprint": "fnv1a64:228b03375bd75f0c",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0012.png",
+      "codepoint": "U+10018A",
+      "image_fingerprint": "fnv1a64:8467168835843a9d",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0013.png",
+      "codepoint": "U+10018B",
+      "image_fingerprint": "fnv1a64:ebe6e925d72fc5c4",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0014.png",
+      "codepoint": "U+10018C",
+      "image_fingerprint": "fnv1a64:ea97eddda89a3522",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0015.png",
+      "codepoint": "U+10018D",
+      "image_fingerprint": "fnv1a64:fade1b0c59f8e0b8",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0016.png",
+      "codepoint": "U+10018E",
+      "image_fingerprint": "fnv1a64:fade1b0c59f8e0b8",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0017.png",
+      "codepoint": "U+10018F",
+      "image_fingerprint": "fnv1a64:2a7a39f62d59ba7f",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0018.png",
+      "codepoint": "U+100190",
+      "image_fingerprint": "fnv1a64:c074901dbfee3be5",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0019.png",
+      "codepoint": "U+100191",
+      "image_fingerprint": "fnv1a64:c36217957b5d7531",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0020.png",
+      "codepoint": "U+100192",
+      "image_fingerprint": "fnv1a64:a663d52509a974b8",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0021.png",
+      "codepoint": "U+100193",
+      "image_fingerprint": "fnv1a64:62add6847c88f0b5",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0022.png",
+      "codepoint": "U+100194",
+      "image_fingerprint": "fnv1a64:62add6847c88f0b5",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0023.png",
+      "codepoint": "U+100195",
+      "image_fingerprint": "fnv1a64:d4f6e999badb9768",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0024.png",
+      "codepoint": "U+100196",
+      "image_fingerprint": "fnv1a64:7a6d419984fcfc90",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0025.png",
+      "codepoint": "U+100197",
+      "image_fingerprint": "fnv1a64:4963fccb80daf9ff",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0026.png",
+      "codepoint": "U+100198",
+      "image_fingerprint": "fnv1a64:a525815a3cfcf21f",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0027.png",
+      "codepoint": "U+100199",
+      "image_fingerprint": "fnv1a64:f29e0c140dc64914",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0028.png",
+      "codepoint": "U+10019A",
+      "image_fingerprint": "fnv1a64:f29e0c140dc64914",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0029.png",
+      "codepoint": "U+10019B",
+      "image_fingerprint": "fnv1a64:b64ba9c45a651d4e",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0030.png",
+      "codepoint": "U+10019C",
+      "image_fingerprint": "fnv1a64:a054e48bb45f22db",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0031.png",
+      "codepoint": "U+10019D",
+      "image_fingerprint": "fnv1a64:2193801c48c2752e",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0032.png",
+      "codepoint": "U+10019E",
+      "image_fingerprint": "fnv1a64:07f97e43ee3ce607",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0033.png",
+      "codepoint": "U+10019F",
+      "image_fingerprint": "fnv1a64:4916ea6e634db0c0",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0034.png",
+      "codepoint": "U+1001A0",
+      "image_fingerprint": "fnv1a64:4916ea6e634db0c0",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0035.png",
+      "codepoint": "U+1001A1",
+      "image_fingerprint": "fnv1a64:a4c2418e4016f29a",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0036.png",
+      "codepoint": "U+1001A2",
+      "image_fingerprint": "fnv1a64:694b5a299baa77bc",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0037.png",
+      "codepoint": "U+1001A3",
+      "image_fingerprint": "fnv1a64:b58ed136f19acb12",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0038.png",
+      "codepoint": "U+1001A4",
+      "image_fingerprint": "fnv1a64:ab2e57b0f7a4ca62",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0039.png",
+      "codepoint": "U+1001A5",
+      "image_fingerprint": "fnv1a64:8941994a99d53fd1",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0040.png",
+      "codepoint": "U+1001A6",
+      "image_fingerprint": "fnv1a64:8941994a99d53fd1",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0041.png",
+      "codepoint": "U+1001A7",
+      "image_fingerprint": "fnv1a64:8ac3366bdf4880ae",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0042.png",
+      "codepoint": "U+1001A8",
+      "image_fingerprint": "fnv1a64:39232c4f6dd7f5f3",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0043.png",
+      "codepoint": "U+1001A9",
+      "image_fingerprint": "fnv1a64:39232c4f6dd7f5f3",
+      "active": true
+    },
+    {
+      "source_file": "mosque-0044.png",
+      "codepoint": "U+1001AA",
+      "image_fingerprint": "fnv1a64:39232c4f6dd7f5f3",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0001.png",
+      "codepoint": "U+100257",
+      "image_fingerprint": "fnv1a64:d4d817b3acf2c7e4",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0002.png",
+      "codepoint": "U+100258",
+      "image_fingerprint": "fnv1a64:575363b78e7630e5",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0003.png",
+      "codepoint": "U+100259",
+      "image_fingerprint": "fnv1a64:4d5face3c73dd3d4",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0004.png",
+      "codepoint": "U+10025A",
+      "image_fingerprint": "fnv1a64:29d6d81b7f5c4a70",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0005.png",
+      "codepoint": "U+10025B",
+      "image_fingerprint": "fnv1a64:0699b1df558aa564",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0006.png",
+      "codepoint": "U+10025C",
+      "image_fingerprint": "fnv1a64:4c6322936937d76d",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0007.png",
+      "codepoint": "U+10025D",
+      "image_fingerprint": "fnv1a64:b3737ed30a83b13c",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0008.png",
+      "codepoint": "U+10025E",
+      "image_fingerprint": "fnv1a64:e7cbe1ac22cccf24",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0009.png",
+      "codepoint": "U+10025F",
+      "image_fingerprint": "fnv1a64:54207aff67f6d165",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0010.png",
+      "codepoint": "U+100260",
+      "image_fingerprint": "fnv1a64:6b24ad195ba7c9a5",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0011.png",
+      "codepoint": "U+100261",
+      "image_fingerprint": "fnv1a64:66f2bae24a0a7d34",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0012.png",
+      "codepoint": "U+100262",
+      "image_fingerprint": "fnv1a64:7d14c79b4ca956e1",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0013.png",
+      "codepoint": "U+100263",
+      "image_fingerprint": "fnv1a64:38c79ad8b6449e24",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0014.png",
+      "codepoint": "U+100264",
+      "image_fingerprint": "fnv1a64:cedda1fd84661305",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0015.png",
+      "codepoint": "U+100265",
+      "image_fingerprint": "fnv1a64:9a443fed2000c797",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0016.png",
+      "codepoint": "U+100266",
+      "image_fingerprint": "fnv1a64:7c9dca81bc66d0a7",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0017.png",
+      "codepoint": "U+100267",
+      "image_fingerprint": "fnv1a64:853064da007af9d8",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0018.png",
+      "codepoint": "U+100268",
+      "image_fingerprint": "fnv1a64:531a0148308369d3",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0019.png",
+      "codepoint": "U+100269",
+      "image_fingerprint": "fnv1a64:b4f54851c6e40306",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0020.png",
+      "codepoint": "U+10026A",
+      "image_fingerprint": "fnv1a64:c585b67c9cb8e85b",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0021.png",
+      "codepoint": "U+10026B",
+      "image_fingerprint": "fnv1a64:e60c1911a0af65f1",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0022.png",
+      "codepoint": "U+10026C",
+      "image_fingerprint": "fnv1a64:f710d903fe67e1fa",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0023.png",
+      "codepoint": "U+10026D",
+      "image_fingerprint": "fnv1a64:685ad28ab0bc1464",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0024.png",
+      "codepoint": "U+10026E",
+      "image_fingerprint": "fnv1a64:870b736d4129f994",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0025.png",
+      "codepoint": "U+10026F",
+      "image_fingerprint": "fnv1a64:f69ebc6f6cd21e9b",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0026.png",
+      "codepoint": "U+100270",
+      "image_fingerprint": "fnv1a64:058acd94a754e299",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0027.png",
+      "codepoint": "U+100271",
+      "image_fingerprint": "fnv1a64:47ed3130d06b13d6",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0028.png",
+      "codepoint": "U+100272",
+      "image_fingerprint": "fnv1a64:183623654ec7375a",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0029.png",
+      "codepoint": "U+100273",
+      "image_fingerprint": "fnv1a64:23a2e6eca16735ed",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0030.png",
+      "codepoint": "U+100274",
+      "image_fingerprint": "fnv1a64:0415ea5ade034e50",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0031.png",
+      "codepoint": "U+100275",
+      "image_fingerprint": "fnv1a64:48af8b7d3c51f171",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0032.png",
+      "codepoint": "U+100276",
+      "image_fingerprint": "fnv1a64:1d72e91c011ff174",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0033.png",
+      "codepoint": "U+100277",
+      "image_fingerprint": "fnv1a64:f6da9e90541763b8",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0034.png",
+      "codepoint": "U+100278",
+      "image_fingerprint": "fnv1a64:ccfb94b674b93451",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0035.png",
+      "codepoint": "U+100279",
+      "image_fingerprint": "fnv1a64:0bf7b6dc6f9d5872",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0036.png",
+      "codepoint": "U+10027A",
+      "image_fingerprint": "fnv1a64:d93de7d1d84bc26f",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0037.png",
+      "codepoint": "U+10027B",
+      "image_fingerprint": "fnv1a64:997d99554fd5d194",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0038.png",
+      "codepoint": "U+10027C",
+      "image_fingerprint": "fnv1a64:afe661fa1583c37b",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0039.png",
+      "codepoint": "U+10027D",
+      "image_fingerprint": "fnv1a64:e81e0c0c5f65d9de",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0040.png",
+      "codepoint": "U+10027E",
+      "image_fingerprint": "fnv1a64:34f5635ed1446db6",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0041.png",
+      "codepoint": "U+10027F",
+      "image_fingerprint": "fnv1a64:24fdcf9f0d388625",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0042.png",
+      "codepoint": "U+100280",
+      "image_fingerprint": "fnv1a64:41e3921163c2368f",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0043.png",
+      "codepoint": "U+100281",
+      "image_fingerprint": "fnv1a64:215782826288d59b",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0044.png",
+      "codepoint": "U+100282",
+      "image_fingerprint": "fnv1a64:c8ba8a85e3667b31",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0045.png",
+      "codepoint": "U+100283",
+      "image_fingerprint": "fnv1a64:a6b3532e991ab19c",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0046.png",
+      "codepoint": "U+100284",
+      "image_fingerprint": "fnv1a64:40a971979afead33",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0047.png",
+      "codepoint": "U+100285",
+      "image_fingerprint": "fnv1a64:b929e5f36256cb57",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0048.png",
+      "codepoint": "U+100286",
+      "image_fingerprint": "fnv1a64:d876f34798f665e2",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0049.png",
+      "codepoint": "U+100287",
+      "image_fingerprint": "fnv1a64:6bf47ce3bd2cba77",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0050.png",
+      "codepoint": "U+100288",
+      "image_fingerprint": "fnv1a64:f946fd01ff781435",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0051.png",
+      "codepoint": "U+100289",
+      "image_fingerprint": "fnv1a64:eaca851ad3c2c9cf",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0052.png",
+      "codepoint": "U+10028A",
+      "image_fingerprint": "fnv1a64:8e7c47bf4f4205a7",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0053.png",
+      "codepoint": "U+10028B",
+      "image_fingerprint": "fnv1a64:1b5348ef60201c6b",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0054.png",
+      "codepoint": "U+10028C",
+      "image_fingerprint": "fnv1a64:37f5d9edae7c26e7",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0055.png",
+      "codepoint": "U+10028D",
+      "image_fingerprint": "fnv1a64:c6e3a9ba2584bff5",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0056.png",
+      "codepoint": "U+10028E",
+      "image_fingerprint": "fnv1a64:dadf4c3084ac533d",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0057.png",
+      "codepoint": "U+10028F",
+      "image_fingerprint": "fnv1a64:d234657217ff7640",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0058.png",
+      "codepoint": "U+100290",
+      "image_fingerprint": "fnv1a64:251fc82ffca6558d",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0059.png",
+      "codepoint": "U+100291",
+      "image_fingerprint": "fnv1a64:0c3c4daeed91650d",
+      "active": true
+    },
+    {
+      "source_file": "music-note-0060.png",
+      "codepoint": "U+100292",
+      "image_fingerprint": "fnv1a64:0c3c4daeed91650d",
+      "active": true
+    },
+    {
+      "source_file": "package-0001.png",
+      "codepoint": "U+10004F",
+      "image_fingerprint": "fnv1a64:57d71de87e36e375",
+      "active": true
+    },
+    {
+      "source_file": "package-0002.png",
+      "codepoint": "U+100050",
+      "image_fingerprint": "fnv1a64:7f595981fa8f95bb",
+      "active": true
+    },
+    {
+      "source_file": "package-0003.png",
+      "codepoint": "U+100051",
+      "image_fingerprint": "fnv1a64:d74cbc21fddee391",
+      "active": true
+    },
+    {
+      "source_file": "package-0004.png",
+      "codepoint": "U+100052",
+      "image_fingerprint": "fnv1a64:ab2ccb5f5ce51e24",
+      "active": true
+    },
+    {
+      "source_file": "package-0005.png",
+      "codepoint": "U+100053",
+      "image_fingerprint": "fnv1a64:e346452c3cead1b2",
+      "active": true
+    },
+    {
+      "source_file": "package-0006.png",
+      "codepoint": "U+100054",
+      "image_fingerprint": "fnv1a64:9ffc5ef8d983ce75",
+      "active": true
+    },
+    {
+      "source_file": "package-0007.png",
+      "codepoint": "U+100055",
+      "image_fingerprint": "fnv1a64:7bde9fcdd0b4dc7b",
+      "active": true
+    },
+    {
+      "source_file": "package-0008.png",
+      "codepoint": "U+100056",
+      "image_fingerprint": "fnv1a64:cb4e63e58c434e23",
+      "active": true
+    },
+    {
+      "source_file": "package-0009.png",
+      "codepoint": "U+100057",
+      "image_fingerprint": "fnv1a64:e3d23fd1b513c4e5",
+      "active": true
+    },
+    {
+      "source_file": "package-0010.png",
+      "codepoint": "U+100058",
+      "image_fingerprint": "fnv1a64:ee3d6bcc34c77733",
+      "active": true
+    },
+    {
+      "source_file": "package-0011.png",
+      "codepoint": "U+100059",
+      "image_fingerprint": "fnv1a64:0c349cc614d0e259",
+      "active": true
+    },
+    {
+      "source_file": "package-0012.png",
+      "codepoint": "U+10005A",
+      "image_fingerprint": "fnv1a64:af301168a2f822e7",
+      "active": true
+    },
+    {
+      "source_file": "package-0013.png",
+      "codepoint": "U+10005B",
+      "image_fingerprint": "fnv1a64:0f9cfac25bfa9a86",
+      "active": true
+    },
+    {
+      "source_file": "package-0014.png",
+      "codepoint": "U+10005C",
+      "image_fingerprint": "fnv1a64:bf477d7ccef386e9",
+      "active": true
+    },
+    {
+      "source_file": "package-0015.png",
+      "codepoint": "U+10005D",
+      "image_fingerprint": "fnv1a64:57351edfdf3a3a8c",
+      "active": true
+    },
+    {
+      "source_file": "package-0016.png",
+      "codepoint": "U+10005E",
+      "image_fingerprint": "fnv1a64:393eb6c16c697dae",
+      "active": true
+    },
+    {
+      "source_file": "package-0017.png",
+      "codepoint": "U+10005F",
+      "image_fingerprint": "fnv1a64:4567b7c313f00233",
+      "active": true
+    },
+    {
+      "source_file": "package-0018.png",
+      "codepoint": "U+100060",
+      "image_fingerprint": "fnv1a64:19ed44131d7b3667",
+      "active": true
+    },
+    {
+      "source_file": "package-0019.png",
+      "codepoint": "U+100061",
+      "image_fingerprint": "fnv1a64:3739c13a9d241c09",
+      "active": true
+    },
+    {
+      "source_file": "package-0020.png",
+      "codepoint": "U+100062",
+      "image_fingerprint": "fnv1a64:aef8e47b5278674e",
+      "active": true
+    },
+    {
+      "source_file": "package-0021.png",
+      "codepoint": "U+100063",
+      "image_fingerprint": "fnv1a64:bcca5fb7424edae8",
+      "active": true
+    },
+    {
+      "source_file": "package-0022.png",
+      "codepoint": "U+100064",
+      "image_fingerprint": "fnv1a64:597dc23d83292e88",
+      "active": true
+    },
+    {
+      "source_file": "package-0023.png",
+      "codepoint": "U+100065",
+      "image_fingerprint": "fnv1a64:5019e41277b145b6",
+      "active": true
+    },
+    {
+      "source_file": "package-0024.png",
+      "codepoint": "U+100066",
+      "image_fingerprint": "fnv1a64:022127035d5124b5",
+      "active": true
+    },
+    {
+      "source_file": "package-0025.png",
+      "codepoint": "U+100067",
+      "image_fingerprint": "fnv1a64:09dd1cc5293b4d55",
+      "active": true
+    },
+    {
+      "source_file": "package-0026.png",
+      "codepoint": "U+100068",
+      "image_fingerprint": "fnv1a64:3360fd31a9f15335",
+      "active": true
+    },
+    {
+      "source_file": "package-0027.png",
+      "codepoint": "U+100069",
+      "image_fingerprint": "fnv1a64:b5d1b27262d4a5f5",
+      "active": true
+    },
+    {
+      "source_file": "package-0028.png",
+      "codepoint": "U+10006A",
+      "image_fingerprint": "fnv1a64:010fbe623efe5251",
+      "active": true
+    },
+    {
+      "source_file": "package-0029.png",
+      "codepoint": "U+10006B",
+      "image_fingerprint": "fnv1a64:ef7d1e46ecc710af",
+      "active": true
+    },
+    {
+      "source_file": "package-0030.png",
+      "codepoint": "U+10006C",
+      "image_fingerprint": "fnv1a64:b7280878fa37fb96",
+      "active": true
+    },
+    {
+      "source_file": "package-0031.png",
+      "codepoint": "U+10006D",
+      "image_fingerprint": "fnv1a64:d944ddaa064fd9a2",
+      "active": true
+    },
+    {
+      "source_file": "package-0032.png",
+      "codepoint": "U+10006E",
+      "image_fingerprint": "fnv1a64:2434f4f0688017f1",
+      "active": true
+    },
+    {
+      "source_file": "package-0033.png",
+      "codepoint": "U+10006F",
+      "image_fingerprint": "fnv1a64:28231748a81a7749",
+      "active": true
+    },
+    {
+      "source_file": "package-0034.png",
+      "codepoint": "U+100070",
+      "image_fingerprint": "fnv1a64:37e800a217479841",
+      "active": true
+    },
+    {
+      "source_file": "package-0035.png",
+      "codepoint": "U+100071",
+      "image_fingerprint": "fnv1a64:9ae729a132ddbefd",
+      "active": true
+    },
+    {
+      "source_file": "package-0036.png",
+      "codepoint": "U+100072",
+      "image_fingerprint": "fnv1a64:4529c60d1b6d327a",
+      "active": true
+    },
+    {
+      "source_file": "package-0037.png",
+      "codepoint": "U+100073",
+      "image_fingerprint": "fnv1a64:0f33e9b7372b63d4",
+      "active": true
+    },
+    {
+      "source_file": "package-0038.png",
+      "codepoint": "U+100074",
+      "image_fingerprint": "fnv1a64:6e4922d6a3218d01",
+      "active": true
+    },
+    {
+      "source_file": "package-0039.png",
+      "codepoint": "U+100075",
+      "image_fingerprint": "fnv1a64:e776b45d55b39441",
+      "active": true
+    },
+    {
+      "source_file": "package-0040.png",
+      "codepoint": "U+100076",
+      "image_fingerprint": "fnv1a64:4f366ec35fdcbf85",
+      "active": true
+    },
+    {
+      "source_file": "package-0041.png",
+      "codepoint": "U+100077",
+      "image_fingerprint": "fnv1a64:cb8e496aa9a189f5",
+      "active": true
+    },
+    {
+      "source_file": "package-0042.png",
+      "codepoint": "U+100078",
+      "image_fingerprint": "fnv1a64:efd3f84b261f329f",
+      "active": true
+    },
+    {
+      "source_file": "package-0043.png",
+      "codepoint": "U+100079",
+      "image_fingerprint": "fnv1a64:a6a577032b22202f",
+      "active": true
+    },
+    {
+      "source_file": "package-0044.png",
+      "codepoint": "U+10007A",
+      "image_fingerprint": "fnv1a64:43e9b096640bb1b0",
+      "active": true
+    },
+    {
+      "source_file": "package-0045.png",
+      "codepoint": "U+10007B",
+      "image_fingerprint": "fnv1a64:a2cfc142fed32a48",
+      "active": true
+    },
+    {
+      "source_file": "package-0046.png",
+      "codepoint": "U+10007C",
+      "image_fingerprint": "fnv1a64:d973d540d3be8626",
+      "active": true
+    },
+    {
+      "source_file": "package-0047.png",
+      "codepoint": "U+10007D",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0048.png",
+      "codepoint": "U+10007E",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0049.png",
+      "codepoint": "U+10007F",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0050.png",
+      "codepoint": "U+100080",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0051.png",
+      "codepoint": "U+100081",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0052.png",
+      "codepoint": "U+100082",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0053.png",
+      "codepoint": "U+100083",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0054.png",
+      "codepoint": "U+100084",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0055.png",
+      "codepoint": "U+100085",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0056.png",
+      "codepoint": "U+100086",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0057.png",
+      "codepoint": "U+100087",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0058.png",
+      "codepoint": "U+100088",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0059.png",
+      "codepoint": "U+100089",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0060.png",
+      "codepoint": "U+10008A",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0061.png",
+      "codepoint": "U+10008B",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0062.png",
+      "codepoint": "U+10008C",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0063.png",
+      "codepoint": "U+10008D",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0064.png",
+      "codepoint": "U+10008E",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0065.png",
+      "codepoint": "U+10008F",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0066.png",
+      "codepoint": "U+100090",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0067.png",
+      "codepoint": "U+100091",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0068.png",
+      "codepoint": "U+100092",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0069.png",
+      "codepoint": "U+100093",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0070.png",
+      "codepoint": "U+100094",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0071.png",
+      "codepoint": "U+100095",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package-0072.png",
+      "codepoint": "U+100096",
+      "image_fingerprint": "fnv1a64:eee4c4d85119545d",
+      "active": true
+    },
+    {
+      "source_file": "package.gif",
+      "codepoint": "U+100097",
+      "image_fingerprint": "fnv1a64:195e4bbf9d83ea5d",
+      "active": true
+    },
+    {
+      "source_file": "power-0001.png",
+      "codepoint": "U+1003EC",
+      "image_fingerprint": "fnv1a64:f75239d8ffba9975",
+      "active": true
+    },
+    {
+      "source_file": "power-0002.png",
+      "codepoint": "U+1003ED",
+      "image_fingerprint": "fnv1a64:1ae0dbdb47067161",
+      "active": true
+    },
+    {
+      "source_file": "power-0003.png",
+      "codepoint": "U+1003EE",
+      "image_fingerprint": "fnv1a64:a94faa70fe457b29",
+      "active": true
+    },
+    {
+      "source_file": "power-0004.png",
+      "codepoint": "U+1003EF",
+      "image_fingerprint": "fnv1a64:3c08deef24133413",
+      "active": true
+    },
+    {
+      "source_file": "power-0005.png",
+      "codepoint": "U+1003F0",
+      "image_fingerprint": "fnv1a64:42b93a384920a6d3",
+      "active": true
+    },
+    {
+      "source_file": "power-0006.png",
+      "codepoint": "U+1003F1",
+      "image_fingerprint": "fnv1a64:2062cc444888b917",
+      "active": true
+    },
+    {
+      "source_file": "power-0007.png",
+      "codepoint": "U+1003F2",
+      "image_fingerprint": "fnv1a64:ee30b1a191b1553d",
+      "active": true
+    },
+    {
+      "source_file": "power-0008.png",
+      "codepoint": "U+1003F3",
+      "image_fingerprint": "fnv1a64:67314f435027e075",
+      "active": true
+    },
+    {
+      "source_file": "power-0009.png",
+      "codepoint": "U+1003F4",
+      "image_fingerprint": "fnv1a64:04293bb3ec165c9a",
+      "active": true
+    },
+    {
+      "source_file": "power-0010.png",
+      "codepoint": "U+1003F5",
+      "image_fingerprint": "fnv1a64:3c9cd069d7acb1c7",
+      "active": true
+    },
+    {
+      "source_file": "power-0011.png",
+      "codepoint": "U+1003F6",
+      "image_fingerprint": "fnv1a64:cb519f86d954b33a",
+      "active": true
+    },
+    {
+      "source_file": "power-0012.png",
+      "codepoint": "U+1003F7",
+      "image_fingerprint": "fnv1a64:8aea07bc41430323",
+      "active": true
+    },
+    {
+      "source_file": "power-0013.png",
+      "codepoint": "U+1003F8",
+      "image_fingerprint": "fnv1a64:d92d0323a98014c2",
+      "active": true
+    },
+    {
+      "source_file": "power-0014.png",
+      "codepoint": "U+1003F9",
+      "image_fingerprint": "fnv1a64:3e350ab413479f86",
+      "active": true
+    },
+    {
+      "source_file": "power-0015.png",
+      "codepoint": "U+1003FA",
+      "image_fingerprint": "fnv1a64:03a02e41329097a6",
+      "active": true
+    },
+    {
+      "source_file": "power-0016.png",
+      "codepoint": "U+1003FB",
+      "image_fingerprint": "fnv1a64:bd9aa1b9ae8410b6",
+      "active": true
+    },
+    {
+      "source_file": "power-0017.png",
+      "codepoint": "U+1003FC",
+      "image_fingerprint": "fnv1a64:5d18e8dc74b906d3",
+      "active": true
+    },
+    {
+      "source_file": "power-0018.png",
+      "codepoint": "U+1003FD",
+      "image_fingerprint": "fnv1a64:c7fe00f4e17287a3",
+      "active": true
+    },
+    {
+      "source_file": "power-0019.png",
+      "codepoint": "U+1003FE",
+      "image_fingerprint": "fnv1a64:c7fe00f4e17287a3",
+      "active": true
+    },
+    {
+      "source_file": "power-0020.png",
+      "codepoint": "U+1003FF",
+      "image_fingerprint": "fnv1a64:c7fe00f4e17287a3",
+      "active": true
+    },
+    {
+      "source_file": "power-0021.png",
+      "codepoint": "U+100400",
+      "image_fingerprint": "fnv1a64:c7fe00f4e17287a3",
+      "active": true
+    },
+    {
+      "source_file": "power-0022.png",
+      "codepoint": "U+100401",
+      "image_fingerprint": "fnv1a64:c7fe00f4e17287a3",
+      "active": true
+    },
+    {
+      "source_file": "power-0023.png",
+      "codepoint": "U+100402",
+      "image_fingerprint": "fnv1a64:00a332f6ea2f2c1a",
+      "active": true
+    },
+    {
+      "source_file": "power-0024.png",
+      "codepoint": "U+100403",
+      "image_fingerprint": "fnv1a64:373148dacd516fa3",
+      "active": true
+    },
+    {
+      "source_file": "power-0025.png",
+      "codepoint": "U+100404",
+      "image_fingerprint": "fnv1a64:37e4e6d367f29c4c",
+      "active": true
+    },
+    {
+      "source_file": "power-0026.png",
+      "codepoint": "U+100405",
+      "image_fingerprint": "fnv1a64:16de1a6f9c2aa05e",
+      "active": true
+    },
+    {
+      "source_file": "power-0027.png",
+      "codepoint": "U+100406",
+      "image_fingerprint": "fnv1a64:2ab2d7258956f3bf",
+      "active": true
+    },
+    {
+      "source_file": "power-0028.png",
+      "codepoint": "U+100407",
+      "image_fingerprint": "fnv1a64:409283fe2f0981f3",
+      "active": true
+    },
+    {
+      "source_file": "power-0029.png",
+      "codepoint": "U+100408",
+      "image_fingerprint": "fnv1a64:79af1360d728e50d",
+      "active": true
+    },
+    {
+      "source_file": "power-0030.png",
+      "codepoint": "U+100409",
+      "image_fingerprint": "fnv1a64:48cba358597cd2f0",
+      "active": true
+    },
+    {
+      "source_file": "power-0031.png",
+      "codepoint": "U+10040A",
+      "image_fingerprint": "fnv1a64:b5c46a33909f5b15",
+      "active": true
+    },
+    {
+      "source_file": "power-0032.png",
+      "codepoint": "U+10040B",
+      "image_fingerprint": "fnv1a64:688b1e24dea4941c",
+      "active": true
+    },
+    {
+      "source_file": "power-0033.png",
+      "codepoint": "U+10040C",
+      "image_fingerprint": "fnv1a64:6ff492799775b2ae",
+      "active": true
+    },
+    {
+      "source_file": "power-0034.png",
+      "codepoint": "U+10040D",
+      "image_fingerprint": "fnv1a64:e8d7c2f63080f326",
+      "active": true
+    },
+    {
+      "source_file": "power-0035.png",
+      "codepoint": "U+10040E",
+      "image_fingerprint": "fnv1a64:2a85bae80e9569cd",
+      "active": true
+    },
+    {
+      "source_file": "power-0036.png",
+      "codepoint": "U+10040F",
+      "image_fingerprint": "fnv1a64:deade0fb0190adea",
+      "active": true
+    },
+    {
+      "source_file": "power-0037.png",
+      "codepoint": "U+100410",
+      "image_fingerprint": "fnv1a64:0f7fe909f0ee7602",
+      "active": true
+    },
+    {
+      "source_file": "power-0038.png",
+      "codepoint": "U+100411",
+      "image_fingerprint": "fnv1a64:867444ed8b10c9ad",
+      "active": true
+    },
+    {
+      "source_file": "power-0039.png",
+      "codepoint": "U+100412",
+      "image_fingerprint": "fnv1a64:95e0345f34fd5002",
+      "active": true
+    },
+    {
+      "source_file": "power-0040.png",
+      "codepoint": "U+100413",
+      "image_fingerprint": "fnv1a64:fe3f24da1081e0fc",
+      "active": true
+    },
+    {
+      "source_file": "power-0041.png",
+      "codepoint": "U+100414",
+      "image_fingerprint": "fnv1a64:d97f8d5b227a8839",
+      "active": true
+    },
+    {
+      "source_file": "power-0042.png",
+      "codepoint": "U+100415",
+      "image_fingerprint": "fnv1a64:2be7ebcfedda2f9e",
+      "active": true
+    },
+    {
+      "source_file": "power-0043.png",
+      "codepoint": "U+100416",
+      "image_fingerprint": "fnv1a64:880071022cf8df2c",
+      "active": true
+    },
+    {
+      "source_file": "power-0044.png",
+      "codepoint": "U+100417",
+      "image_fingerprint": "fnv1a64:d4889219f3d0ed0a",
+      "active": true
+    },
+    {
+      "source_file": "power-0045.png",
+      "codepoint": "U+100418",
+      "image_fingerprint": "fnv1a64:842349c58c6252a1",
+      "active": true
+    },
+    {
+      "source_file": "power-0046.png",
+      "codepoint": "U+100419",
+      "image_fingerprint": "fnv1a64:43325a5db32e936e",
+      "active": true
+    },
+    {
+      "source_file": "power-0047.png",
+      "codepoint": "U+10041A",
+      "image_fingerprint": "fnv1a64:255d4f06efcca2ff",
+      "active": true
+    },
+    {
+      "source_file": "power-0048.png",
+      "codepoint": "U+10041B",
+      "image_fingerprint": "fnv1a64:ef8096693547590f",
+      "active": true
+    },
+    {
+      "source_file": "power-0049.png",
+      "codepoint": "U+10041C",
+      "image_fingerprint": "fnv1a64:e92d16efd0af2673",
+      "active": true
+    },
+    {
+      "source_file": "power-0050.png",
+      "codepoint": "U+10041D",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0051.png",
+      "codepoint": "U+10041E",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0052.png",
+      "codepoint": "U+10041F",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0053.png",
+      "codepoint": "U+100420",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0054.png",
+      "codepoint": "U+100421",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0055.png",
+      "codepoint": "U+100422",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0056.png",
+      "codepoint": "U+100423",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0057.png",
+      "codepoint": "U+100424",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0058.png",
+      "codepoint": "U+100425",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0059.png",
+      "codepoint": "U+100426",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0060.png",
+      "codepoint": "U+100427",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0061.png",
+      "codepoint": "U+100428",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0062.png",
+      "codepoint": "U+100429",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0063.png",
+      "codepoint": "U+10042A",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0064.png",
+      "codepoint": "U+10042B",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0065.png",
+      "codepoint": "U+10042C",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0066.png",
+      "codepoint": "U+10042D",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0067.png",
+      "codepoint": "U+10042E",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0068.png",
+      "codepoint": "U+10042F",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0069.png",
+      "codepoint": "U+100430",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0070.png",
+      "codepoint": "U+100431",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0071.png",
+      "codepoint": "U+100432",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0072.png",
+      "codepoint": "U+100433",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "power-0073.png",
+      "codepoint": "U+100434",
+      "image_fingerprint": "fnv1a64:92fbe96e23e98c4e",
+      "active": true
+    },
+    {
+      "source_file": "volume-0001.png",
+      "codepoint": "U+100308",
+      "image_fingerprint": "fnv1a64:7e284a289aed64a2",
+      "active": true
+    },
+    {
+      "source_file": "volume-0002.png",
+      "codepoint": "U+100309",
+      "image_fingerprint": "fnv1a64:7e284a289aed64a2",
+      "active": true
+    },
+    {
+      "source_file": "volume-0003.png",
+      "codepoint": "U+10030A",
+      "image_fingerprint": "fnv1a64:7e284a289aed64a2",
+      "active": true
+    },
+    {
+      "source_file": "volume-0004.png",
+      "codepoint": "U+10030B",
+      "image_fingerprint": "fnv1a64:7e284a289aed64a2",
+      "active": true
+    },
+    {
+      "source_file": "volume-0005.png",
+      "codepoint": "U+10030C",
+      "image_fingerprint": "fnv1a64:5ae75ba4681980a2",
+      "active": true
+    },
+    {
+      "source_file": "volume-0006.png",
+      "codepoint": "U+10030D",
+      "image_fingerprint": "fnv1a64:155de8bf04b97549",
+      "active": true
+    },
+    {
+      "source_file": "volume-0007.png",
+      "codepoint": "U+10030E",
+      "image_fingerprint": "fnv1a64:0b53ebde52beaa42",
+      "active": true
+    },
+    {
+      "source_file": "volume-0008.png",
+      "codepoint": "U+10030F",
+      "image_fingerprint": "fnv1a64:bd317b26b47e5c6e",
+      "active": true
+    },
+    {
+      "source_file": "volume-0009.png",
+      "codepoint": "U+100310",
+      "image_fingerprint": "fnv1a64:88eade7b4ca5a67e",
+      "active": true
+    },
+    {
+      "source_file": "volume-0010.png",
+      "codepoint": "U+100311",
+      "image_fingerprint": "fnv1a64:88eade7b4ca5a67e",
+      "active": true
+    },
+    {
+      "source_file": "volume-0011.png",
+      "codepoint": "U+100312",
+      "image_fingerprint": "fnv1a64:f7a88ae17be8d297",
+      "active": true
+    },
+    {
+      "source_file": "volume-0012.png",
+      "codepoint": "U+100313",
+      "image_fingerprint": "fnv1a64:126eec0f1272dacc",
+      "active": true
+    },
+    {
+      "source_file": "volume-0013.png",
+      "codepoint": "U+100314",
+      "image_fingerprint": "fnv1a64:10feae5c3b9e3b41",
+      "active": true
+    },
+    {
+      "source_file": "volume-0014.png",
+      "codepoint": "U+100315",
+      "image_fingerprint": "fnv1a64:7d7ca0f597c0ea7c",
+      "active": true
+    },
+    {
+      "source_file": "volume-0015.png",
+      "codepoint": "U+100316",
+      "image_fingerprint": "fnv1a64:4e690e444620a570",
+      "active": true
+    },
+    {
+      "source_file": "volume-0016.png",
+      "codepoint": "U+100317",
+      "image_fingerprint": "fnv1a64:4e690e444620a570",
+      "active": true
+    },
+    {
+      "source_file": "volume-0017.png",
+      "codepoint": "U+100318",
+      "image_fingerprint": "fnv1a64:9d4f10c928948d3b",
+      "active": true
+    },
+    {
+      "source_file": "volume-0018.png",
+      "codepoint": "U+100319",
+      "image_fingerprint": "fnv1a64:377a3f8eff5bbe85",
+      "active": true
+    },
+    {
+      "source_file": "volume-0019.png",
+      "codepoint": "U+10031A",
+      "image_fingerprint": "fnv1a64:b11024fbea3d6ecc",
+      "active": true
+    },
+    {
+      "source_file": "volume-0020.png",
+      "codepoint": "U+10031B",
+      "image_fingerprint": "fnv1a64:d04e031577635d0e",
+      "active": true
+    },
+    {
+      "source_file": "volume-0021.png",
+      "codepoint": "U+10031C",
+      "image_fingerprint": "fnv1a64:a08b4adba8b2b60b",
+      "active": true
+    },
+    {
+      "source_file": "volume-0022.png",
+      "codepoint": "U+10031D",
+      "image_fingerprint": "fnv1a64:a08b4adba8b2b60b",
+      "active": true
+    },
+    {
+      "source_file": "volume-0023.png",
+      "codepoint": "U+10031E",
+      "image_fingerprint": "fnv1a64:a08b4adba8b2b60b",
+      "active": true
+    },
+    {
+      "source_file": "volume-0024.png",
+      "codepoint": "U+10031F",
+      "image_fingerprint": "fnv1a64:a08b4adba8b2b60b",
+      "active": true
+    },
+    {
+      "source_file": "volume-0025.png",
+      "codepoint": "U+100320",
+      "image_fingerprint": "fnv1a64:a08b4adba8b2b60b",
+      "active": true
+    },
+    {
+      "source_file": "volume-0026.png",
+      "codepoint": "U+100321",
+      "image_fingerprint": "fnv1a64:a08b4adba8b2b60b",
+      "active": true
+    },
+    {
+      "source_file": "volume-0027.png",
+      "codepoint": "U+100322",
+      "image_fingerprint": "fnv1a64:a08b4adba8b2b60b",
+      "active": true
+    },
+    {
+      "source_file": "volume-0028.png",
+      "codepoint": "U+100323",
+      "image_fingerprint": "fnv1a64:a08b4adba8b2b60b",
+      "active": true
+    },
+    {
+      "source_file": "volume-0029.png",
+      "codepoint": "U+100324",
+      "image_fingerprint": "fnv1a64:a08b4adba8b2b60b",
+      "active": true
+    },
+    {
+      "source_file": "volume-0030.png",
+      "codepoint": "U+100325",
+      "image_fingerprint": "fnv1a64:b1f42d2786aa9d37",
+      "active": true
+    },
+    {
+      "source_file": "volume-0031.png",
+      "codepoint": "U+100326",
+      "image_fingerprint": "fnv1a64:ff5ed4f0fc817b28",
+      "active": true
+    },
+    {
+      "source_file": "volume-0032.png",
+      "codepoint": "U+100327",
+      "image_fingerprint": "fnv1a64:3cbb2dc491091f66",
+      "active": true
+    },
+    {
+      "source_file": "volume-0033.png",
+      "codepoint": "U+100328",
+      "image_fingerprint": "fnv1a64:5ec0f7a41eca1cfc",
+      "active": true
+    },
+    {
+      "source_file": "volume-0034.png",
+      "codepoint": "U+100329",
+      "image_fingerprint": "fnv1a64:5ec0f7a41eca1cfc",
+      "active": true
+    },
+    {
+      "source_file": "volume-0035.png",
+      "codepoint": "U+10032A",
+      "image_fingerprint": "fnv1a64:61da31725d3e8b68",
+      "active": true
+    },
+    {
+      "source_file": "volume-0036.png",
+      "codepoint": "U+10032B",
+      "image_fingerprint": "fnv1a64:66ac45545de39a86",
+      "active": true
+    },
+    {
+      "source_file": "volume-0037.png",
+      "codepoint": "U+10032C",
+      "image_fingerprint": "fnv1a64:49c06d1e5c9f78ac",
+      "active": true
+    },
+    {
+      "source_file": "volume-0038.png",
+      "codepoint": "U+10032D",
+      "image_fingerprint": "fnv1a64:d637aafc40687420",
+      "active": true
+    },
+    {
+      "source_file": "volume-0039.png",
+      "codepoint": "U+10032E",
+      "image_fingerprint": "fnv1a64:e2f6b007a3c69d4f",
+      "active": true
+    },
+    {
+      "source_file": "volume-0040.png",
+      "codepoint": "U+10032F",
+      "image_fingerprint": "fnv1a64:e2f6b007a3c69d4f",
+      "active": true
+    },
+    {
+      "source_file": "volume-0041.png",
+      "codepoint": "U+100330",
+      "image_fingerprint": "fnv1a64:4f5a1e68db846334",
+      "active": true
+    },
+    {
+      "source_file": "volume-0042.png",
+      "codepoint": "U+100331",
+      "image_fingerprint": "fnv1a64:c1929eece65a2c3d",
+      "active": true
+    },
+    {
+      "source_file": "volume-0043.png",
+      "codepoint": "U+100332",
+      "image_fingerprint": "fnv1a64:8eb9b0c3aa10d405",
+      "active": true
+    },
+    {
+      "source_file": "volume-0044.png",
+      "codepoint": "U+100333",
+      "image_fingerprint": "fnv1a64:f6d1161801702d59",
+      "active": true
+    },
+    {
+      "source_file": "volume-0045.png",
+      "codepoint": "U+100334",
+      "image_fingerprint": "fnv1a64:80ca4ec23b308221",
+      "active": true
+    },
+    {
+      "source_file": "volume-0046.png",
+      "codepoint": "U+100335",
+      "image_fingerprint": "fnv1a64:80ca4ec23b308221",
+      "active": true
+    },
+    {
+      "source_file": "volume-0047.png",
+      "codepoint": "U+100336",
+      "image_fingerprint": "fnv1a64:459818e74c5fb25c",
+      "active": true
+    },
+    {
+      "source_file": "volume-0048.png",
+      "codepoint": "U+100337",
+      "image_fingerprint": "fnv1a64:f1f36768fb49d116",
+      "active": true
+    },
+    {
+      "source_file": "volume-0049.png",
+      "codepoint": "U+100338",
+      "image_fingerprint": "fnv1a64:7236d6caf59e53e9",
+      "active": true
+    },
+    {
+      "source_file": "volume-0050.png",
+      "codepoint": "U+100339",
+      "image_fingerprint": "fnv1a64:cef36e4ac29ea432",
+      "active": true
+    },
+    {
+      "source_file": "volume-0051.png",
+      "codepoint": "U+10033A",
+      "image_fingerprint": "fnv1a64:cf5bc128571e697f",
+      "active": true
+    },
+    {
+      "source_file": "volume-0052.png",
+      "codepoint": "U+10033B",
+      "image_fingerprint": "fnv1a64:cf5bc128571e697f",
+      "active": true
+    },
+    {
+      "source_file": "volume-0053.png",
+      "codepoint": "U+10033C",
+      "image_fingerprint": "fnv1a64:94f559010f519a93",
+      "active": true
+    },
+    {
+      "source_file": "volume-0054.png",
+      "codepoint": "U+10033D",
+      "image_fingerprint": "fnv1a64:7a5b76463bd0e6a1",
+      "active": true
+    },
+    {
+      "source_file": "volume-0055.png",
+      "codepoint": "U+10033E",
+      "image_fingerprint": "fnv1a64:746a0a793df18ea9",
+      "active": true
+    },
+    {
+      "source_file": "volume-0056.png",
+      "codepoint": "U+10033F",
+      "image_fingerprint": "fnv1a64:746a0a793df18ea9",
+      "active": true
+    },
+    {
+      "source_file": "volume-0057.png",
+      "codepoint": "U+100340",
+      "image_fingerprint": "fnv1a64:746a0a793df18ea9",
+      "active": true
+    },
+    {
+      "source_file": "volume-0058.png",
+      "codepoint": "U+100341",
+      "image_fingerprint": "fnv1a64:746a0a793df18ea9",
+      "active": true
+    },
+    {
+      "source_file": "volume-0059.png",
+      "codepoint": "U+100342",
+      "image_fingerprint": "fnv1a64:746a0a793df18ea9",
+      "active": true
+    },
+    {
+      "source_file": "volume-0060.png",
+      "codepoint": "U+100343",
+      "image_fingerprint": "fnv1a64:746a0a793df18ea9",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0001.png",
+      "codepoint": "U+100293",
+      "image_fingerprint": "fnv1a64:1f0fc82e3705063d",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0002.png",
+      "codepoint": "U+100294",
+      "image_fingerprint": "fnv1a64:1f0fc82e3705063d",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0003.png",
+      "codepoint": "U+100295",
+      "image_fingerprint": "fnv1a64:9e44dd25063ad1d1",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0004.png",
+      "codepoint": "U+100296",
+      "image_fingerprint": "fnv1a64:9e44dd25063ad1d1",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0005.png",
+      "codepoint": "U+100297",
+      "image_fingerprint": "fnv1a64:ef30e32bbbd52541",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0006.png",
+      "codepoint": "U+100298",
+      "image_fingerprint": "fnv1a64:9ed6013dce9b57fa",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0007.png",
+      "codepoint": "U+100299",
+      "image_fingerprint": "fnv1a64:ca65a37c2c2fdf9f",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0008.png",
+      "codepoint": "U+10029A",
+      "image_fingerprint": "fnv1a64:dbe903f694c9092a",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0009.png",
+      "codepoint": "U+10029B",
+      "image_fingerprint": "fnv1a64:f4124bdd6fc9021f",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0010.png",
+      "codepoint": "U+10029C",
+      "image_fingerprint": "fnv1a64:f4124bdd6fc9021f",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0011.png",
+      "codepoint": "U+10029D",
+      "image_fingerprint": "fnv1a64:b5d010c952e7d23b",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0012.png",
+      "codepoint": "U+10029E",
+      "image_fingerprint": "fnv1a64:0c46d79918b2d167",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0013.png",
+      "codepoint": "U+10029F",
+      "image_fingerprint": "fnv1a64:2ebda0c3d5f233b6",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0014.png",
+      "codepoint": "U+1002A0",
+      "image_fingerprint": "fnv1a64:26b9a96dd0d85dd0",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0015.png",
+      "codepoint": "U+1002A1",
+      "image_fingerprint": "fnv1a64:33af94c67e970e9e",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0016.png",
+      "codepoint": "U+1002A2",
+      "image_fingerprint": "fnv1a64:33af94c67e970e9e",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0017.png",
+      "codepoint": "U+1002A3",
+      "image_fingerprint": "fnv1a64:7e865b0eaa91b262",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0018.png",
+      "codepoint": "U+1002A4",
+      "image_fingerprint": "fnv1a64:f7033a786031b542",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0019.png",
+      "codepoint": "U+1002A5",
+      "image_fingerprint": "fnv1a64:23b63c9aaad55637",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0020.png",
+      "codepoint": "U+1002A6",
+      "image_fingerprint": "fnv1a64:b9e426a7c2409880",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0021.png",
+      "codepoint": "U+1002A7",
+      "image_fingerprint": "fnv1a64:2797b7b4f18746dc",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0022.png",
+      "codepoint": "U+1002A8",
+      "image_fingerprint": "fnv1a64:2797b7b4f18746dc",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0023.png",
+      "codepoint": "U+1002A9",
+      "image_fingerprint": "fnv1a64:3c615a34a5d957e3",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0024.png",
+      "codepoint": "U+1002AA",
+      "image_fingerprint": "fnv1a64:da930234b74c1bd8",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0025.png",
+      "codepoint": "U+1002AB",
+      "image_fingerprint": "fnv1a64:ff66b501da5c8a2b",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0026.png",
+      "codepoint": "U+1002AC",
+      "image_fingerprint": "fnv1a64:c01d7baf752b0d86",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0027.png",
+      "codepoint": "U+1002AD",
+      "image_fingerprint": "fnv1a64:79dfe7ba83a624ec",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0028.png",
+      "codepoint": "U+1002AE",
+      "image_fingerprint": "fnv1a64:79dfe7ba83a624ec",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0029.png",
+      "codepoint": "U+1002AF",
+      "image_fingerprint": "fnv1a64:60aa92bf71ebbcb7",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0030.png",
+      "codepoint": "U+1002B0",
+      "image_fingerprint": "fnv1a64:7a08a85de471e69c",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0031.png",
+      "codepoint": "U+1002B1",
+      "image_fingerprint": "fnv1a64:9c53fbdb13732fe9",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0032.png",
+      "codepoint": "U+1002B2",
+      "image_fingerprint": "fnv1a64:dc2e68dbfb0b87dd",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0033.png",
+      "codepoint": "U+1002B3",
+      "image_fingerprint": "fnv1a64:f9f7e0c3e02a0683",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0034.png",
+      "codepoint": "U+1002B4",
+      "image_fingerprint": "fnv1a64:f9f7e0c3e02a0683",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0035.png",
+      "codepoint": "U+1002B5",
+      "image_fingerprint": "fnv1a64:87c642fd45fb4eda",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0036.png",
+      "codepoint": "U+1002B6",
+      "image_fingerprint": "fnv1a64:b3fe1989e0f827ab",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0037.png",
+      "codepoint": "U+1002B7",
+      "image_fingerprint": "fnv1a64:599a494d9eb40122",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0038.png",
+      "codepoint": "U+1002B8",
+      "image_fingerprint": "fnv1a64:119ec50826da415a",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0039.png",
+      "codepoint": "U+1002B9",
+      "image_fingerprint": "fnv1a64:0cb9f59ae1e1f151",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0040.png",
+      "codepoint": "U+1002BA",
+      "image_fingerprint": "fnv1a64:0cb9f59ae1e1f151",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0041.png",
+      "codepoint": "U+1002BB",
+      "image_fingerprint": "fnv1a64:0cb9f59ae1e1f151",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0042.png",
+      "codepoint": "U+1002BC",
+      "image_fingerprint": "fnv1a64:8a4c2a44b43c6c20",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0043.png",
+      "codepoint": "U+1002BD",
+      "image_fingerprint": "fnv1a64:8a4c2a44b43c6c20",
+      "active": true
+    },
+    {
+      "source_file": "wifi-0044.png",
+      "codepoint": "U+1002BE",
+      "image_fingerprint": "fnv1a64:8a4c2a44b43c6c20",
+      "active": true
+    }
+  ]
+}

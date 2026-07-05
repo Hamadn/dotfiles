@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+BR_HEX=(
+1003B0 1003B1 1003B2 1003B3 1003B4 1003B5 1003B6 1003B7
+1003B8 1003B9 1003BA 1003BB 1003BC 1003BD 1003BE 1003BF
+1003C0 1003C1 1003C2 1003C3 1003C4 1003C5 1003C6 1003C7
+1003C8 1003C9 1003CA 1003CB 1003CC 1003CD 1003CE 1003CF
+1003D0 1003D1 1003D2 1003D3 1003D4 1003D5 1003D6 1003D7
+1003D8 1003D9 1003DA 1003DB 1003DC 1003DD 1003DE 1003DF
+1003E0 1003E1 1003E2 1003E3 1003E4 1003E5 1003E6 1003E7
+1003E8 1003E9 1003EA 1003EB
+)
+I=0
+
+while true; do
+  ACT=$(cat /sys/class/backlight/nvidia_0/actual_brightness 2>/dev/null)
+  MAX=$(cat /sys/class/backlight/nvidia_0/max_brightness 2>/dev/null)
+  if [[ -n "$ACT" && -n "$MAX" && "$MAX" -gt 0 ]]; then
+    PCT=$(( ACT * 100 / MAX ))
+    printf "\U${BR_HEX[$I]} ${PCT}%%\n"
+  else
+    printf "\U${BR_HEX[$I]} ?\n"
+  fi
+  ((I = (I + 1) % ${#BR_HEX[@]}))
+  sleep 0.033
+done
