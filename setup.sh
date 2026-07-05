@@ -24,7 +24,7 @@ cp fonts/package.ttf "$FONT_DIR/"
 fc-cache -fv
 
 echo "Stowing packages..."
-for pkg in polybar fastfetch i3 input-remapper mpv ncmpcpp nvim qutebrowser tmux wezterm zsh; do
+for pkg in polybar fastfetch i3 mpv ncmpcpp nvim qutebrowser tmux wezterm zsh; do
   if [ -d "$pkg" ]; then
     stow "$pkg"
     echo "  stowed $pkg"
