@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+echo "Installing packages..."
+sudo pacman -S --needed - < pkglist-repo.txt
+yay -S --needed - < pkglist-aur.txt
+
 echo "Installing fonts..."
 FONT_DIR="$HOME/.local/share/fonts/petiglyph"
 mkdir -p "$FONT_DIR"
