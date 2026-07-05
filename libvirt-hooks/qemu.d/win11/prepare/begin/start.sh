@@ -3,9 +3,6 @@ set -x
 
 source "/etc/libvirt/hooks/kvm.conf"
 
-pkill -u hamad -x niri
-sleep 3
-
 systemctl stop lightdm.service
 
 
