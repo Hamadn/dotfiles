@@ -15,4 +15,14 @@ for pkg in polybar fastfetch i3 input-remapper mpv ncmpcpp nvim qutebrowser tmux
   fi
 done
 
+echo "Installing libvirt hooks..."
+sudo mkdir -p /etc/libvirt/hooks/qemu.d/win11/{prepare/begin,release/end}
+sudo cp libvirt-hooks/qemu /etc/libvirt/hooks/
+sudo cp libvirt-hooks/kvm.conf /etc/libvirt/hooks/
+sudo cp libvirt-hooks/qemu.d/win11/prepare/begin/start.sh /etc/libvirt/hooks/qemu.d/win11/prepare/begin/
+sudo cp libvirt-hooks/qemu.d/win11/release/end/revert.sh /etc/libvirt/hooks/qemu.d/win11/release/end/
+sudo chmod +x /etc/libvirt/hooks/qemu \
+  /etc/libvirt/hooks/qemu.d/win11/prepare/begin/start.sh \
+  /etc/libvirt/hooks/qemu.d/win11/release/end/revert.sh
+
 echo "Done. Restart polybar to pick up the new font."
