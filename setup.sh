@@ -5,6 +5,15 @@ echo "Installing packages..."
 sudo pacman -S --needed - < pkglist-repo.txt
 yay -S --needed - < pkglist-aur.txt
 
+echo "Installing oh-my-zsh..."
+[ -d "$HOME/.oh-my-zsh" ] || git clone https://github.com/ohmyzsh/ohmyzsh.git "$HOME/.oh-my-zsh"
+
+echo "Installing oh-my-zsh custom plugins..."
+ZSH_CUSTOM="${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}"
+[ -d "$ZSH_CUSTOM/plugins/zsh-autosuggestions" ] || git clone https://github.com/zsh-users/zsh-autosuggestions "$ZSH_CUSTOM/plugins/zsh-autosuggestions"
+[ -d "$ZSH_CUSTOM/plugins/zsh-syntax-highlighting" ] || git clone https://github.com/zsh-users/zsh-syntax-highlighting.git "$ZSH_CUSTOM/plugins/zsh-syntax-highlighting"
+[ -d "$ZSH_CUSTOM/themes/powerlevel10k" ] || git clone https://github.com/romkatv/powerlevel10k.git "$ZSH_CUSTOM/themes/powerlevel10k"
+
 echo "Installing fonts..."
 FONT_DIR="$HOME/.local/share/fonts/petiglyph"
 mkdir -p "$FONT_DIR"
@@ -50,6 +59,9 @@ echo "   sudo cp libvirt-hooks/{patch.rom,SSDT1.dat} /home/\$USER/"
 echo "   # Edit win11.xml: fix ISO and disk paths"
 echo "   sudo virsh define libvirt-hooks/win11.xml"
 echo ""
-echo "5. Check PCI addresses in libvirt-hooks/kvm.conf"
+echo "5. Clone fzf-git.sh:"
+echo "   git clone https://github.com/junegunn/fzf-git.sh.git ~/fzf-git.sh"
+echo ""
+echo "6. Check PCI addresses in libvirt-hooks/kvm.conf"
 echo "   Update if different hardware"
 echo ""
