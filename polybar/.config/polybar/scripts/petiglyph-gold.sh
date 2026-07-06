@@ -12,16 +12,15 @@ GL_HEX=(
 10017E
 )
 I=0
-PRICE="?"
 S=0
 
 while true; do
-  NOW=$(date +%s)
-  if (( NOW - S >= 30 )); then
-    PRICE=$(curl -s http://localhost:8765/api/price | python3 -c "import sys,json; d=json.load(sys.stdin); print(f\"{d['gram_24k_aed']} AED\")" 2>/dev/null)
-    PRICE=${PRICE:-?}
-    S=$NOW
-  fi
+    NOW=$(date +%s)
+    if (( NOW - S >= 1 )); then
+        PRICE=$(curl -s http://localhost:8765/api/price | python3 -c "import sys,json; d=json.load(sys.stdin); print(f\"{d['gram_24k_aed']} AED\")" 2>/dev/null)
+        PRICE=${PRICE:-?}
+        S=$NOW
+    fi
   printf "\U${GL_HEX[$I]} $PRICE\n"
   ((I = (I + 1) % ${#GL_HEX[@]}))
   sleep 0.033
