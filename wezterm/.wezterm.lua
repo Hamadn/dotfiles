@@ -17,66 +17,7 @@ config.enable_tab_bar = false
 
 config.color_scheme = "Hemisu Dark (Gogh)"
 
-config.unix_domains = {
-	{ name = "shared" },
-}
-config.default_domain = "shared"
-
-local project_dirs = {
-	wezterm.home_dir .. "/dotfiles",
-}
-
-local projects_path = wezterm.home_dir .. "/Projects"
-local ok, entries = pcall(wezterm.glob, projects_path .. "/*")
-if ok and entries then
-	for _, dir in ipairs(entries) do
-		table.insert(project_dirs, dir)
-	end
-end
-
-local function choose_project()
-	local choices = {}
-	for _, dir in ipairs(project_dirs) do
-		local name = dir:match("/([^/]+)$")
-		table.insert(choices, { label = name, id = dir })
-	end
-	table.sort(choices, function(a, b)
-		return a.label < b.label
-	end)
-
-	return wezterm.action.InputSelector({
-		title = "Open Project",
-		fuzzy = true,
-		choices = choices,
-		action = wezterm.action_callback(function(win, pane, id)
-			if not id then
-				return
-			end
-			win:perform_action(
-				wezterm.action.SwitchToWorkspace({
-					name = id:match("([^/]+)$"),
-					spawn = { cwd = id },
-				}),
-				pane
-			)
-		end),
-	})
-end
-
-config.keys = {
-	{
-		key = "p",
-		mods = "CTRL|SHIFT",
-		action = choose_project(),
-	},
-	{
-		key = "f",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.ShowLauncherArgs({
-			flags = "FUZZY|WORKSPACES",
-		}),
-	},
-}
+config.keys = {}
 
 wezterm.on("user-var-changed", function(window, pane, name, value)
 	local overrides = window:get_config_overrides() or {}

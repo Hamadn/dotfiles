@@ -22,7 +22,7 @@ font pango:Iosevka Nerd Font Mono 12
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
-exec --no-startup-id wezterm start --daemonize
+
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
@@ -30,6 +30,7 @@ exec --no-startup-id wezterm start --daemonize
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+exec --no-startup-id clipmenud
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
@@ -45,6 +46,7 @@ bindcode $mod+71 exec --no-startup-id brightnessctl set 10%- && $refresh_i3statu
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 bindsym $mod+P exec flameshot full
+bindsym $mod+Shift+P exec --no-startup-id QT_QPA_PLATFORM=xcb flameshot gui
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
@@ -56,9 +58,22 @@ tiling_drag modifier titlebar
 # start a terminal
 bindsym $mod+k exec --no-startup-id wezterm start
 
-# scratchpad terminal (show if alive, spawn otherwise)
-for_window [class="wezterm-scratch"] move to scratchpad
-bindsym $mod+Return exec --no-startup-id "i3-msg '[class=wezterm-scratch] scratchpad show' 2>/dev/null || wezterm start --class wezterm-scratch"
+# scratchpad terminal
+for_window [instance="scratchpad"] move to scratchpad
+for_window [class="flameshot"] floating enable, border none, fullscreen enable
+bindsym $mod+Return exec --no-startup-id \
+  "i3-msg '[instance=scratchpad] scratchpad show' 2>/dev/null || wezterm start --class scratchpad"
+
+# clipboard history
+bindsym $mod+v exec --no-startup-id \
+  CM_LAUNCHER=/home/hamad/.local/bin/dmenu CM_HISTLENGTH=15 clipmenu -b -fn 'Iosevka Nerd Font Mono-14' -nb '#011628' -nf '#CBE0F0' -sb '#143652' -sf '#2CF9ED'
+
+# process killer
+bindsym $mod+Escape exec --no-startup-id ~/.config/i3/scripts/process-kill.sh
+
+# open project
+bindsym $mod+o exec --no-startup-id \
+  "find ~/Projects ~/dotfiles -mindepth 1 -maxdepth 2 -type d | /home/hamad/.local/bin/dmenu -c -l 15 -p 'Project:' -fn 'Iosevka Nerd Font Mono-14' -nb '#011628' -nf '#CBE0F0' -sb '#143652' -sf '#2CF9ED' | xargs -r wezterm start --cwd"
 
 # kill focused window
 bindsym $mod+c kill
@@ -71,13 +86,12 @@ bindsym $mod+Mod1+w exec --no-startup-id /home/hamad/Applications/winboat-0.8.5-
 bindsym $mod+Mod1+s exec --no-startup-id /home/hamad/Downloads/SoulseekQt-2024-6-30.AppImage
 
 
-bindsym Print exec flameshot full
-
 # start i3lock
 bindsym $mod+l exec --no-startup-id i3lock
 
 # start dmenu (a program launcher)
-bindsym $mod+w exec --no-startup-id dmenu_run
+bindsym $mod+w exec --no-startup-id \
+  "dmenu_path | /home/hamad/.local/bin/dmenu -c -l 15 -fn 'Iosevka Nerd Font Mono-14' -nb '#011628' -nf '#CBE0F0' -sb '#143652' -sf '#2CF9ED' | sh"
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
@@ -112,7 +126,7 @@ bindsym $mod+Shift+Right move right
 bindsym $mod+h split h
 
 # split in vertical orientation
-bindsym $mod+v split v
+bindsym $mod+Ctrl+v split v
 
 # enter fullscreen mode for the focused container
 bindsym $mod+f fullscreen toggle

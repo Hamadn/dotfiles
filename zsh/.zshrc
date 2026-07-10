@@ -40,7 +40,6 @@ source <(devpod completion zsh)
 # ---------------------------------------------------------------------------
 export ZSH="$HOME/.oh-my-zsh"
 export ZETTELKASTEN="$HOME/void-brain/"
-export WAYLAND_DISPLAY=wayland-1
 export VISUAL=nvim
 export EDITOR=nvim
 export BROWSER="zen-browser"
