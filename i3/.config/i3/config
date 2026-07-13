@@ -73,7 +73,7 @@ bindsym $mod+Escape exec --no-startup-id ~/.config/i3/scripts/process-kill.sh
 
 # open project
 bindsym $mod+o exec --no-startup-id \
-  "find ~/Projects ~/dotfiles -mindepth 1 -maxdepth 2 -type d | /home/hamad/.local/bin/dmenu -c -l 15 -p 'Project:' -fn 'Iosevka Nerd Font Mono-14' -nb '#011628' -nf '#CBE0F0' -sb '#143652' -sf '#2CF9ED' | xargs -r wezterm start --cwd"
+  "getfattr -d --absolute-names ~/*/ 2>/dev/null | sed -n '/^# file: /h; /^user.project=/ { x; s/^# file: //p }' | /home/hamad/.local/bin/dmenu -c -l 15 -p 'Project:' -fn 'Iosevka Nerd Font Mono-14' -nb '#011628' -nf '#CBE0F0' -sb '#143652' -sf '#2CF9ED' | xargs -r wezterm start --cwd"
 
 # kill focused window
 bindsym $mod+c kill
