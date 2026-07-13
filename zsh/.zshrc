@@ -1,7 +1,6 @@
 # =============================================================================
 #  .zshrc — Zsh configuration
 # =============================================================================
-
 # ---------------------------------------------------------------------------
 #  1. EARLY STARTUP — compinit & instant prompt
 # ---------------------------------------------------------------------------
@@ -32,7 +31,7 @@ if type brew &>/dev/null; then
   FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
 fi
 source <(kubectl completion zsh)
-source <(devpod completion zsh)
+
 [ -s "/home/hamad/.bun/_bun" ] && source "/home/hamad/.bun/_bun"
 
 # ---------------------------------------------------------------------------
@@ -50,7 +49,7 @@ export TERM="tmux-256color"
 # ---------------------------------------------------------------------------
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
-plugins=(git web-search zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git web-search sudo command-not-found zsh-autosuggestions zsh-syntax-highlighting)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -74,6 +73,9 @@ alias lg="lazygit"
 alias cd="z"
 alias zrc="v ~/.zshrc"
 alias ls="eza --icons=always"
+alias tree="eza --tree --icons=always --git-ignore"
+alias tag="setfattr -n user.project -v 1"
+alias untag="setfattr -x user.project"
 
 # ---------------------------------------------------------------------------
 #  8. ZOXIDE — smart cd
@@ -123,15 +125,11 @@ _fzf_comprun() {
 }
 
 # ---------------------------------------------------------------------------
-# 10. THEFUCK — command correction
-# ---------------------------------------------------------------------------
-eval $(thefuck --alias)
-eval $(thefuck --alias fk)
-
-# ---------------------------------------------------------------------------
 # 11. BAT — better cat
 # ---------------------------------------------------------------------------
-export BAT_THEME=tokyonight_night
+export GROFF_NO_SGR=1
+export MANPAGER="sh -c 'col -bx | bat -l man -p'"
+alias -s {md,txt,json,yaml,yml,toml}=nvim
 
 # ---------------------------------------------------------------------------
 # 12. YAZI — terminal file manager
@@ -145,29 +143,5 @@ function yy() {
   rm -f -- "$tmp"
 }
 
-# ---------------------------------------------------------------------------
-# 13. LANGUAGE RUNTIMES
-# ---------------------------------------------------------------------------
 
-# NVM — Node Version Manager
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
-
-# Conda — Python environment manager
-__conda_setup="$('/home/hamad/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/home/hamad/anaconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/hamad/anaconda3/etc/profile.d/conda.sh"
-    else
-        export PATH="/home/hamad/anaconda3/bin:$PATH"
-    fi
-fi
-unset __conda_setup
-
-# ---------------------------------------------------------------------------
-# 14. OTHER
-# ---------------------------------------------------------------------------
 
