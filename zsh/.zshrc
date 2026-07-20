@@ -30,6 +30,7 @@ export PATH="/home/hamad/.opencode/bin:$PATH"
 if type brew &>/dev/null; then
   FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
 fi
+source <(gh completion -s zsh)
 source <(kubectl completion zsh)
 
 [ -s "/home/hamad/.bun/_bun" ] && source "/home/hamad/.bun/_bun"
@@ -64,6 +65,7 @@ bindkey "^[[B" history-search-forward
 # ---------------------------------------------------------------------------
 #  7. ALIASES
 # ---------------------------------------------------------------------------
+ghrc() { gh repo create "$@" --public --clone; }
 alias v="nvim"
 alias cl="clear"
 alias tmain="tmux new-session -A -s main"
